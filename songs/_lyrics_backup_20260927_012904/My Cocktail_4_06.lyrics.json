@@ -1,0 +1,1643 @@
+{
+  "title": "My Cocktail",
+  "source": "My cocktail.txt",
+  "timing": "audio-aligned ASR; lines marked estimated were interpolated between recognized vocals",
+  "lines": [
+    {
+      "t": 10.96,
+      "end": 14.7,
+      "text": "The menu is a blur of heavy ink.",
+      "words": [
+        {
+          "t": 10.96,
+          "end": 11.88,
+          "text": "The"
+        },
+        {
+          "t": 11.88,
+          "end": 12.36,
+          "text": "menu"
+        },
+        {
+          "t": 12.36,
+          "end": 12.74,
+          "text": "is"
+        },
+        {
+          "t": 12.74,
+          "end": 12.96,
+          "text": "a"
+        },
+        {
+          "t": 12.96,
+          "end": 13.32,
+          "text": "blur"
+        },
+        {
+          "t": 13.32,
+          "end": 13.64,
+          "text": "of"
+        },
+        {
+          "t": 13.64,
+          "end": 14.18,
+          "text": "heavy"
+        },
+        {
+          "t": 14.18,
+          "end": 14.7,
+          "text": "ink."
+        }
+      ]
+    },
+    {
+      "t": 15.94,
+      "end": 19.36,
+      "text": "I’m tracing circles on the napkin’s edge.",
+      "words": [
+        {
+          "t": 15.94,
+          "end": 16.86,
+          "text": "I’m"
+        },
+        {
+          "t": 16.86,
+          "end": 17.04,
+          "text": "tracing"
+        },
+        {
+          "t": 17.04,
+          "end": 17.6,
+          "text": "circles"
+        },
+        {
+          "t": 17.6,
+          "end": 18.06,
+          "text": "on"
+        },
+        {
+          "t": 18.06,
+          "end": 18.26,
+          "text": "the"
+        },
+        {
+          "t": 18.18,
+          "end": 18.93,
+          "text": "napkin’s"
+        },
+        {
+          "t": 18.93,
+          "end": 19.36,
+          "text": "edge."
+        }
+      ]
+    },
+    {
+      "t": 21.2,
+      "end": 25.17,
+      "text": "One seat empty, one glass full.",
+      "words": [
+        {
+          "t": 21.2,
+          "end": 22.12,
+          "text": "One"
+        },
+        {
+          "t": 22.12,
+          "end": 22.42,
+          "text": "seat"
+        },
+        {
+          "t": 22.42,
+          "end": 22.84,
+          "text": "empty,"
+        },
+        {
+          "t": 23.02,
+          "end": 24.18,
+          "text": "one"
+        },
+        {
+          "t": 24.18,
+          "end": 24.76,
+          "text": "glass"
+        },
+        {
+          "t": 24.51,
+          "end": 25.17,
+          "text": "full."
+        }
+      ]
+    },
+    {
+      "t": 25.2,
+      "end": 29.79,
+      "text": "Just the weight of a quiet pledge.",
+      "words": [
+        {
+          "t": 25.2,
+          "end": 25.88,
+          "text": "Just"
+        },
+        {
+          "t": 27.04,
+          "end": 27.4,
+          "text": "the"
+        },
+        {
+          "t": 27.4,
+          "end": 27.78,
+          "text": "weight"
+        },
+        {
+          "t": 27.78,
+          "end": 28.44,
+          "text": "of"
+        },
+        {
+          "t": 28.44,
+          "end": 28.62,
+          "text": "a"
+        },
+        {
+          "t": 28.62,
+          "end": 29.26,
+          "text": "quiet"
+        },
+        {
+          "t": 28.77,
+          "end": 29.79,
+          "text": "pledge."
+        }
+      ]
+    },
+    {
+      "t": 31.48,
+      "end": 35.97,
+      "text": "Ice cubes spinning like a slow dancer.",
+      "words": [
+        {
+          "t": 31.48,
+          "end": 32.64,
+          "text": "Ice"
+        },
+        {
+          "t": 32.64,
+          "end": 33.0,
+          "text": "cubes"
+        },
+        {
+          "t": 33.0,
+          "end": 33.7,
+          "text": "spinning"
+        },
+        {
+          "t": 33.7,
+          "end": 34.14,
+          "text": "like"
+        },
+        {
+          "t": 34.14,
+          "end": 34.48,
+          "text": "a"
+        },
+        {
+          "t": 34.48,
+          "end": 34.8,
+          "text": "slow"
+        },
+        {
+          "t": 35.1,
+          "end": 35.97,
+          "text": "dancer."
+        }
+      ]
+    },
+    {
+      "t": 36.0,
+      "end": 40.6,
+      "text": "Clinking secrets in a crystal cage.",
+      "words": [
+        {
+          "t": 36.0,
+          "end": 37.94,
+          "text": "Clinking"
+        },
+        {
+          "t": 37.94,
+          "end": 38.38,
+          "text": "secrets"
+        },
+        {
+          "t": 38.38,
+          "end": 38.86,
+          "text": "in"
+        },
+        {
+          "t": 38.86,
+          "end": 39.04,
+          "text": "a"
+        },
+        {
+          "t": 39.04,
+          "end": 39.82,
+          "text": "crystal"
+        },
+        {
+          "t": 39.82,
+          "end": 40.6,
+          "text": "cage."
+        }
+      ]
+    },
+    {
+      "t": 41.9,
+      "end": 46.19,
+      "text": "I’m looking for a different answer.",
+      "words": [
+        {
+          "t": 41.9,
+          "end": 43.06,
+          "text": "I’m"
+        },
+        {
+          "t": 43.06,
+          "end": 43.48,
+          "text": "looking"
+        },
+        {
+          "t": 43.48,
+          "end": 43.92,
+          "text": "for"
+        },
+        {
+          "t": 43.92,
+          "end": 44.28,
+          "text": "a"
+        },
+        {
+          "t": 44.28,
+          "end": 44.86,
+          "text": "different"
+        },
+        {
+          "t": 45.27,
+          "end": 46.19,
+          "text": "answer."
+        }
+      ]
+    },
+    {
+      "t": 46.22,
+      "end": 49.96,
+      "text": "Turning over a soaked page.",
+      "words": [
+        {
+          "t": 46.22,
+          "end": 48.16,
+          "text": "Turning"
+        },
+        {
+          "t": 48.16,
+          "end": 48.9,
+          "text": "over"
+        },
+        {
+          "t": 48.09,
+          "end": 48.26,
+          "text": "a"
+        },
+        {
+          "t": 48.26,
+          "end": 49.28,
+          "text": "soaked"
+        },
+        {
+          "t": 49.28,
+          "end": 49.96,
+          "text": "page."
+        }
+      ]
+    },
+    {
+      "t": 51.92,
+      "end": 54.98,
+      "text": "A swirl of amber light.",
+      "words": [
+        {
+          "t": 51.92,
+          "end": 52.78,
+          "text": "A"
+        },
+        {
+          "t": 52.78,
+          "end": 53.22,
+          "text": "swirl"
+        },
+        {
+          "t": 53.22,
+          "end": 53.6,
+          "text": "of"
+        },
+        {
+          "t": 53.6,
+          "end": 54.24,
+          "text": "amber"
+        },
+        {
+          "t": 54.13,
+          "end": 54.98,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 55.26,
+      "end": 57.61,
+      "text": "Mixed with the sapphire night.",
+      "words": [
+        {
+          "t": 55.26,
+          "end": 55.76,
+          "text": "Mixed"
+        },
+        {
+          "t": 55.76,
+          "end": 56.06,
+          "text": "with"
+        },
+        {
+          "t": 56.06,
+          "end": 56.3,
+          "text": "the"
+        },
+        {
+          "t": 56.3,
+          "end": 57.2,
+          "text": "sapphire"
+        },
+        {
+          "t": 57.14,
+          "end": 57.61,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 57.64,
+      "end": 60.26,
+      "text": "My cocktail blue, my cocktail blue.",
+      "words": [
+        {
+          "t": 57.64,
+          "end": 58.06,
+          "text": "My"
+        },
+        {
+          "t": 58.06,
+          "end": 58.66,
+          "text": "cocktail"
+        },
+        {
+          "t": 58.66,
+          "end": 59.06,
+          "text": "blue,"
+        },
+        {
+          "t": 59.22,
+          "end": 59.42,
+          "text": "my"
+        },
+        {
+          "t": 59.42,
+          "end": 59.84,
+          "text": "cocktail"
+        },
+        {
+          "t": 59.84,
+          "end": 60.26,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 60.44,
+      "end": 62.87,
+      "text": "Drowning the ghost of you.",
+      "words": [
+        {
+          "t": 60.44,
+          "end": 61.12,
+          "text": "Drowning"
+        },
+        {
+          "t": 61.12,
+          "end": 61.52,
+          "text": "the"
+        },
+        {
+          "t": 61.52,
+          "end": 62.06,
+          "text": "ghost"
+        },
+        {
+          "t": 62.06,
+          "end": 62.56,
+          "text": "of"
+        },
+        {
+          "t": 62.52,
+          "end": 62.87,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "t": 62.9,
+      "end": 65.5,
+      "text": "A swirl of amber light.",
+      "words": [
+        {
+          "t": 62.9,
+          "end": 63.34,
+          "text": "A"
+        },
+        {
+          "t": 63.34,
+          "end": 63.66,
+          "text": "swirl"
+        },
+        {
+          "t": 63.66,
+          "end": 64.02,
+          "text": "of"
+        },
+        {
+          "t": 64.02,
+          "end": 64.68,
+          "text": "amber"
+        },
+        {
+          "t": 64.68,
+          "end": 65.5,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 65.86,
+      "end": 68.05,
+      "text": "Bittersweet and holding tight.",
+      "words": [
+        {
+          "t": 65.86,
+          "end": 66.7,
+          "text": "Bittersweet"
+        },
+        {
+          "t": 66.7,
+          "end": 67.28,
+          "text": "and"
+        },
+        {
+          "t": 67.28,
+          "end": 67.68,
+          "text": "holding"
+        },
+        {
+          "t": 67.63,
+          "end": 68.05,
+          "text": "tight."
+        }
+      ]
+    },
+    {
+      "t": 68.08,
+      "end": 70.7,
+      "text": "My cocktail blue, my cocktail blue.",
+      "words": [
+        {
+          "t": 68.08,
+          "end": 68.52,
+          "text": "My"
+        },
+        {
+          "t": 68.52,
+          "end": 69.1,
+          "text": "cocktail"
+        },
+        {
+          "t": 69.1,
+          "end": 69.52,
+          "text": "blue,"
+        },
+        {
+          "t": 69.64,
+          "end": 69.82,
+          "text": "my"
+        },
+        {
+          "t": 69.82,
+          "end": 70.3,
+          "text": "cocktail"
+        },
+        {
+          "t": 70.3,
+          "end": 70.7,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 70.94,
+      "end": 74.42,
+      "text": "Beautiful and lonely too.",
+      "words": [
+        {
+          "t": 70.94,
+          "end": 71.6,
+          "text": "Beautiful"
+        },
+        {
+          "t": 71.6,
+          "end": 72.96,
+          "text": "and"
+        },
+        {
+          "t": 72.96,
+          "end": 73.6,
+          "text": "lonely"
+        },
+        {
+          "t": 73.6,
+          "end": 74.42,
+          "text": "too."
+        }
+      ]
+    },
+    {
+      "t": 84.18,
+      "end": 87.79,
+      "text": "Traffic lights bleed through the glass.",
+      "words": [
+        {
+          "t": 84.18,
+          "end": 85.26,
+          "text": "Traffic"
+        },
+        {
+          "t": 85.26,
+          "end": 85.78,
+          "text": "lights"
+        },
+        {
+          "t": 85.78,
+          "end": 86.38,
+          "text": "bleed"
+        },
+        {
+          "t": 86.38,
+          "end": 87.08,
+          "text": "through"
+        },
+        {
+          "t": 87.08,
+          "end": 87.3,
+          "text": "the"
+        },
+        {
+          "t": 87.24,
+          "end": 87.79,
+          "text": "glass."
+        }
+      ]
+    },
+    {
+      "t": 87.82,
+      "end": 92.58,
+      "text": "Red and yellow swimming in the gin.",
+      "words": [
+        {
+          "t": 87.82,
+          "end": 88.33,
+          "text": "Red"
+        },
+        {
+          "t": 89.78,
+          "end": 89.94,
+          "text": "and"
+        },
+        {
+          "t": 89.94,
+          "end": 90.44,
+          "text": "yellow"
+        },
+        {
+          "t": 90.44,
+          "end": 91.02,
+          "text": "swimming"
+        },
+        {
+          "t": 91.02,
+          "end": 91.72,
+          "text": "in"
+        },
+        {
+          "t": 91.72,
+          "end": 92.12,
+          "text": "the"
+        },
+        {
+          "t": 92.07,
+          "end": 92.58,
+          "text": "gin."
+        }
+      ]
+    },
+    {
+      "t": 94.74,
+      "end": 98.12,
+      "text": "Watching every stranger pass.",
+      "words": [
+        {
+          "t": 94.74,
+          "end": 95.82,
+          "text": "Watching"
+        },
+        {
+          "t": 95.82,
+          "end": 96.3,
+          "text": "every"
+        },
+        {
+          "t": 96.3,
+          "end": 97.28,
+          "text": "stranger"
+        },
+        {
+          "t": 97.28,
+          "end": 98.12,
+          "text": "pass."
+        }
+      ]
+    },
+    {
+      "t": 99.5,
+      "end": 103.1,
+      "text": "Wondering where the dark begins.",
+      "words": [
+        {
+          "t": 99.5,
+          "end": 100.58,
+          "text": "Wondering"
+        },
+        {
+          "t": 100.58,
+          "end": 101.46,
+          "text": "where"
+        },
+        {
+          "t": 101.46,
+          "end": 101.66,
+          "text": "the"
+        },
+        {
+          "t": 101.66,
+          "end": 102.28,
+          "text": "dark"
+        },
+        {
+          "t": 102.28,
+          "end": 103.1,
+          "text": "begins."
+        }
+      ]
+    },
+    {
+      "t": 104.42,
+      "end": 107.91,
+      "text": "I almost dial the number I erased.",
+      "words": [
+        {
+          "t": 104.42,
+          "end": 105.5,
+          "text": "I"
+        },
+        {
+          "t": 105.5,
+          "end": 105.84,
+          "text": "almost"
+        },
+        {
+          "t": 105.84,
+          "end": 106.14,
+          "text": "dial"
+        },
+        {
+          "t": 106.14,
+          "end": 106.34,
+          "text": "the"
+        },
+        {
+          "t": 106.34,
+          "end": 106.88,
+          "text": "number"
+        },
+        {
+          "t": 106.88,
+          "end": 107.32,
+          "text": "I"
+        },
+        {
+          "t": 107.13,
+          "end": 107.91,
+          "text": "erased."
+        }
+      ]
+    },
+    {
+      "t": 107.94,
+      "end": 110.53,
+      "text": "But the lemon zest stings my tongue.",
+      "words": [
+        {
+          "t": 107.94,
+          "end": 108.28,
+          "text": "But"
+        },
+        {
+          "t": 108.21,
+          "end": 108.48,
+          "text": "the"
+        },
+        {
+          "t": 108.28,
+          "end": 108.72,
+          "text": "lemon"
+        },
+        {
+          "t": 108.72,
+          "end": 109.18,
+          "text": "zest"
+        },
+        {
+          "t": 109.18,
+          "end": 109.86,
+          "text": "stings"
+        },
+        {
+          "t": 109.86,
+          "end": 110.12,
+          "text": "my"
+        },
+        {
+          "t": 109.99,
+          "end": 110.53,
+          "text": "tongue."
+        }
+      ]
+    },
+    {
+      "t": 110.56,
+      "end": 113.08,
+      "text": "A thousand words I never faced.",
+      "words": [
+        {
+          "t": 110.56,
+          "end": 111.08,
+          "text": "A"
+        },
+        {
+          "t": 111.08,
+          "end": 111.44,
+          "text": "thousand"
+        },
+        {
+          "t": 111.44,
+          "end": 111.9,
+          "text": "words"
+        },
+        {
+          "t": 111.9,
+          "end": 112.28,
+          "text": "I"
+        },
+        {
+          "t": 112.28,
+          "end": 112.58,
+          "text": "never"
+        },
+        {
+          "t": 112.58,
+          "end": 113.08,
+          "text": "faced."
+        }
+      ]
+    },
+    {
+      "t": 113.3,
+      "end": 116.24,
+      "text": "Left like a song that’s half-unsung.",
+      "words": [
+        {
+          "t": 113.3,
+          "end": 113.56,
+          "text": "Left"
+        },
+        {
+          "t": 113.56,
+          "end": 113.86,
+          "text": "like"
+        },
+        {
+          "t": 113.86,
+          "end": 114.18,
+          "text": "a"
+        },
+        {
+          "t": 114.18,
+          "end": 114.58,
+          "text": "song"
+        },
+        {
+          "t": 114.58,
+          "end": 115.06,
+          "text": "that’s"
+        },
+        {
+          "t": 115.24,
+          "end": 116.24,
+          "text": "half-unsung."
+        }
+      ]
+    },
+    {
+      "t": 117.2,
+      "end": 120.23,
+      "text": "A swirl of amber light.",
+      "words": [
+        {
+          "t": 117.2,
+          "end": 118.08,
+          "text": "A"
+        },
+        {
+          "t": 118.08,
+          "end": 118.44,
+          "text": "swirl"
+        },
+        {
+          "t": 118.44,
+          "end": 118.86,
+          "text": "of"
+        },
+        {
+          "t": 118.86,
+          "end": 119.38,
+          "text": "amber"
+        },
+        {
+          "t": 119.39,
+          "end": 120.23,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 120.26,
+      "end": 122.85,
+      "text": "Mixed with the sapphire night.",
+      "words": [
+        {
+          "t": 120.26,
+          "end": 121.06,
+          "text": "Mixed"
+        },
+        {
+          "t": 121.06,
+          "end": 121.24,
+          "text": "with"
+        },
+        {
+          "t": 121.24,
+          "end": 121.52,
+          "text": "the"
+        },
+        {
+          "t": 121.52,
+          "end": 122.44,
+          "text": "sapphire"
+        },
+        {
+          "t": 122.33,
+          "end": 122.85,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 122.88,
+      "end": 125.51,
+      "text": "My cocktail blue, my cocktail blue.",
+      "words": [
+        {
+          "t": 122.88,
+          "end": 123.32,
+          "text": "My"
+        },
+        {
+          "t": 123.32,
+          "end": 123.88,
+          "text": "cocktail"
+        },
+        {
+          "t": 123.88,
+          "end": 124.28,
+          "text": "blue,"
+        },
+        {
+          "t": 124.42,
+          "end": 124.64,
+          "text": "my"
+        },
+        {
+          "t": 124.64,
+          "end": 125.06,
+          "text": "cocktail"
+        },
+        {
+          "t": 125.13,
+          "end": 125.51,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 125.54,
+      "end": 128.09,
+      "text": "Drowning the ghost of you.",
+      "words": [
+        {
+          "t": 125.54,
+          "end": 126.52,
+          "text": "Drowning"
+        },
+        {
+          "t": 126.52,
+          "end": 126.7,
+          "text": "the"
+        },
+        {
+          "t": 126.88,
+          "end": 127.48,
+          "text": "ghost"
+        },
+        {
+          "t": 127.08,
+          "end": 127.76,
+          "text": "of"
+        },
+        {
+          "t": 127.73,
+          "end": 128.09,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "t": 128.12,
+      "end": 130.69,
+      "text": "A swirl of amber light.",
+      "words": [
+        {
+          "t": 128.12,
+          "end": 128.54,
+          "text": "A"
+        },
+        {
+          "t": 128.54,
+          "end": 128.86,
+          "text": "swirl"
+        },
+        {
+          "t": 128.86,
+          "end": 129.3,
+          "text": "of"
+        },
+        {
+          "t": 129.3,
+          "end": 129.78,
+          "text": "amber"
+        },
+        {
+          "t": 129.98,
+          "end": 130.69,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 130.72,
+      "end": 133.27,
+      "text": "Bittersweet and holding tight.",
+      "words": [
+        {
+          "t": 130.72,
+          "end": 131.94,
+          "text": "Bittersweet"
+        },
+        {
+          "t": 131.94,
+          "end": 132.5,
+          "text": "and"
+        },
+        {
+          "t": 132.5,
+          "end": 132.86,
+          "text": "holding"
+        },
+        {
+          "t": 132.78,
+          "end": 133.27,
+          "text": "tight."
+        }
+      ]
+    },
+    {
+      "t": 133.3,
+      "end": 135.93,
+      "text": "My cocktail blue, my cocktail blue.",
+      "words": [
+        {
+          "t": 133.3,
+          "end": 133.72,
+          "text": "My"
+        },
+        {
+          "t": 133.72,
+          "end": 134.28,
+          "text": "cocktail"
+        },
+        {
+          "t": 134.28,
+          "end": 134.74,
+          "text": "blue,"
+        },
+        {
+          "t": 134.84,
+          "end": 135.04,
+          "text": "my"
+        },
+        {
+          "t": 135.04,
+          "end": 135.48,
+          "text": "cocktail"
+        },
+        {
+          "t": 135.55,
+          "end": 135.93,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 135.96,
+      "end": 139.53,
+      "text": "Beautiful and lonely too.",
+      "words": [
+        {
+          "t": 135.96,
+          "end": 136.88,
+          "text": "Beautiful"
+        },
+        {
+          "t": 136.88,
+          "end": 138.18,
+          "text": "and"
+        },
+        {
+          "t": 138.18,
+          "end": 138.92,
+          "text": "lonely"
+        },
+        {
+          "t": 139.02,
+          "end": 139.53,
+          "text": "too."
+        }
+      ]
+    },
+    {
+      "t": 160.1,
+      "end": 163.2,
+      "text": "Let the gin wash the memories clean.",
+      "words": [
+        {
+          "t": 160.1,
+          "end": 160.42,
+          "text": "Let"
+        },
+        {
+          "t": 160.4,
+          "end": 160.66,
+          "text": "the"
+        },
+        {
+          "t": 160.66,
+          "end": 160.9,
+          "text": "gin"
+        },
+        {
+          "t": 161.14,
+          "end": 161.56,
+          "text": "wash"
+        },
+        {
+          "t": 161.56,
+          "end": 161.8,
+          "text": "the"
+        },
+        {
+          "t": 161.8,
+          "end": 162.4,
+          "text": "memories"
+        },
+        {
+          "t": 162.4,
+          "end": 163.2,
+          "text": "clean."
+        }
+      ]
+    },
+    {
+      "t": 164.78,
+      "end": 168.26,
+      "text": "Let the ice melt the spaces between.",
+      "words": [
+        {
+          "t": 164.78,
+          "end": 165.62,
+          "text": "Let"
+        },
+        {
+          "t": 165.62,
+          "end": 165.84,
+          "text": "the"
+        },
+        {
+          "t": 165.84,
+          "end": 166.26,
+          "text": "ice"
+        },
+        {
+          "t": 166.26,
+          "end": 166.72,
+          "text": "melt"
+        },
+        {
+          "t": 166.72,
+          "end": 167.02,
+          "text": "the"
+        },
+        {
+          "t": 167.02,
+          "end": 167.32,
+          "text": "spaces"
+        },
+        {
+          "t": 167.32,
+          "end": 168.26,
+          "text": "between."
+        }
+      ]
+    },
+    {
+      "t": 169.74,
+      "end": 173.99,
+      "text": "I’m not waiting, I’m just staying.",
+      "words": [
+        {
+          "t": 169.74,
+          "end": 170.66,
+          "text": "I’m"
+        },
+        {
+          "t": 170.66,
+          "end": 170.86,
+          "text": "not"
+        },
+        {
+          "t": 170.86,
+          "end": 171.46,
+          "text": "waiting,"
+        },
+        {
+          "t": 171.96,
+          "end": 173.28,
+          "text": "I’m"
+        },
+        {
+          "t": 173.28,
+          "end": 173.58,
+          "text": "just"
+        },
+        {
+          "t": 172.8,
+          "end": 173.99,
+          "text": "staying."
+        }
+      ]
+    },
+    {
+      "t": 175.88,
+      "end": 178.77,
+      "text": "In this velvet dream.",
+      "words": [
+        {
+          "t": 175.88,
+          "end": 176.8,
+          "text": "In"
+        },
+        {
+          "t": 176.8,
+          "end": 177.42,
+          "text": "this"
+        },
+        {
+          "t": 177.42,
+          "end": 178.1,
+          "text": "velvet"
+        },
+        {
+          "t": 177.92,
+          "end": 178.77,
+          "text": "dream."
+        }
+      ]
+    },
+    {
+      "t": 179.78,
+      "end": 182.81,
+      "text": "A swirl of amber light.",
+      "words": [
+        {
+          "t": 179.78,
+          "end": 180.7,
+          "text": "A"
+        },
+        {
+          "t": 180.7,
+          "end": 181.08,
+          "text": "swirl"
+        },
+        {
+          "t": 181.08,
+          "end": 181.44,
+          "text": "of"
+        },
+        {
+          "t": 181.44,
+          "end": 182.1,
+          "text": "amber"
+        },
+        {
+          "t": 181.97,
+          "end": 182.81,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 182.84,
+      "end": 185.45,
+      "text": "Mixed with the sapphire night.",
+      "words": [
+        {
+          "t": 182.84,
+          "end": 183.66,
+          "text": "Mixed"
+        },
+        {
+          "t": 183.66,
+          "end": 183.8,
+          "text": "with"
+        },
+        {
+          "t": 183.8,
+          "end": 184.14,
+          "text": "the"
+        },
+        {
+          "t": 184.14,
+          "end": 185.04,
+          "text": "sapphire"
+        },
+        {
+          "t": 184.93,
+          "end": 185.45,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 185.48,
+      "end": 188.13,
+      "text": "My cocktail blue, my cocktail blue.",
+      "words": [
+        {
+          "t": 185.48,
+          "end": 185.92,
+          "text": "My"
+        },
+        {
+          "t": 185.92,
+          "end": 186.5,
+          "text": "cocktail"
+        },
+        {
+          "t": 186.5,
+          "end": 186.88,
+          "text": "blue,"
+        },
+        {
+          "t": 187.04,
+          "end": 187.26,
+          "text": "my"
+        },
+        {
+          "t": 187.26,
+          "end": 187.68,
+          "text": "cocktail"
+        },
+        {
+          "t": 187.75,
+          "end": 188.13,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 188.16,
+      "end": 190.67,
+      "text": "Drowning the ghost of you.",
+      "words": [
+        {
+          "t": 188.16,
+          "end": 189.14,
+          "text": "Drowning"
+        },
+        {
+          "t": 189.14,
+          "end": 189.32,
+          "text": "the"
+        },
+        {
+          "t": 189.32,
+          "end": 189.76,
+          "text": "ghost"
+        },
+        {
+          "t": 189.76,
+          "end": 190.4,
+          "text": "of"
+        },
+        {
+          "t": 190.31,
+          "end": 190.67,
+          "text": "you."
+        }
+      ]
+    },
+    {
+      "t": 190.7,
+      "end": 193.41,
+      "text": "A swirl of amber light.",
+      "words": [
+        {
+          "t": 190.7,
+          "end": 191.12,
+          "text": "A"
+        },
+        {
+          "t": 191.12,
+          "end": 191.48,
+          "text": "swirl"
+        },
+        {
+          "t": 191.48,
+          "end": 191.9,
+          "text": "of"
+        },
+        {
+          "t": 191.9,
+          "end": 192.48,
+          "text": "amber"
+        },
+        {
+          "t": 192.66,
+          "end": 193.41,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 193.44,
+      "end": 195.89,
+      "text": "Bittersweet and holding tight.",
+      "words": [
+        {
+          "t": 193.44,
+          "end": 194.6,
+          "text": "Bittersweet"
+        },
+        {
+          "t": 194.6,
+          "end": 195.08,
+          "text": "and"
+        },
+        {
+          "t": 195.08,
+          "end": 195.52,
+          "text": "holding"
+        },
+        {
+          "t": 195.42,
+          "end": 195.89,
+          "text": "tight."
+        }
+      ]
+    },
+    {
+      "t": 195.92,
+      "end": 198.57,
+      "text": "My cocktail blue, my cocktail blue.",
+      "words": [
+        {
+          "t": 195.92,
+          "end": 196.34,
+          "text": "My"
+        },
+        {
+          "t": 196.34,
+          "end": 196.94,
+          "text": "cocktail"
+        },
+        {
+          "t": 196.94,
+          "end": 197.36,
+          "text": "blue,"
+        },
+        {
+          "t": 197.44,
+          "end": 197.68,
+          "text": "my"
+        },
+        {
+          "t": 197.68,
+          "end": 198.12,
+          "text": "cocktail"
+        },
+        {
+          "t": 198.19,
+          "end": 198.57,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 198.6,
+      "end": 202.17,
+      "text": "Beautiful and lonely too.",
+      "words": [
+        {
+          "t": 198.6,
+          "end": 199.48,
+          "text": "Beautiful"
+        },
+        {
+          "t": 199.48,
+          "end": 200.84,
+          "text": "and"
+        },
+        {
+          "t": 200.84,
+          "end": 201.62,
+          "text": "lonely"
+        },
+        {
+          "t": 201.66,
+          "end": 202.17,
+          "text": "too."
+        }
+      ]
+    },
+    {
+      "t": 209.4,
+      "end": 211.7,
+      "text": "Beautiful and lonely.",
+      "words": [
+        {
+          "t": 209.4,
+          "end": 210.32,
+          "text": "Beautiful"
+        },
+        {
+          "t": 210.32,
+          "end": 211.24,
+          "text": "and"
+        },
+        {
+          "t": 211.24,
+          "end": 211.7,
+          "text": "lonely."
+        }
+      ]
+    },
+    {
+      "t": 213.54,
+      "end": 215.74,
+      "text": "Just a swirl of light.",
+      "words": [
+        {
+          "t": 213.54,
+          "end": 214.46,
+          "text": "Just"
+        },
+        {
+          "t": 214.46,
+          "end": 214.74,
+          "text": "a"
+        },
+        {
+          "t": 214.74,
+          "end": 215.04,
+          "text": "swirl"
+        },
+        {
+          "t": 215.04,
+          "end": 215.38,
+          "text": "of"
+        },
+        {
+          "t": 215.38,
+          "end": 215.74,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 216.84,
+      "end": 218.24,
+      "text": "Cocktail blue.",
+      "words": [
+        {
+          "t": 216.84,
+          "end": 217.76,
+          "text": "Cocktail"
+        },
+        {
+          "t": 217.76,
+          "end": 218.24,
+          "text": "blue."
+        }
+      ]
+    },
+    {
+      "t": 220.72,
+      "end": 223.18,
+      "text": "One more round for the night.",
+      "words": [
+        {
+          "t": 220.72,
+          "end": 221.18,
+          "text": "One"
+        },
+        {
+          "t": 221.18,
+          "end": 221.5,
+          "text": "more"
+        },
+        {
+          "t": 221.5,
+          "end": 221.94,
+          "text": "round"
+        },
+        {
+          "t": 221.94,
+          "end": 222.4,
+          "text": "for"
+        },
+        {
+          "t": 222.4,
+          "end": 222.68,
+          "text": "the"
+        },
+        {
+          "t": 222.68,
+          "end": 223.18,
+          "text": "night."
+        }
+      ]
+    }
+  ]
+}

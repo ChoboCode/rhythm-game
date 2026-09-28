@@ -1,0 +1,1982 @@
+{
+ "title": "Break It Down",
+ "source": "break it down.txt",
+ "timing": "vocal-aligned-v2",
+ "lines": [
+  {
+   "t": 26.72,
+   "end": 29.36,
+   "text": "Tighten the grip on the edge of the seat",
+   "words": [
+    {
+     "t": 26.72,
+     "end": 27.42,
+     "text": "Tighten"
+    },
+    {
+     "t": 27.42,
+     "end": 27.72,
+     "text": "the"
+    },
+    {
+     "t": 27.72,
+     "end": 28.12,
+     "text": "grip"
+    },
+    {
+     "t": 28.12,
+     "end": 28.32,
+     "text": "on"
+    },
+    {
+     "t": 28.32,
+     "end": 28.62,
+     "text": "the"
+    },
+    {
+     "t": 28.62,
+     "end": 28.92,
+     "text": "edge"
+    },
+    {
+     "t": 28.92,
+     "end": 29.067,
+     "text": "of"
+    },
+    {
+     "t": 29.067,
+     "end": 29.213,
+     "text": "the"
+    },
+    {
+     "t": 29.213,
+     "end": 29.36,
+     "text": "seat"
+    }
+   ]
+  },
+  {
+   "t": 29.36,
+   "end": 32.15,
+   "text": "Another day on a dead-end street",
+   "words": [
+    {
+     "t": 29.36,
+     "end": 30.111,
+     "text": "Another"
+    },
+    {
+     "t": 30.111,
+     "end": 30.433,
+     "text": "day"
+    },
+    {
+     "t": 30.433,
+     "end": 30.648,
+     "text": "on"
+    },
+    {
+     "t": 30.648,
+     "end": 30.755,
+     "text": "a"
+    },
+    {
+     "t": 30.755,
+     "end": 31.506,
+     "text": "dead-end"
+    },
+    {
+     "t": 31.506,
+     "end": 32.15,
+     "text": "street"
+    }
+   ]
+  },
+  {
+   "t": 32.74,
+   "end": 35.18,
+   "text": "Clock on the wall is a hammer in my head",
+   "words": [
+    {
+     "t": 32.74,
+     "end": 33.24,
+     "text": "Clock"
+    },
+    {
+     "t": 33.24,
+     "end": 33.44,
+     "text": "on"
+    },
+    {
+     "t": 33.44,
+     "end": 33.74,
+     "text": "the"
+    },
+    {
+     "t": 33.74,
+     "end": 34.14,
+     "text": "wall"
+    },
+    {
+     "t": 34.14,
+     "end": 34.34,
+     "text": "is"
+    },
+    {
+     "t": 34.34,
+     "end": 34.44,
+     "text": "a"
+    },
+    {
+     "t": 34.44,
+     "end": 34.814,
+     "text": "hammer"
+    },
+    {
+     "t": 34.814,
+     "end": 34.936,
+     "text": "in"
+    },
+    {
+     "t": 34.936,
+     "end": 35.058,
+     "text": "my"
+    },
+    {
+     "t": 35.058,
+     "end": 35.18,
+     "text": "head"
+    }
+   ]
+  },
+  {
+   "t": 35.18,
+   "end": 37.34,
+   "text": "Counting every single word I never said",
+   "words": [
+    {
+     "t": 35.18,
+     "end": 35.98,
+     "text": "Counting"
+    },
+    {
+     "t": 35.98,
+     "end": 36.48,
+     "text": "every"
+    },
+    {
+     "t": 36.48,
+     "end": 36.723,
+     "text": "single"
+    },
+    {
+     "t": 36.723,
+     "end": 36.877,
+     "text": "word"
+    },
+    {
+     "t": 36.877,
+     "end": 37.031,
+     "text": "I"
+    },
+    {
+     "t": 37.031,
+     "end": 37.186,
+     "text": "never"
+    },
+    {
+     "t": 37.186,
+     "end": 37.34,
+     "text": "said"
+    }
+   ]
+  },
+  {
+   "t": 37.34,
+   "end": 40.22,
+   "text": "Walls are closing in, white noise loud",
+   "words": [
+    {
+     "t": 37.34,
+     "end": 37.84,
+     "text": "Walls"
+    },
+    {
+     "t": 37.84,
+     "end": 38.14,
+     "text": "are"
+    },
+    {
+     "t": 38.14,
+     "end": 38.84,
+     "text": "closing"
+    },
+    {
+     "t": 38.84,
+     "end": 39.04,
+     "text": "in,"
+    },
+    {
+     "t": 39.04,
+     "end": 39.54,
+     "text": "white"
+    },
+    {
+     "t": 39.54,
+     "end": 40.014,
+     "text": "noise"
+    },
+    {
+     "t": 40.014,
+     "end": 40.22,
+     "text": "loud"
+    }
+   ]
+  },
+  {
+   "t": 40.22,
+   "end": 42.752,
+   "text": "Searching for a face in a faceless crowd",
+   "words": [
+    {
+     "t": 40.22,
+     "end": 40.94,
+     "text": "Searching"
+    },
+    {
+     "t": 40.94,
+     "end": 41.14,
+     "text": "for"
+    },
+    {
+     "t": 41.14,
+     "end": 41.32,
+     "text": "a"
+    },
+    {
+     "t": 41.32,
+     "end": 41.64,
+     "text": "face"
+    },
+    {
+     "t": 41.64,
+     "end": 41.86,
+     "text": "in"
+    },
+    {
+     "t": 41.86,
+     "end": 42.02,
+     "text": "a"
+    },
+    {
+     "t": 42.02,
+     "end": 42.48,
+     "text": "faceless"
+    },
+    {
+     "t": 42.48,
+     "end": 42.752,
+     "text": "crowd"
+    }
+   ]
+  },
+  {
+   "t": 42.752,
+   "end": 45.84,
+   "text": "Digging my nails in the palm of my hand",
+   "words": [
+    {
+     "t": 42.752,
+     "end": 43.6,
+     "text": "Digging"
+    },
+    {
+     "t": 43.6,
+     "end": 44.16,
+     "text": "my"
+    },
+    {
+     "t": 44.16,
+     "end": 44.553,
+     "text": "nails"
+    },
+    {
+     "t": 44.553,
+     "end": 44.7,
+     "text": "in"
+    },
+    {
+     "t": 44.7,
+     "end": 44.86,
+     "text": "the"
+    },
+    {
+     "t": 44.86,
+     "end": 45.08,
+     "text": "palm"
+    },
+    {
+     "t": 45.08,
+     "end": 45.28,
+     "text": "of"
+    },
+    {
+     "t": 45.28,
+     "end": 45.48,
+     "text": "my"
+    },
+    {
+     "t": 45.48,
+     "end": 45.84,
+     "text": "hand"
+    }
+   ]
+  },
+  {
+   "t": 45.9,
+   "end": 47.288,
+   "text": "Trying to remember where I stand",
+   "words": [
+    {
+     "t": 45.9,
+     "end": 46.3,
+     "text": "Trying"
+    },
+    {
+     "t": 46.3,
+     "end": 46.74,
+     "text": "to"
+    },
+    {
+     "t": 46.74,
+     "end": 46.941,
+     "text": "remember"
+    },
+    {
+     "t": 46.941,
+     "end": 47.057,
+     "text": "where"
+    },
+    {
+     "t": 47.057,
+     "end": 47.172,
+     "text": "I"
+    },
+    {
+     "t": 47.172,
+     "end": 47.288,
+     "text": "stand"
+    }
+   ]
+  },
+  {
+   "t": 47.288,
+   "end": 50.3,
+   "text": "The pressure is rising",
+   "words": [
+    {
+     "t": 47.288,
+     "end": 48.48,
+     "text": "The"
+    },
+    {
+     "t": 48.48,
+     "end": 49.547,
+     "text": "pressure"
+    },
+    {
+     "t": 49.547,
+     "end": 49.84,
+     "text": "is"
+    },
+    {
+     "t": 49.84,
+     "end": 50.3,
+     "text": "rising"
+    }
+   ]
+  },
+  {
+   "t": 50.3,
+   "end": 53.21,
+   "text": "I’m losing my mind",
+   "words": [
+    {
+     "t": 50.3,
+     "end": 51.98,
+     "text": "I’m"
+    },
+    {
+     "t": 51.98,
+     "end": 52.3,
+     "text": "losing"
+    },
+    {
+     "t": 52.3,
+     "end": 52.66,
+     "text": "my"
+    },
+    {
+     "t": 52.66,
+     "end": 53.21,
+     "text": "mind"
+    }
+   ]
+  },
+  {
+   "t": 53.21,
+   "end": 56.34,
+   "text": "The fever is climbing",
+   "words": [
+    {
+     "t": 53.21,
+     "end": 53.66,
+     "text": "The"
+    },
+    {
+     "t": 53.66,
+     "end": 55.3,
+     "text": "fever"
+    },
+    {
+     "t": 55.3,
+     "end": 55.54,
+     "text": "is"
+    },
+    {
+     "t": 55.54,
+     "end": 56.34,
+     "text": "climbing"
+    }
+   ]
+  },
+  {
+   "t": 57.3,
+   "end": 59.83,
+   "text": "I’m leaving the dark behind",
+   "words": [
+    {
+     "t": 57.3,
+     "end": 57.74,
+     "text": "I’m"
+    },
+    {
+     "t": 57.74,
+     "end": 58.18,
+     "text": "leaving"
+    },
+    {
+     "t": 58.18,
+     "end": 58.32,
+     "text": "the"
+    },
+    {
+     "t": 58.32,
+     "end": 58.749,
+     "text": "dark"
+    },
+    {
+     "t": 58.749,
+     "end": 59.83,
+     "text": "behind"
+    }
+   ]
+  },
+  {
+   "t": 59.83,
+   "end": 60.77,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 59.83,
+     "end": 60.29,
+     "text": "Break"
+    },
+    {
+     "t": 60.29,
+     "end": 60.37,
+     "text": "it"
+    },
+    {
+     "t": 60.37,
+     "end": 60.77,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 66.18,
+   "end": 68.78,
+   "text": "Rip the floor from under my feet",
+   "estimated": true,
+   "words": [
+    {
+     "t": 66.18,
+     "end": 66.48,
+     "text": "Rip"
+    },
+    {
+     "t": 66.48,
+     "end": 66.78,
+     "text": "the"
+    },
+    {
+     "t": 66.78,
+     "end": 67.28,
+     "text": "floor"
+    },
+    {
+     "t": 67.28,
+     "end": 67.68,
+     "text": "from"
+    },
+    {
+     "t": 67.68,
+     "end": 68.18,
+     "text": "under"
+    },
+    {
+     "t": 68.18,
+     "end": 68.38,
+     "text": "my"
+    },
+    {
+     "t": 68.38,
+     "end": 68.78,
+     "text": "feet"
+    }
+   ]
+  },
+  {
+   "t": 76.68,
+   "end": 76.98,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 76.68,
+     "end": 76.816,
+     "text": "Break"
+    },
+    {
+     "t": 76.816,
+     "end": 76.871,
+     "text": "it"
+    },
+    {
+     "t": 76.871,
+     "end": 76.98,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 76.98,
+   "end": 77.28,
+   "text": "Make the liberation complete",
+   "estimated": true,
+   "words": [
+    {
+     "t": 76.98,
+     "end": 77.168,
+     "text": "Make"
+    },
+    {
+     "t": 77.168,
+     "end": 77.205,
+     "text": "the"
+    },
+    {
+     "t": 77.205,
+     "end": 77.243,
+     "text": "liberation"
+    },
+    {
+     "t": 77.243,
+     "end": 77.28,
+     "text": "complete"
+    }
+   ]
+  },
+  {
+   "t": 77.28,
+   "end": 77.58,
+   "text": "Shut it out, scream it loud",
+   "estimated": true,
+   "words": [
+    {
+     "t": 77.28,
+     "end": 77.455,
+     "text": "Shut"
+    },
+    {
+     "t": 77.455,
+     "end": 77.48,
+     "text": "it"
+    },
+    {
+     "t": 77.48,
+     "end": 77.505,
+     "text": "out,"
+    },
+    {
+     "t": 77.505,
+     "end": 77.53,
+     "text": "scream"
+    },
+    {
+     "t": 77.53,
+     "end": 77.555,
+     "text": "it"
+    },
+    {
+     "t": 77.555,
+     "end": 77.58,
+     "text": "loud"
+    }
+   ]
+  },
+  {
+   "t": 77.58,
+   "end": 77.88,
+   "text": "I am taking back the crown",
+   "estimated": true,
+   "words": [
+    {
+     "t": 77.58,
+     "end": 77.63,
+     "text": "I"
+    },
+    {
+     "t": 77.63,
+     "end": 77.68,
+     "text": "am"
+    },
+    {
+     "t": 77.68,
+     "end": 77.73,
+     "text": "taking"
+    },
+    {
+     "t": 77.73,
+     "end": 77.78,
+     "text": "back"
+    },
+    {
+     "t": 77.78,
+     "end": 77.83,
+     "text": "the"
+    },
+    {
+     "t": 77.83,
+     "end": 77.88,
+     "text": "crown"
+    }
+   ]
+  },
+  {
+   "t": 77.88,
+   "end": 78.96,
+   "text": "Break it down",
+   "estimated": true,
+   "words": [
+    {
+     "t": 77.88,
+     "end": 78.371,
+     "text": "Break"
+    },
+    {
+     "t": 78.371,
+     "end": 78.567,
+     "text": "it"
+    },
+    {
+     "t": 78.567,
+     "end": 78.96,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 79.38,
+   "end": 80.66,
+   "text": "Break it all down",
+   "words": [
+    {
+     "t": 79.38,
+     "end": 79.82,
+     "text": "Break"
+    },
+    {
+     "t": 79.82,
+     "end": 80.06,
+     "text": "it"
+    },
+    {
+     "t": 80.06,
+     "end": 80.26,
+     "text": "all"
+    },
+    {
+     "t": 80.26,
+     "end": 80.66,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 85.82,
+   "end": 87.3,
+   "text": "Sick of the script that you wrote for me",
+   "words": [
+    {
+     "t": 85.82,
+     "end": 86.26,
+     "text": "Sick"
+    },
+    {
+     "t": 86.26,
+     "end": 86.32,
+     "text": "of"
+    },
+    {
+     "t": 86.32,
+     "end": 86.38,
+     "text": "the"
+    },
+    {
+     "t": 86.38,
+     "end": 86.62,
+     "text": "script"
+    },
+    {
+     "t": 86.62,
+     "end": 86.78,
+     "text": "that"
+    },
+    {
+     "t": 86.78,
+     "end": 86.84,
+     "text": "you"
+    },
+    {
+     "t": 86.84,
+     "end": 87.0,
+     "text": "wrote"
+    },
+    {
+     "t": 87.0,
+     "end": 87.14,
+     "text": "for"
+    },
+    {
+     "t": 87.14,
+     "end": 87.3,
+     "text": "me"
+    }
+   ]
+  },
+  {
+   "t": 87.34,
+   "end": 88.74,
+   "text": "Locked in a cage but I found the key",
+   "words": [
+    {
+     "t": 87.34,
+     "end": 87.76,
+     "text": "Locked"
+    },
+    {
+     "t": 87.76,
+     "end": 87.827,
+     "text": "in"
+    },
+    {
+     "t": 87.827,
+     "end": 87.877,
+     "text": "a"
+    },
+    {
+     "t": 87.877,
+     "end": 88.04,
+     "text": "cage"
+    },
+    {
+     "t": 88.04,
+     "end": 88.14,
+     "text": "but"
+    },
+    {
+     "t": 88.14,
+     "end": 88.26,
+     "text": "I"
+    },
+    {
+     "t": 88.26,
+     "end": 88.44,
+     "text": "found"
+    },
+    {
+     "t": 88.44,
+     "end": 88.52,
+     "text": "the"
+    },
+    {
+     "t": 88.52,
+     "end": 88.74,
+     "text": "key"
+    }
+   ]
+  },
+  {
+   "t": 88.8,
+   "end": 90.31,
+   "text": "Every little doubt was a stone in my lungs",
+   "words": [
+    {
+     "t": 88.8,
+     "end": 89.08,
+     "text": "Every"
+    },
+    {
+     "t": 89.08,
+     "end": 89.372,
+     "text": "little"
+    },
+    {
+     "t": 89.372,
+     "end": 89.58,
+     "text": "doubt"
+    },
+    {
+     "t": 89.58,
+     "end": 89.64,
+     "text": "was"
+    },
+    {
+     "t": 89.64,
+     "end": 89.69,
+     "text": "a"
+    },
+    {
+     "t": 89.69,
+     "end": 89.84,
+     "text": "stone"
+    },
+    {
+     "t": 89.84,
+     "end": 89.96,
+     "text": "in"
+    },
+    {
+     "t": 89.96,
+     "end": 90.01,
+     "text": "my"
+    },
+    {
+     "t": 90.01,
+     "end": 90.31,
+     "text": "lungs"
+    }
+   ]
+  },
+  {
+   "t": 90.33,
+   "end": 91.66,
+   "text": "Drowning in the salt of a thousand tongues",
+   "words": [
+    {
+     "t": 90.33,
+     "end": 90.634,
+     "text": "Drowning"
+    },
+    {
+     "t": 90.634,
+     "end": 90.71,
+     "text": "in"
+    },
+    {
+     "t": 90.71,
+     "end": 90.824,
+     "text": "the"
+    },
+    {
+     "t": 90.824,
+     "end": 90.976,
+     "text": "salt"
+    },
+    {
+     "t": 90.976,
+     "end": 91.052,
+     "text": "of"
+    },
+    {
+     "t": 91.052,
+     "end": 91.102,
+     "text": "a"
+    },
+    {
+     "t": 91.102,
+     "end": 91.394,
+     "text": "thousand"
+    },
+    {
+     "t": 91.394,
+     "end": 91.66,
+     "text": "tongues"
+    }
+   ]
+  },
+  {
+   "t": 91.8,
+   "end": 93.0,
+   "text": "I don’t need a reason, I don’t need a sign",
+   "words": [
+    {
+     "t": 91.8,
+     "end": 91.9,
+     "text": "I"
+    },
+    {
+     "t": 91.9,
+     "end": 92.02,
+     "text": "don’t"
+    },
+    {
+     "t": 92.02,
+     "end": 92.12,
+     "text": "need"
+    },
+    {
+     "t": 92.12,
+     "end": 92.265,
+     "text": "a"
+    },
+    {
+     "t": 92.265,
+     "end": 92.36,
+     "text": "reason,"
+    },
+    {
+     "t": 92.36,
+     "end": 92.46,
+     "text": "I"
+    },
+    {
+     "t": 92.46,
+     "end": 92.52,
+     "text": "don’t"
+    },
+    {
+     "t": 92.52,
+     "end": 92.68,
+     "text": "need"
+    },
+    {
+     "t": 92.68,
+     "end": 92.8,
+     "text": "a"
+    },
+    {
+     "t": 92.8,
+     "end": 93.0,
+     "text": "sign"
+    }
+   ]
+  },
+  {
+   "t": 93.1,
+   "end": 94.5,
+   "text": "I’m drawing the line, yeah, I’m drawing the line",
+   "words": [
+    {
+     "t": 93.1,
+     "end": 93.297,
+     "text": "I’m"
+    },
+    {
+     "t": 93.297,
+     "end": 93.38,
+     "text": "drawing"
+    },
+    {
+     "t": 93.38,
+     "end": 93.46,
+     "text": "the"
+    },
+    {
+     "t": 93.46,
+     "end": 93.61,
+     "text": "line,"
+    },
+    {
+     "t": 93.61,
+     "end": 93.76,
+     "text": "yeah,"
+    },
+    {
+     "t": 93.76,
+     "end": 93.95,
+     "text": "I’m"
+    },
+    {
+     "t": 93.95,
+     "end": 94.1,
+     "text": "drawing"
+    },
+    {
+     "t": 94.1,
+     "end": 94.422,
+     "text": "the"
+    },
+    {
+     "t": 94.422,
+     "end": 94.5,
+     "text": "line"
+    }
+   ]
+  },
+  {
+   "t": 94.5,
+   "end": 96.68,
+   "text": "Watch the glass crack, watch the sky fall",
+   "words": [
+    {
+     "t": 94.5,
+     "end": 94.78,
+     "text": "Watch"
+    },
+    {
+     "t": 94.78,
+     "end": 94.86,
+     "text": "the"
+    },
+    {
+     "t": 94.86,
+     "end": 95.3,
+     "text": "glass"
+    },
+    {
+     "t": 95.3,
+     "end": 95.64,
+     "text": "crack,"
+    },
+    {
+     "t": 95.64,
+     "end": 95.9,
+     "text": "watch"
+    },
+    {
+     "t": 95.9,
+     "end": 95.96,
+     "text": "the"
+    },
+    {
+     "t": 95.96,
+     "end": 96.26,
+     "text": "sky"
+    },
+    {
+     "t": 96.26,
+     "end": 96.68,
+     "text": "fall"
+    }
+   ]
+  },
+  {
+   "t": 96.77,
+   "end": 99.68,
+   "text": "I’m the one standing after it all",
+   "words": [
+    {
+     "t": 96.77,
+     "end": 96.994,
+     "text": "I’m"
+    },
+    {
+     "t": 96.994,
+     "end": 97.33,
+     "text": "the"
+    },
+    {
+     "t": 97.33,
+     "end": 97.665,
+     "text": "one"
+    },
+    {
+     "t": 97.665,
+     "end": 98.561,
+     "text": "standing"
+    },
+    {
+     "t": 98.561,
+     "end": 99.12,
+     "text": "after"
+    },
+    {
+     "t": 99.12,
+     "end": 99.344,
+     "text": "it"
+    },
+    {
+     "t": 99.344,
+     "end": 99.68,
+     "text": "all"
+    }
+   ]
+  },
+  {
+   "t": 99.74,
+   "end": 101.62,
+   "text": "The pressure is rising",
+   "words": [
+    {
+     "t": 99.74,
+     "end": 100.24,
+     "text": "The"
+    },
+    {
+     "t": 100.24,
+     "end": 100.78,
+     "text": "pressure"
+    },
+    {
+     "t": 100.78,
+     "end": 100.98,
+     "text": "is"
+    },
+    {
+     "t": 100.98,
+     "end": 101.62,
+     "text": "rising"
+    }
+   ]
+  },
+  {
+   "t": 102.66,
+   "end": 104.94,
+   "text": "I’m losing my mind",
+   "words": [
+    {
+     "t": 102.66,
+     "end": 103.1,
+     "text": "I’m"
+    },
+    {
+     "t": 103.1,
+     "end": 103.52,
+     "text": "losing"
+    },
+    {
+     "t": 103.52,
+     "end": 103.78,
+     "text": "my"
+    },
+    {
+     "t": 103.78,
+     "end": 104.94,
+     "text": "mind"
+    }
+   ]
+  },
+  {
+   "t": 105.54,
+   "end": 107.44,
+   "text": "The fever is climbing",
+   "words": [
+    {
+     "t": 105.54,
+     "end": 105.98,
+     "text": "The"
+    },
+    {
+     "t": 105.98,
+     "end": 106.42,
+     "text": "fever"
+    },
+    {
+     "t": 106.42,
+     "end": 106.64,
+     "text": "is"
+    },
+    {
+     "t": 106.64,
+     "end": 107.44,
+     "text": "climbing"
+    }
+   ]
+  },
+  {
+   "t": 108.38,
+   "end": 110.58,
+   "text": "I’m leaving the dark behind",
+   "words": [
+    {
+     "t": 108.38,
+     "end": 108.58,
+     "text": "I’m"
+    },
+    {
+     "t": 108.58,
+     "end": 109.28,
+     "text": "leaving"
+    },
+    {
+     "t": 109.28,
+     "end": 109.58,
+     "text": "the"
+    },
+    {
+     "t": 109.58,
+     "end": 109.98,
+     "text": "dark"
+    },
+    {
+     "t": 109.98,
+     "end": 110.58,
+     "text": "behind"
+    }
+   ]
+  },
+  {
+   "t": 110.88,
+   "end": 111.98,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 110.88,
+     "end": 111.38,
+     "text": "Break"
+    },
+    {
+     "t": 111.38,
+     "end": 111.58,
+     "text": "it"
+    },
+    {
+     "t": 111.58,
+     "end": 111.98,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 112.1,
+   "end": 114.7,
+   "text": "Rip the floor from under my feet",
+   "words": [
+    {
+     "t": 112.1,
+     "end": 112.4,
+     "text": "Rip"
+    },
+    {
+     "t": 112.4,
+     "end": 112.7,
+     "text": "the"
+    },
+    {
+     "t": 112.7,
+     "end": 113.2,
+     "text": "floor"
+    },
+    {
+     "t": 113.2,
+     "end": 113.6,
+     "text": "from"
+    },
+    {
+     "t": 113.6,
+     "end": 114.1,
+     "text": "under"
+    },
+    {
+     "t": 114.1,
+     "end": 114.3,
+     "text": "my"
+    },
+    {
+     "t": 114.3,
+     "end": 114.7,
+     "text": "feet"
+    }
+   ]
+  },
+  {
+   "t": 127.67,
+   "end": 127.97,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 127.67,
+     "end": 127.806,
+     "text": "Break"
+    },
+    {
+     "t": 127.806,
+     "end": 127.861,
+     "text": "it"
+    },
+    {
+     "t": 127.861,
+     "end": 127.97,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 127.97,
+   "end": 128.27,
+   "text": "Make the liberation complete",
+   "estimated": true,
+   "words": [
+    {
+     "t": 127.97,
+     "end": 128.02,
+     "text": "Make"
+    },
+    {
+     "t": 128.02,
+     "end": 128.07,
+     "text": "the"
+    },
+    {
+     "t": 128.07,
+     "end": 128.174,
+     "text": "liberation"
+    },
+    {
+     "t": 128.174,
+     "end": 128.27,
+     "text": "complete"
+    }
+   ]
+  },
+  {
+   "t": 128.27,
+   "end": 128.57,
+   "text": "Shut it out, scream it loud",
+   "estimated": true,
+   "words": [
+    {
+     "t": 128.27,
+     "end": 128.327,
+     "text": "Shut"
+    },
+    {
+     "t": 128.327,
+     "end": 128.377,
+     "text": "it"
+    },
+    {
+     "t": 128.377,
+     "end": 128.427,
+     "text": "out,"
+    },
+    {
+     "t": 128.427,
+     "end": 128.484,
+     "text": "scream"
+    },
+    {
+     "t": 128.484,
+     "end": 128.534,
+     "text": "it"
+    },
+    {
+     "t": 128.534,
+     "end": 128.57,
+     "text": "loud"
+    }
+   ]
+  },
+  {
+   "t": 128.57,
+   "end": 128.87,
+   "text": "I am taking back the crown",
+   "estimated": true,
+   "words": [
+    {
+     "t": 128.57,
+     "end": 128.62,
+     "text": "I"
+    },
+    {
+     "t": 128.62,
+     "end": 128.67,
+     "text": "am"
+    },
+    {
+     "t": 128.67,
+     "end": 128.72,
+     "text": "taking"
+    },
+    {
+     "t": 128.72,
+     "end": 128.77,
+     "text": "back"
+    },
+    {
+     "t": 128.77,
+     "end": 128.82,
+     "text": "the"
+    },
+    {
+     "t": 128.82,
+     "end": 128.87,
+     "text": "crown"
+    }
+   ]
+  },
+  {
+   "t": 128.87,
+   "end": 129.52,
+   "text": "Break it down",
+   "estimated": true,
+   "words": [
+    {
+     "t": 128.87,
+     "end": 129.165,
+     "text": "Break"
+    },
+    {
+     "t": 129.165,
+     "end": 129.284,
+     "text": "it"
+    },
+    {
+     "t": 129.284,
+     "end": 129.52,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 129.72,
+   "end": 131.78,
+   "text": "Break it all down",
+   "words": [
+    {
+     "t": 129.72,
+     "end": 130.7,
+     "text": "Break"
+    },
+    {
+     "t": 130.7,
+     "end": 131.16,
+     "text": "it"
+    },
+    {
+     "t": 131.16,
+     "end": 131.38,
+     "text": "all"
+    },
+    {
+     "t": 131.38,
+     "end": 131.78,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 143.09,
+   "end": 145.94,
+   "text": "Under the weight, I found my strength",
+   "words": [
+    {
+     "t": 143.09,
+     "end": 143.84,
+     "text": "Under"
+    },
+    {
+     "t": 143.84,
+     "end": 143.98,
+     "text": "the"
+    },
+    {
+     "t": 143.98,
+     "end": 144.554,
+     "text": "weight,"
+    },
+    {
+     "t": 144.554,
+     "end": 144.65,
+     "text": "I"
+    },
+    {
+     "t": 144.65,
+     "end": 144.84,
+     "text": "found"
+    },
+    {
+     "t": 144.84,
+     "end": 145.55,
+     "text": "my"
+    },
+    {
+     "t": 145.55,
+     "end": 145.94,
+     "text": "strength"
+    }
+   ]
+  },
+  {
+   "t": 146.31,
+   "end": 148.81,
+   "text": "I’ll go to any length",
+   "words": [
+    {
+     "t": 146.31,
+     "end": 146.93,
+     "text": "I’ll"
+    },
+    {
+     "t": 146.93,
+     "end": 147.03,
+     "text": "go"
+    },
+    {
+     "t": 147.03,
+     "end": 147.63,
+     "text": "to"
+    },
+    {
+     "t": 147.63,
+     "end": 148.15,
+     "text": "any"
+    },
+    {
+     "t": 148.15,
+     "end": 148.81,
+     "text": "length"
+    }
+   ]
+  },
+  {
+   "t": 148.81,
+   "end": 151.64,
+   "text": "To feel the air, to feel the heat",
+   "words": [
+    {
+     "t": 148.81,
+     "end": 149.21,
+     "text": "To"
+    },
+    {
+     "t": 149.21,
+     "end": 149.53,
+     "text": "feel"
+    },
+    {
+     "t": 149.53,
+     "end": 149.79,
+     "text": "the"
+    },
+    {
+     "t": 149.79,
+     "end": 150.27,
+     "text": "air,"
+    },
+    {
+     "t": 150.27,
+     "end": 150.63,
+     "text": "to"
+    },
+    {
+     "t": 150.63,
+     "end": 150.99,
+     "text": "feel"
+    },
+    {
+     "t": 150.99,
+     "end": 151.25,
+     "text": "the"
+    },
+    {
+     "t": 151.25,
+     "end": 151.64,
+     "text": "heat"
+    }
+   ]
+  },
+  {
+   "t": 151.77,
+   "end": 154.03,
+   "text": "To feel the heart inside me beat",
+   "words": [
+    {
+     "t": 151.77,
+     "end": 152.07,
+     "text": "To"
+    },
+    {
+     "t": 152.07,
+     "end": 152.43,
+     "text": "feel"
+    },
+    {
+     "t": 152.43,
+     "end": 152.63,
+     "text": "the"
+    },
+    {
+     "t": 152.63,
+     "end": 152.91,
+     "text": "heart"
+    },
+    {
+     "t": 152.91,
+     "end": 153.57,
+     "text": "inside"
+    },
+    {
+     "t": 153.57,
+     "end": 153.869,
+     "text": "me"
+    },
+    {
+     "t": 153.869,
+     "end": 154.03,
+     "text": "beat"
+    }
+   ]
+  },
+  {
+   "t": 154.03,
+   "end": 154.73,
+   "text": "Now!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 154.03,
+     "end": 154.73,
+     "text": "Now!"
+    }
+   ]
+  },
+  {
+   "t": 166.5,
+   "end": 168.5,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 166.5,
+     "end": 167.409,
+     "text": "Break"
+    },
+    {
+     "t": 167.409,
+     "end": 167.773,
+     "text": "it"
+    },
+    {
+     "t": 167.773,
+     "end": 168.5,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 168.97,
+   "end": 171.54,
+   "text": "Rip the floor from under my feet",
+   "words": [
+    {
+     "t": 168.97,
+     "end": 169.42,
+     "text": "Rip"
+    },
+    {
+     "t": 169.42,
+     "end": 169.64,
+     "text": "the"
+    },
+    {
+     "t": 169.64,
+     "end": 170.11,
+     "text": "floor"
+    },
+    {
+     "t": 170.11,
+     "end": 170.16,
+     "text": "from"
+    },
+    {
+     "t": 170.16,
+     "end": 170.22,
+     "text": "under"
+    },
+    {
+     "t": 170.22,
+     "end": 171.06,
+     "text": "my"
+    },
+    {
+     "t": 171.06,
+     "end": 171.54,
+     "text": "feet"
+    }
+   ]
+  },
+  {
+   "t": 184.28,
+   "end": 184.91,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 184.28,
+     "end": 184.7,
+     "text": "Break"
+    },
+    {
+     "t": 184.7,
+     "end": 184.805,
+     "text": "it"
+    },
+    {
+     "t": 184.805,
+     "end": 184.91,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 184.91,
+   "end": 185.21,
+   "text": "Make the liberation complete",
+   "estimated": true,
+   "words": [
+    {
+     "t": 184.91,
+     "end": 184.96,
+     "text": "Make"
+    },
+    {
+     "t": 184.96,
+     "end": 185.01,
+     "text": "the"
+    },
+    {
+     "t": 185.01,
+     "end": 185.114,
+     "text": "liberation"
+    },
+    {
+     "t": 185.114,
+     "end": 185.21,
+     "text": "complete"
+    }
+   ]
+  },
+  {
+   "t": 185.21,
+   "end": 185.51,
+   "text": "Shut it out, scream it loud",
+   "estimated": true,
+   "words": [
+    {
+     "t": 185.21,
+     "end": 185.267,
+     "text": "Shut"
+    },
+    {
+     "t": 185.267,
+     "end": 185.317,
+     "text": "it"
+    },
+    {
+     "t": 185.317,
+     "end": 185.367,
+     "text": "out,"
+    },
+    {
+     "t": 185.367,
+     "end": 185.424,
+     "text": "scream"
+    },
+    {
+     "t": 185.424,
+     "end": 185.474,
+     "text": "it"
+    },
+    {
+     "t": 185.474,
+     "end": 185.51,
+     "text": "loud"
+    }
+   ]
+  },
+  {
+   "t": 185.51,
+   "end": 187.16,
+   "text": "I am taking back the crown",
+   "estimated": true,
+   "words": [
+    {
+     "t": 185.51,
+     "end": 185.589,
+     "text": "I"
+    },
+    {
+     "t": 185.589,
+     "end": 185.746,
+     "text": "am"
+    },
+    {
+     "t": 185.746,
+     "end": 186.217,
+     "text": "taking"
+    },
+    {
+     "t": 186.217,
+     "end": 186.531,
+     "text": "back"
+    },
+    {
+     "t": 186.531,
+     "end": 186.767,
+     "text": "the"
+    },
+    {
+     "t": 186.767,
+     "end": 187.16,
+     "text": "crown"
+    }
+   ]
+  },
+  {
+   "t": 188.52,
+   "end": 191.41,
+   "text": "Break it down",
+   "words": [
+    {
+     "t": 188.52,
+     "end": 190.447,
+     "text": "Break"
+    },
+    {
+     "t": 190.447,
+     "end": 190.928,
+     "text": "it"
+    },
+    {
+     "t": 190.928,
+     "end": 191.41,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 191.41,
+   "end": 192.91,
+   "text": "Break it all down",
+   "words": [
+    {
+     "t": 191.41,
+     "end": 192.348,
+     "text": "Break"
+    },
+    {
+     "t": 192.348,
+     "end": 192.535,
+     "text": "it"
+    },
+    {
+     "t": 192.535,
+     "end": 192.722,
+     "text": "all"
+    },
+    {
+     "t": 192.722,
+     "end": 192.91,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 192.91,
+   "end": 193.21,
+   "text": "Break it down",
+   "estimated": true,
+   "words": [
+    {
+     "t": 192.91,
+     "end": 193.046,
+     "text": "Break"
+    },
+    {
+     "t": 193.046,
+     "end": 193.101,
+     "text": "it"
+    },
+    {
+     "t": 193.101,
+     "end": 193.21,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 193.21,
+   "end": 194.44,
+   "text": "Break it all down",
+   "estimated": true,
+   "words": [
+    {
+     "t": 193.21,
+     "end": 193.979,
+     "text": "Break"
+    },
+    {
+     "t": 193.979,
+     "end": 194.132,
+     "text": "it"
+    },
+    {
+     "t": 194.132,
+     "end": 194.286,
+     "text": "all"
+    },
+    {
+     "t": 194.286,
+     "end": 194.44,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 194.44,
+   "end": 197.1,
+   "text": "I’m out",
+   "words": [
+    {
+     "t": 194.44,
+     "end": 196.435,
+     "text": "I’m"
+    },
+    {
+     "t": 196.435,
+     "end": 197.1,
+     "text": "out"
+    }
+   ]
+  },
+  {
+   "t": 197.1,
+   "end": 199.98,
+   "text": "I’m free",
+   "words": [
+    {
+     "t": 197.1,
+     "end": 199.26,
+     "text": "I’m"
+    },
+    {
+     "t": 199.26,
+     "end": 199.98,
+     "text": "free"
+    }
+   ]
+  }
+ ],
+ "resyncNote": "align-lyrics.py: 보컬 스템 faster-whisper large-v3 받아쓰기와 글자 단위로 맞춘 뒤 단어 시작을 보컬 소리 시작(±0.08초)에 붙임. 모든 줄에 단어 시각."
+}

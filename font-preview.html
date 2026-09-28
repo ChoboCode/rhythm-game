@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SEVEN LANE · 가사 폰트 비교</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Gowun+Batang:wght@400;700&family=Gowun+Dodum&family=Nanum+Pen+Script&family=Noto+Serif+KR:wght@400;700&family=Song+Myung&display=swap" rel="stylesheet">
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, "맑은 고딕", sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-height: 100vh; color: #e9f5ff; background: radial-gradient(circle at 85% 0, #172954 0, transparent 37%), radial-gradient(circle at 0 95%, #182c53 0, transparent 40%), #060d1d; }
+    main { max-width: 1240px; margin: auto; padding: clamp(24px,4vw,50px); }
+    header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 30px; margin-bottom: 24px; }
+    .eyebrow, .sectionLabel { color: #78cfff; font: 700 11px ui-monospace, monospace; letter-spacing: .22em; }
+    h1 { margin: 8px 0 4px; font-size: clamp(30px,3.5vw,48px); letter-spacing: -.035em; }
+    header p, .hint { margin: 0; color: #a5bdd8; line-height: 1.65; }
+    .chosen { min-width: 210px; padding: 12px 17px; border: 1px solid #3c6a98; border-radius: 12px; background: #0d2340; color: #9cc7e9; font-size: 13px; }
+    .chosen strong { display: block; margin-top: 3px; color: #fff1c0; font-size: 18px; }
+    .preview { position: relative; overflow: hidden; display: grid; grid-template-columns: minmax(130px,220px) 1fr; align-items: center; min-height: 225px; padding: 20px clamp(18px,3vw,38px); border: 1px solid #4475a6; border-radius: 20px; background: linear-gradient(120deg,rgba(25,70,118,.75),rgba(7,22,45,.94)),url("songs/Bass%20control.png") center/cover; box-shadow: 0 20px 55px #0008; }
+    .preview::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(90deg,transparent 15%,rgba(6,17,35,.52) 44%,rgba(6,17,35,.78)); }
+    .disc { z-index: 1; width: min(100%,180px); aspect-ratio: 1; border: 3px solid #b0dffe; border-radius: 50%; background: url("songs/Bass%20control.png") center/cover; box-shadow: 0 0 0 8px #46a4e433,0 0 35px #369ffb88; }
+    .previewText { position: relative; z-index: 1; text-align: center; }
+    .previewText small { color: #91b9db; font: 700 10px ui-monospace, monospace; letter-spacing: .18em; }
+    .previewText h2 { margin: 7px 0 12px; font-size: 25px; }
+    .lyricFrame { position: relative; max-width: 690px; margin: auto; padding: 16px 16px 12px; border-top: 1px solid #8cccf063; border-bottom: 1px solid #8cccf063; background: linear-gradient(90deg,transparent,#2f6ca825,transparent); }
+    .lyricFrame::before { content: "♪"; position: absolute; top: -9px; left: 50%; padding: 0 8px; transform: translateX(-50%); background: #0d2443; color: #9bd9fa; font-size: 13px; }
+    .lyricFrame p { margin: 0; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+    .lyricFrame .before, .lyricFrame .after { color: #87a8c9; font-size: 15px; }
+    .lyricFrame .now { margin: 6px 0; color: #ffe6a6; font-size: clamp(22px,2.5vw,31px); line-height: 1.45; text-shadow: 0 0 15px #e9b04d77,0 0 24px #55bcff55; }
+    .compareHeading { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin: 29px 0 14px; }
+    .compareHeading h2 { margin: 0; font-size: 20px; }
+    .fontGrid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; }
+    .fontCard { width: 100%; min-height: 183px; padding: 17px 20px; border: 1px solid #35577d; border-radius: 14px; background: linear-gradient(145deg,#102744,#0a1930); color: inherit; text-align: left; cursor: pointer; transition: border-color .18s, transform .18s, box-shadow .18s; }
+    .fontCard:hover { transform: translateY(-2px); border-color: #7acaff; }
+    .fontCard[aria-pressed="true"] { border-color: #ffd987; box-shadow: inset 0 0 0 1px #ffd98777,0 0 28px #f3b94c22; }
+    .fontCard:focus-visible { outline: 2px solid #ffdd84; outline-offset: 3px; }
+    .cardTop { display: flex; justify-content: space-between; gap: 10px; align-items: center; }
+    .cardTop strong { color: #ffdb88; font-size: 13px; }
+    .cardTop small { color: #9db9d5; font-size: 12px; }
+    .fontCard b { display: block; margin: 18px 0 7px; color: #f6faff; font-size: 26px; line-height: 1.4; font-weight: inherit; }
+    .fontCard .latin { display: block; color: #bbd2e8; font-size: 17px; }
+    .fontCard em { display: block; margin-top: 12px; color: #91accc; font: normal 12px system-ui, sans-serif; }
+    .currentMark { color: #9acaf0; }
+    .fontCard[data-font="gowun-batang"] b, .fontCard[data-font="gowun-batang"] .latin { font-family: "Gowun Batang",serif; font-weight: 700; }
+    .fontCard[data-font="noto-serif"] b, .fontCard[data-font="noto-serif"] .latin { font-family: "Noto Serif KR",serif; font-weight: 700; }
+    .fontCard[data-font="song-myung"] b, .fontCard[data-font="song-myung"] .latin { font-family: "Song Myung",serif; font-weight: 400; }
+    .fontCard[data-font="gowun-dodum"] b, .fontCard[data-font="gowun-dodum"] .latin { font-family: "Gowun Dodum",sans-serif; font-weight: 400; }
+    .fontCard[data-font="do-hyeon"] b, .fontCard[data-font="do-hyeon"] .latin { font-family: "Do Hyeon",sans-serif; font-weight: 400; }
+    .fontCard[data-font="nanum-pen"] b, .fontCard[data-font="nanum-pen"] .latin { font-family: "Nanum Pen Script",cursive; font-weight: 400; }
+    .fontCard[data-font="nanum-pen"] b { font-size: 32px; margin-top: 12px; }
+    .fontCard[data-font="nanum-pen"] .latin { font-size: 21px; }
+    footer { margin-top: 22px; color: #b8cfe4; line-height: 1.7; font-size: 13px; }
+    @media (max-width: 700px) { .preview { grid-template-columns: 1fr; justify-items: center; gap: 24px; } .preview::after { background: #061123aa; } .disc { width: 130px; } .previewText { width: 100%; } .fontGrid { grid-template-columns: 1fr; } .fontCard { min-height: 0; } }
+    @media (prefers-reduced-motion: reduce) { .fontCard { transition: none; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div><span class="eyebrow">SEVEN LANE / LYRIC TYPE STUDY</span><h1>가사 폰트 비교</h1><p>같은 가사와 색으로 비교해 보세요. 카드를 누르면 위 미리보기가 바뀝니다.</p></div>
+      <div class="chosen" aria-live="polite">미리보기 선택<strong id="chosenName">F · 나눔손글씨 펜</strong></div>
+    </header>
+    <section class="preview" aria-label="연주 화면 가사 미리보기">
+      <div class="disc" aria-hidden="true"></div>
+      <div class="previewText"><small>NOW PLAYING</small><h2>Bass Control</h2><div class="lyricFrame" id="lyricFrame"><p class="before">소음은 멀어져</p><p class="now">뜨거워진 공기</p><p class="after">Let the bass take control</p></div></div>
+    </section>
+    <div class="compareHeading"><h2>후보 6종</h2><span class="hint">F는 현재 게임에 적용된 서체입니다.</span></div>
+    <section class="fontGrid" aria-label="폰트 후보">
+      <button class="fontCard" type="button" data-font="gowun-batang" aria-pressed="false"><span class="cardTop"><strong>A · 고운바탕</strong><small>Gowun Batang</small></span><b>뜨거워진 공기</b><span class="latin">Let the bass take control</span><em>부드럽고 서정적인 느낌</em></button>
+      <button class="fontCard" type="button" data-font="noto-serif" aria-pressed="false"><span class="cardTop"><strong>B · 노토 세리프</strong><small>Noto Serif KR</small></span><b>뜨거워진 공기</b><span class="latin">Let the bass take control</span><em>선명하고 영화 자막 같은 느낌</em></button>
+      <button class="fontCard" type="button" data-font="song-myung" aria-pressed="false"><span class="cardTop"><strong>C · 송명</strong><small>Song Myung</small></span><b>뜨거워진 공기</b><span class="latin">Let the bass take control</span><em>손맛이 있는 문학적인 느낌</em></button>
+      <button class="fontCard" type="button" data-font="gowun-dodum" aria-pressed="false"><span class="cardTop"><strong>D · 고운돋움</strong><small>Gowun Dodum</small></span><b>뜨거워진 공기</b><span class="latin">Let the bass take control</span><em>가볍고 또렷한 현대적인 느낌</em></button>
+      <button class="fontCard" type="button" data-font="do-hyeon" aria-pressed="false"><span class="cardTop"><strong>E · 도현</strong><small>Do Hyeon</small></span><b>뜨거워진 공기</b><span class="latin">Let the bass take control</span><em>강하고 무대감 있는 느낌</em></button>
+      <button class="fontCard" type="button" data-font="nanum-pen" aria-pressed="true"><span class="cardTop"><strong>F · 나눔손글씨 펜</strong><small class="currentMark">현재 적용</small></span><b>뜨거워진 공기</b><span class="latin">Let the bass take control</span><em>즉흥적인 손글씨 느낌</em></button>
+    </section>
+    <footer>현재 게임에는 F · 나눔손글씨 펜이 적용되어 있습니다.</footer>
+  </main>
+  <script>
+    const fonts = {
+      'gowun-batang': ['A · 고운바탕', '"Gowun Batang",serif', '700'],
+      'noto-serif': ['B · 노토 세리프', '"Noto Serif KR",serif', '700'],
+      'song-myung': ['C · 송명', '"Song Myung",serif', '400'],
+      'gowun-dodum': ['D · 고운돋움', '"Gowun Dodum",sans-serif', '400'],
+      'do-hyeon': ['E · 도현', '"Do Hyeon",sans-serif', '400'],
+      'nanum-pen': ['F · 나눔손글씨 펜', '"Nanum Pen Script",cursive', '400']
+    };
+    document.querySelectorAll('.fontCard').forEach(function (button) {
+      button.addEventListener('click', function () {
+        document.querySelectorAll('.fontCard').forEach(function (card) { card.setAttribute('aria-pressed', String(card === button)); });
+        const font = fonts[button.dataset.font];
+        document.querySelector('#chosenName').textContent = font[0];
+        document.querySelector('#lyricFrame').style.fontFamily = font[1];
+        document.querySelector('#lyricFrame').style.fontWeight = font[2];
+      });
+    });
+    document.querySelector('#lyricFrame').style.fontFamily = fonts['nanum-pen'][1];
+    document.querySelector('#lyricFrame').style.fontWeight = fonts['nanum-pen'][2];
+  </script>
+</body>
+</html>

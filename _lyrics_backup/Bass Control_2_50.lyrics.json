@@ -1,0 +1,549 @@
+{
+  "title": "Bass Control",
+  "source": "bass control.txt",
+  "timing": "audio-aligned ASR; lines marked estimated were interpolated between recognized vocals",
+  "lines": [
+    {
+      "t": 7.46,
+      "end": 8.7,
+      "text": "감각을 지워",
+      "words": [
+        {
+          "t": 7.46,
+          "end": 8.16,
+          "text": "감각을"
+        },
+        {
+          "t": 8.16,
+          "end": 8.7,
+          "text": "지워"
+        }
+      ]
+    },
+    {
+      "t": 10.6,
+      "end": 12.6,
+      "text": "시야를 덮어",
+      "words": [
+        {
+          "t": 10.6,
+          "end": 12,
+          "text": "시야를"
+        },
+        {
+          "t": 11.8,
+          "end": 12.6,
+          "text": "덮어"
+        }
+      ]
+    },
+    {
+      "t": 14.83,
+      "end": 16.65,
+      "text": "여긴 다른 세계",
+      "resynced": true
+    },
+    {
+      "t": 17.5,
+      "end": 19.94,
+      "text": "숨을 깊게 들이켜",
+      "words": [
+        {
+          "t": 17.5,
+          "end": 18.2,
+          "text": "숨을"
+        },
+        {
+          "t": 18.2,
+          "end": 18.89,
+          "text": "깊게"
+        },
+        {
+          "t": 18.58,
+          "end": 19.94,
+          "text": "들이켜"
+        }
+      ]
+    },
+    {
+      "t": 22.78,
+      "end": 24.78,
+      "text": "시계는 멈춰",
+      "words": [
+        {
+          "t": 22.78,
+          "end": 24.18,
+          "text": "시계는"
+        },
+        {
+          "t": 23.98,
+          "end": 24.78,
+          "text": "멈춰"
+        }
+      ]
+    },
+    {
+      "t": 24.86,
+      "end": 26.75,
+      "text": "소음은 멀어져",
+      "words": [
+        {
+          "t": 24.86,
+          "end": 26.02,
+          "text": "소음은"
+        },
+        {
+          "t": 25.8,
+          "end": 26.75,
+          "text": "멀어져"
+        }
+      ]
+    },
+    {
+      "t": 27.19,
+      "end": 28.52,
+      "text": "뜨거워진 공기",
+      "resynced": true
+    },
+    {
+      "t": 28.54,
+      "end": 30.12,
+      "text": "Ready for the drop",
+      "words": [
+        {
+          "t": 28.54,
+          "end": 29.07,
+          "text": "Ready"
+        },
+        {
+          "t": 28.98,
+          "end": 29.44,
+          "text": "for"
+        },
+        {
+          "t": 29.44,
+          "end": 29.68,
+          "text": "the"
+        },
+        {
+          "t": 29.68,
+          "end": 30.12,
+          "text": "drop"
+        }
+      ]
+    },
+    {
+      "t": 33.82,
+      "end": 35.82,
+      "text": "3, 2, 1",
+      "words": [
+        {
+          "t": 33.82,
+          "end": 34.58,
+          "text": "3,"
+        },
+        {
+          "t": 34.84,
+          "end": 35.6,
+          "text": "2,"
+        },
+        {
+          "t": 35.15,
+          "end": 35.82,
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "t": 37.02,
+      "end": 37.59,
+      "text": "Lose it",
+      "estimated": true
+    },
+    {
+      "t": 37.62,
+      "end": 38.22,
+      "text": "Work it",
+      "estimated": true
+    },
+    {
+      "t": 45.25,
+      "end": 47.08,
+      "text": "Lose it",
+      "resynced": true
+    },
+    {
+      "t": 47.1,
+      "end": 47.7,
+      "text": "Work it",
+      "estimated": true
+    },
+    {
+      "t": 67.48,
+      "end": 70.24,
+      "text": "Let the bass take control",
+      "resynced": true
+    },
+    {
+      "t": 71.17,
+      "end": 71.84,
+      "text": "Hands up to the ceiling",
+      "resynced": true
+    },
+    {
+      "t": 71.86,
+      "end": 73.89,
+      "text": "Don’t stop, lose your soul",
+      "words": [
+        {
+          "t": 71.86,
+          "end": 72.32,
+          "text": "Don’t"
+        },
+        {
+          "t": 72.32,
+          "end": 72.7,
+          "text": "stop,"
+        },
+        {
+          "t": 72.88,
+          "end": 73.16,
+          "text": "lose"
+        },
+        {
+          "t": 73.16,
+          "end": 73.54,
+          "text": "your"
+        },
+        {
+          "t": 73.48,
+          "end": 73.89,
+          "text": "soul"
+        }
+      ]
+    },
+    {
+      "t": 73.92,
+      "end": 75.1,
+      "text": "High on this feeling",
+      "words": [
+        {
+          "t": 73.92,
+          "end": 74.38,
+          "text": "High"
+        },
+        {
+          "t": 74.38,
+          "end": 74.58,
+          "text": "on"
+        },
+        {
+          "t": 74.58,
+          "end": 74.82,
+          "text": "this"
+        },
+        {
+          "t": 74.82,
+          "end": 75.1,
+          "text": "feeling"
+        }
+      ]
+    },
+    {
+      "t": 75.24,
+      "end": 77.54,
+      "text": "Let the bass take control",
+      "words": [
+        {
+          "t": 75.24,
+          "end": 75.57,
+          "text": "Let"
+        },
+        {
+          "t": 75.54,
+          "end": 75.68,
+          "text": "the"
+        },
+        {
+          "t": 75.9,
+          "end": 76.34,
+          "text": "bass"
+        },
+        {
+          "t": 76.32,
+          "end": 76.9,
+          "text": "take"
+        },
+        {
+          "t": 76.9,
+          "end": 77.54,
+          "text": "control"
+        }
+      ]
+    },
+    {
+      "t": 78.63,
+      "end": 79.38,
+      "text": "Hands up to the ceiling",
+      "resynced": true
+    },
+    {
+      "t": 79.4,
+      "end": 81.29,
+      "text": "Don’t stop, lose your soul",
+      "words": [
+        {
+          "t": 79.4,
+          "end": 79.8,
+          "text": "Don’t"
+        },
+        {
+          "t": 79.8,
+          "end": 80.24,
+          "text": "stop,"
+        },
+        {
+          "t": 80.3,
+          "end": 80.66,
+          "text": "lose"
+        },
+        {
+          "t": 80.66,
+          "end": 81.04,
+          "text": "your"
+        },
+        {
+          "t": 80.91,
+          "end": 81.29,
+          "text": "soul"
+        }
+      ]
+    },
+    {
+      "t": 81.32,
+      "end": 82.68,
+      "text": "High on this feeling",
+      "words": [
+        {
+          "t": 81.32,
+          "end": 81.64,
+          "text": "High"
+        },
+        {
+          "t": 81.9,
+          "end": 82.04,
+          "text": "on"
+        },
+        {
+          "t": 82.04,
+          "end": 82.32,
+          "text": "this"
+        },
+        {
+          "t": 82.32,
+          "end": 82.68,
+          "text": "feeling"
+        }
+      ]
+    },
+    {
+      "t": 88.8,
+      "end": 90.26,
+      "text": "Just forget it all.",
+      "resynced": true
+    },
+    {
+      "t": 120.59,
+      "end": 122.46,
+      "text": "Let the bass take control",
+      "resynced": true
+    },
+    {
+      "t": 123.34,
+      "end": 124.44,
+      "text": "Hands up to the ceiling",
+      "resynced": true
+    },
+    {
+      "t": 124.46,
+      "end": 126.37,
+      "text": "Don’t stop, lose your soul",
+      "words": [
+        {
+          "t": 124.46,
+          "end": 124.84,
+          "text": "Don’t"
+        },
+        {
+          "t": 124.88,
+          "end": 125.18,
+          "text": "stop,"
+        },
+        {
+          "t": 125.26,
+          "end": 125.7,
+          "text": "lose"
+        },
+        {
+          "t": 125.7,
+          "end": 126.02,
+          "text": "your"
+        },
+        {
+          "t": 125.99,
+          "end": 126.37,
+          "text": "soul"
+        }
+      ]
+    },
+    {
+      "t": 126.4,
+      "end": 127.67,
+      "text": "High on this feeling",
+      "words": [
+        {
+          "t": 126.4,
+          "end": 126.7,
+          "text": "High"
+        },
+        {
+          "t": 126.8,
+          "end": 127.12,
+          "text": "on"
+        },
+        {
+          "t": 127.12,
+          "end": 127.32,
+          "text": "this"
+        },
+        {
+          "t": 127.15,
+          "end": 127.67,
+          "text": "feeling"
+        }
+      ]
+    },
+    {
+      "t": 127.78,
+      "end": 130.02,
+      "text": "Let the bass take control",
+      "resynced": true
+    },
+    {
+      "t": 130.04,
+      "end": 131.95,
+      "text": "Hands up to the ceiling",
+      "words": [
+        {
+          "t": 130.04,
+          "end": 131.12,
+          "text": "Hands"
+        },
+        {
+          "t": 131.12,
+          "end": 131.3,
+          "text": "up"
+        },
+        {
+          "t": 131.3,
+          "end": 131.48,
+          "text": "to"
+        },
+        {
+          "t": 131.48,
+          "end": 131.56,
+          "text": "the"
+        },
+        {
+          "t": 131.25,
+          "end": 131.95,
+          "text": "ceiling"
+        }
+      ]
+    },
+    {
+      "t": 131.98,
+      "end": 133.86,
+      "text": "Don’t stop, lose your soul",
+      "words": [
+        {
+          "t": 131.98,
+          "end": 132.36,
+          "text": "Don’t"
+        },
+        {
+          "t": 132.36,
+          "end": 132.68,
+          "text": "stop,"
+        },
+        {
+          "t": 132.78,
+          "end": 133.2,
+          "text": "lose"
+        },
+        {
+          "t": 133.2,
+          "end": 133.54,
+          "text": "your"
+        },
+        {
+          "t": 133.54,
+          "end": 133.86,
+          "text": "soul"
+        }
+      ]
+    },
+    {
+      "t": 133.98,
+      "end": 135.18,
+      "text": "High on this feeling",
+      "words": [
+        {
+          "t": 133.98,
+          "end": 134.26,
+          "text": "High"
+        },
+        {
+          "t": 134.38,
+          "end": 134.64,
+          "text": "on"
+        },
+        {
+          "t": 134.64,
+          "end": 134.8,
+          "text": "this"
+        },
+        {
+          "t": 134.8,
+          "end": 135.18,
+          "text": "feeling"
+        }
+      ]
+    },
+    {
+      "t": 136.38,
+      "end": 136.95,
+      "text": "Lose it",
+      "estimated": true
+    },
+    {
+      "t": 136.98,
+      "end": 137.55,
+      "text": "Work it",
+      "estimated": true
+    },
+    {
+      "t": 137.58,
+      "end": 138.18,
+      "text": "Lose it",
+      "estimated": true
+    },
+    {
+      "t": 148.75,
+      "end": 150.29,
+      "text": "Everything is gone.",
+      "resynced": true
+    }
+  ],
+  "resyncNote": "20260927_021712: faster-whisper 순차 정렬(모노토닉) 기반 재대조로 7줄 교정"
+}

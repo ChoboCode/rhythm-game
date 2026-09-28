@@ -1,0 +1,1782 @@
+{
+  "title": "Last Stage",
+  "source": "last stage.txt",
+  "timing": "audio-aligned ASR; lines marked estimated were interpolated between recognized vocals",
+  "lines": [
+    {
+      "t": 24.7,
+      "end": 25.47,
+      "text": "Ha-ah, ha-ah",
+      "estimated": true
+    },
+    {
+      "t": 25.5,
+      "end": 26.67,
+      "text": "Ky-rie, E-le-i-son",
+      "estimated": true
+    },
+    {
+      "t": 26.7,
+      "end": 31.96,
+      "text": "The sky has turned to stone above the gate.",
+      "words": [
+        {
+          "t": 26.7,
+          "end": 27.16,
+          "text": "The"
+        },
+        {
+          "t": 27.52,
+          "end": 27.82,
+          "text": "sky"
+        },
+        {
+          "t": 27.82,
+          "end": 28.26,
+          "text": "has"
+        },
+        {
+          "t": 28.26,
+          "end": 29.06,
+          "text": "turned"
+        },
+        {
+          "t": 29.06,
+          "end": 29.2,
+          "text": "to"
+        },
+        {
+          "t": 29.2,
+          "end": 29.58,
+          "text": "stone"
+        },
+        {
+          "t": 30.38,
+          "end": 31.1,
+          "text": "above"
+        },
+        {
+          "t": 31.1,
+          "end": 31.64,
+          "text": "the"
+        },
+        {
+          "t": 31.64,
+          "end": 31.96,
+          "text": "gate."
+        }
+      ]
+    },
+    {
+      "t": 33.36,
+      "end": 38.38,
+      "text": "I’ve walked through every storm to meet this fate.",
+      "words": [
+        {
+          "t": 33.36,
+          "end": 34.08,
+          "text": "I’ve"
+        },
+        {
+          "t": 34.08,
+          "end": 34.42,
+          "text": "walked"
+        },
+        {
+          "t": 34.42,
+          "end": 34.72,
+          "text": "through"
+        },
+        {
+          "t": 34.72,
+          "end": 35.3,
+          "text": "every"
+        },
+        {
+          "t": 35.3,
+          "end": 35.96,
+          "text": "storm"
+        },
+        {
+          "t": 35.96,
+          "end": 37.22,
+          "text": "to"
+        },
+        {
+          "t": 37.22,
+          "end": 37.56,
+          "text": "meet"
+        },
+        {
+          "t": 37.56,
+          "end": 37.94,
+          "text": "this"
+        },
+        {
+          "t": 37.94,
+          "end": 38.38,
+          "text": "fate."
+        }
+      ]
+    },
+    {
+      "t": 39.84,
+      "end": 44.03,
+      "text": "My armor’s torn, my boots are heavy with the dust.",
+      "words": [
+        {
+          "t": 39.84,
+          "end": 40.56,
+          "text": "My"
+        },
+        {
+          "t": 40.56,
+          "end": 41.24,
+          "text": "armor’s"
+        },
+        {
+          "t": 41.24,
+          "end": 41.5,
+          "text": "torn,"
+        },
+        {
+          "t": 41.5,
+          "end": 42.08,
+          "text": "my"
+        },
+        {
+          "t": 42.08,
+          "end": 42.46,
+          "text": "boots"
+        },
+        {
+          "t": 42.46,
+          "end": 42.84,
+          "text": "are"
+        },
+        {
+          "t": 42.84,
+          "end": 43.26,
+          "text": "heavy"
+        },
+        {
+          "t": 43.26,
+          "end": 43.56,
+          "text": "with"
+        },
+        {
+          "t": 43.56,
+          "end": 43.72,
+          "text": "the"
+        },
+        {
+          "t": 43.59,
+          "end": 44.03,
+          "text": "dust."
+        }
+      ]
+    },
+    {
+      "t": 44.06,
+      "end": 47.23,
+      "text": "Of every blade I faced, and every broken trust.",
+      "words": [
+        {
+          "t": 44.06,
+          "end": 44.54,
+          "text": "Of"
+        },
+        {
+          "t": 44.54,
+          "end": 44.86,
+          "text": "every"
+        },
+        {
+          "t": 44.86,
+          "end": 45.14,
+          "text": "blade"
+        },
+        {
+          "t": 45.14,
+          "end": 45.36,
+          "text": "I"
+        },
+        {
+          "t": 45.36,
+          "end": 45.7,
+          "text": "faced,"
+        },
+        {
+          "t": 45.7,
+          "end": 46.16,
+          "text": "and"
+        },
+        {
+          "t": 46.16,
+          "end": 46.5,
+          "text": "every"
+        },
+        {
+          "t": 46.5,
+          "end": 46.86,
+          "text": "broken"
+        },
+        {
+          "t": 46.8,
+          "end": 47.23,
+          "text": "trust."
+        }
+      ]
+    },
+    {
+      "t": 47.26,
+      "end": 50.43,
+      "text": "A mountain stands before me, draped in hollow light.",
+      "words": [
+        {
+          "t": 47.26,
+          "end": 47.78,
+          "text": "A"
+        },
+        {
+          "t": 47.78,
+          "end": 48.04,
+          "text": "mountain"
+        },
+        {
+          "t": 48.04,
+          "end": 48.34,
+          "text": "stands"
+        },
+        {
+          "t": 48.34,
+          "end": 48.66,
+          "text": "before"
+        },
+        {
+          "t": 48.66,
+          "end": 49.02,
+          "text": "me,"
+        },
+        {
+          "t": 49.02,
+          "end": 49.64,
+          "text": "draped"
+        },
+        {
+          "t": 49.64,
+          "end": 49.82,
+          "text": "in"
+        },
+        {
+          "t": 49.82,
+          "end": 50.08,
+          "text": "hollow"
+        },
+        {
+          "t": 50.05,
+          "end": 50.43,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 50.46,
+      "end": 53.77,
+      "text": "The king of all the dark, the master of the night.",
+      "words": [
+        {
+          "t": 50.46,
+          "end": 50.98,
+          "text": "The"
+        },
+        {
+          "t": 50.98,
+          "end": 51.16,
+          "text": "king"
+        },
+        {
+          "t": 51.16,
+          "end": 51.44,
+          "text": "of"
+        },
+        {
+          "t": 51.44,
+          "end": 51.6,
+          "text": "all"
+        },
+        {
+          "t": 51.6,
+          "end": 51.8,
+          "text": "the"
+        },
+        {
+          "t": 51.8,
+          "end": 52.16,
+          "text": "dark,"
+        },
+        {
+          "t": 52.16,
+          "end": 52.58,
+          "text": "the"
+        },
+        {
+          "t": 52.58,
+          "end": 52.96,
+          "text": "master"
+        },
+        {
+          "t": 52.96,
+          "end": 53.2,
+          "text": "of"
+        },
+        {
+          "t": 53.2,
+          "end": 53.38,
+          "text": "the"
+        },
+        {
+          "t": 53.33,
+          "end": 53.77,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 53.8,
+      "end": 56.91,
+      "text": "I feel the cold wind pulling at my breath.",
+      "words": [
+        {
+          "t": 53.8,
+          "end": 53.89,
+          "text": "I"
+        },
+        {
+          "t": 54.52,
+          "end": 54.84,
+          "text": "feel"
+        },
+        {
+          "t": 54.84,
+          "end": 55.02,
+          "text": "the"
+        },
+        {
+          "t": 55.02,
+          "end": 55.3,
+          "text": "cold"
+        },
+        {
+          "t": 55.3,
+          "end": 55.68,
+          "text": "wind"
+        },
+        {
+          "t": 55.68,
+          "end": 56.06,
+          "text": "pulling"
+        },
+        {
+          "t": 56.06,
+          "end": 56.44,
+          "text": "at"
+        },
+        {
+          "t": 56.44,
+          "end": 56.58,
+          "text": "my"
+        },
+        {
+          "t": 56.34,
+          "end": 56.91,
+          "text": "breath."
+        }
+      ]
+    },
+    {
+      "t": 56.94,
+      "end": 60.23,
+      "text": "One single step between the glory and the death.",
+      "words": [
+        {
+          "t": 56.94,
+          "end": 57.76,
+          "text": "One"
+        },
+        {
+          "t": 57.76,
+          "end": 58.1,
+          "text": "single"
+        },
+        {
+          "t": 58.1,
+          "end": 58.4,
+          "text": "step"
+        },
+        {
+          "t": 58.4,
+          "end": 58.78,
+          "text": "between"
+        },
+        {
+          "t": 58.78,
+          "end": 59.04,
+          "text": "the"
+        },
+        {
+          "t": 59.04,
+          "end": 59.3,
+          "text": "glory"
+        },
+        {
+          "t": 59.3,
+          "end": 59.7,
+          "text": "and"
+        },
+        {
+          "t": 59.7,
+          "end": 59.84,
+          "text": "the"
+        },
+        {
+          "t": 59.81,
+          "end": 60.23,
+          "text": "death."
+        }
+      ]
+    },
+    {
+      "t": 60.26,
+      "end": 63.35,
+      "text": "My heart is pounding like a drum within the deep.",
+      "words": [
+        {
+          "t": 60.26,
+          "end": 61.08,
+          "text": "My"
+        },
+        {
+          "t": 61.08,
+          "end": 61.34,
+          "text": "heart"
+        },
+        {
+          "t": 61.34,
+          "end": 61.48,
+          "text": "is"
+        },
+        {
+          "t": 61.48,
+          "end": 61.78,
+          "text": "pounding"
+        },
+        {
+          "t": 61.78,
+          "end": 62.08,
+          "text": "like"
+        },
+        {
+          "t": 62.08,
+          "end": 62.26,
+          "text": "a"
+        },
+        {
+          "t": 62.26,
+          "end": 62.52,
+          "text": "drum"
+        },
+        {
+          "t": 62.52,
+          "end": 62.78,
+          "text": "within"
+        },
+        {
+          "t": 62.78,
+          "end": 63.08,
+          "text": "the"
+        },
+        {
+          "t": 63.03,
+          "end": 63.35,
+          "text": "deep."
+        }
+      ]
+    },
+    {
+      "t": 63.38,
+      "end": 69.06,
+      "text": "Awake at last from all the promises I keep.",
+      "words": [
+        {
+          "t": 63.38,
+          "end": 64.34,
+          "text": "Awake"
+        },
+        {
+          "t": 64.34,
+          "end": 64.54,
+          "text": "at"
+        },
+        {
+          "t": 64.54,
+          "end": 64.98,
+          "text": "last"
+        },
+        {
+          "t": 64.98,
+          "end": 65.3,
+          "text": "from"
+        },
+        {
+          "t": 65.3,
+          "end": 65.78,
+          "text": "all"
+        },
+        {
+          "t": 65.78,
+          "end": 66.1,
+          "text": "the"
+        },
+        {
+          "t": 66.1,
+          "end": 67.04,
+          "text": "promises"
+        },
+        {
+          "t": 67.04,
+          "end": 68.52,
+          "text": "I"
+        },
+        {
+          "t": 68.52,
+          "end": 69.06,
+          "text": "keep."
+        }
+      ]
+    },
+    {
+      "t": 71.04,
+      "end": 74.61,
+      "text": "We rise, we stand, we claim the throne!",
+      "words": [
+        {
+          "t": 71.04,
+          "end": 71.68,
+          "text": "We"
+        },
+        {
+          "t": 71.68,
+          "end": 72.08,
+          "text": "rise,"
+        },
+        {
+          "t": 72.36,
+          "end": 72.68,
+          "text": "we"
+        },
+        {
+          "t": 72.68,
+          "end": 73.02,
+          "text": "stand,"
+        },
+        {
+          "t": 73.24,
+          "end": 73.5,
+          "text": "we"
+        },
+        {
+          "t": 73.5,
+          "end": 73.82,
+          "text": "claim"
+        },
+        {
+          "t": 73.82,
+          "end": 74.34,
+          "text": "the"
+        },
+        {
+          "t": 73.87,
+          "end": 74.61,
+          "text": "throne!"
+        }
+      ]
+    },
+    {
+      "t": 74.64,
+      "end": 77.73,
+      "text": "Through the dark, we walk alone!",
+      "words": [
+        {
+          "t": 74.64,
+          "end": 75.74,
+          "text": "Through"
+        },
+        {
+          "t": 75.74,
+          "end": 75.96,
+          "text": "the"
+        },
+        {
+          "t": 75.96,
+          "end": 76.28,
+          "text": "dark,"
+        },
+        {
+          "t": 76.28,
+          "end": 76.56,
+          "text": "we"
+        },
+        {
+          "t": 76.56,
+          "end": 77.02,
+          "text": "walk"
+        },
+        {
+          "t": 77.11,
+          "end": 77.73,
+          "text": "alone!"
+        }
+      ]
+    },
+    {
+      "t": 77.76,
+      "end": 81.09,
+      "text": "We rise, we stand, we claim the throne!",
+      "words": [
+        {
+          "t": 77.76,
+          "end": 78.18,
+          "text": "We"
+        },
+        {
+          "t": 78.18,
+          "end": 78.72,
+          "text": "rise,"
+        },
+        {
+          "t": 78.94,
+          "end": 79.1,
+          "text": "we"
+        },
+        {
+          "t": 79.1,
+          "end": 79.5,
+          "text": "stand,"
+        },
+        {
+          "t": 79.68,
+          "end": 79.92,
+          "text": "we"
+        },
+        {
+          "t": 79.92,
+          "end": 80.28,
+          "text": "claim"
+        },
+        {
+          "t": 80.28,
+          "end": 80.78,
+          "text": "the"
+        },
+        {
+          "t": 80.4,
+          "end": 81.09,
+          "text": "throne!"
+        }
+      ]
+    },
+    {
+      "t": 81.12,
+      "end": 84.68,
+      "text": "Victors in the vast unknown!",
+      "words": [
+        {
+          "t": 81.12,
+          "end": 82.3,
+          "text": "Victors"
+        },
+        {
+          "t": 82.3,
+          "end": 82.66,
+          "text": "in"
+        },
+        {
+          "t": 82.66,
+          "end": 82.94,
+          "text": "the"
+        },
+        {
+          "t": 82.94,
+          "end": 83.56,
+          "text": "vast"
+        },
+        {
+          "t": 83.56,
+          "end": 84.68,
+          "text": "unknown!"
+        }
+      ]
+    },
+    {
+      "t": 85.88,
+      "end": 87.25,
+      "text": "Gloria! Victoria!",
+      "estimated": true
+    },
+    {
+      "t": 87.28,
+      "end": 88.68,
+      "text": "Gloria! Victoria!",
+      "estimated": true
+    },
+    {
+      "t": 97.16,
+      "end": 100.41,
+      "text": "You think your walls can hold the spirit of a man.",
+      "words": [
+        {
+          "t": 97.16,
+          "end": 97.72,
+          "text": "You"
+        },
+        {
+          "t": 97.72,
+          "end": 98.28,
+          "text": "think"
+        },
+        {
+          "t": 98.28,
+          "end": 98.54,
+          "text": "your"
+        },
+        {
+          "t": 98.54,
+          "end": 98.74,
+          "text": "walls"
+        },
+        {
+          "t": 98.74,
+          "end": 98.88,
+          "text": "can"
+        },
+        {
+          "t": 98.88,
+          "end": 99.16,
+          "text": "hold"
+        },
+        {
+          "t": 99.16,
+          "end": 99.28,
+          "text": "the"
+        },
+        {
+          "t": 99.28,
+          "end": 99.58,
+          "text": "spirit"
+        },
+        {
+          "t": 99.58,
+          "end": 99.96,
+          "text": "of"
+        },
+        {
+          "t": 99.96,
+          "end": 100.1,
+          "text": "a"
+        },
+        {
+          "t": 100.16,
+          "end": 100.41,
+          "text": "man."
+        }
+      ]
+    },
+    {
+      "t": 100.44,
+      "end": 103.67,
+      "text": "I’ve crossed the map and bled across the sand.",
+      "words": [
+        {
+          "t": 100.44,
+          "end": 101.32,
+          "text": "I’ve"
+        },
+        {
+          "t": 101.32,
+          "end": 101.54,
+          "text": "crossed"
+        },
+        {
+          "t": 101.54,
+          "end": 101.72,
+          "text": "the"
+        },
+        {
+          "t": 101.72,
+          "end": 102.0,
+          "text": "map"
+        },
+        {
+          "t": 102.0,
+          "end": 102.5,
+          "text": "and"
+        },
+        {
+          "t": 102.5,
+          "end": 102.8,
+          "text": "bled"
+        },
+        {
+          "t": 102.8,
+          "end": 103.0,
+          "text": "across"
+        },
+        {
+          "t": 103.0,
+          "end": 103.34,
+          "text": "the"
+        },
+        {
+          "t": 103.31,
+          "end": 103.67,
+          "text": "sand."
+        }
+      ]
+    },
+    {
+      "t": 103.7,
+      "end": 106.81,
+      "text": "There is no fear left in this weary, beating chest.",
+      "words": [
+        {
+          "t": 103.7,
+          "end": 104.56,
+          "text": "There"
+        },
+        {
+          "t": 104.56,
+          "end": 104.76,
+          "text": "is"
+        },
+        {
+          "t": 104.76,
+          "end": 104.88,
+          "text": "no"
+        },
+        {
+          "t": 104.88,
+          "end": 105.16,
+          "text": "fear"
+        },
+        {
+          "t": 105.16,
+          "end": 105.36,
+          "text": "left"
+        },
+        {
+          "t": 105.36,
+          "end": 105.56,
+          "text": "in"
+        },
+        {
+          "t": 105.56,
+          "end": 105.76,
+          "text": "this"
+        },
+        {
+          "t": 105.76,
+          "end": 106.04,
+          "text": "weary,"
+        },
+        {
+          "t": 106.04,
+          "end": 106.4,
+          "text": "beating"
+        },
+        {
+          "t": 106.42,
+          "end": 106.81,
+          "text": "chest."
+        }
+      ]
+    },
+    {
+      "t": 106.84,
+      "end": 110.13,
+      "text": "This final mile is where I put the world to rest.",
+      "words": [
+        {
+          "t": 106.84,
+          "end": 107.74,
+          "text": "This"
+        },
+        {
+          "t": 107.74,
+          "end": 108.08,
+          "text": "final"
+        },
+        {
+          "t": 108.08,
+          "end": 108.44,
+          "text": "mile"
+        },
+        {
+          "t": 108.44,
+          "end": 108.62,
+          "text": "is"
+        },
+        {
+          "t": 108.62,
+          "end": 108.78,
+          "text": "where"
+        },
+        {
+          "t": 108.78,
+          "end": 108.96,
+          "text": "I"
+        },
+        {
+          "t": 108.96,
+          "end": 109.16,
+          "text": "put"
+        },
+        {
+          "t": 109.16,
+          "end": 109.34,
+          "text": "the"
+        },
+        {
+          "t": 109.34,
+          "end": 109.64,
+          "text": "world"
+        },
+        {
+          "t": 109.64,
+          "end": 109.76,
+          "text": "to"
+        },
+        {
+          "t": 109.78,
+          "end": 110.13,
+          "text": "rest."
+        }
+      ]
+    },
+    {
+      "t": 110.16,
+      "end": 114.72,
+      "text": "The air is thin, the lightning starts to tear the seams.",
+      "words": [
+        {
+          "t": 110.16,
+          "end": 110.96,
+          "text": "The"
+        },
+        {
+          "t": 110.96,
+          "end": 111.26,
+          "text": "air"
+        },
+        {
+          "t": 111.26,
+          "end": 111.4,
+          "text": "is"
+        },
+        {
+          "t": 111.4,
+          "end": 111.64,
+          "text": "thin,"
+        },
+        {
+          "t": 111.86,
+          "end": 112.12,
+          "text": "the"
+        },
+        {
+          "t": 112.12,
+          "end": 112.52,
+          "text": "lightning"
+        },
+        {
+          "t": 112.52,
+          "end": 112.78,
+          "text": "starts"
+        },
+        {
+          "t": 112.78,
+          "end": 113.0,
+          "text": "to"
+        },
+        {
+          "t": 113.0,
+          "end": 113.3,
+          "text": "tear"
+        },
+        {
+          "t": 113.3,
+          "end": 113.58,
+          "text": "the"
+        },
+        {
+          "t": 113.58,
+          "end": 114.72,
+          "text": "seams."
+        }
+      ]
+    },
+    {
+      "t": 116.08,
+      "end": 120.7,
+      "text": "I am the end of all your nightmares and your schemes.",
+      "words": [
+        {
+          "t": 116.08,
+          "end": 116.44,
+          "text": "I"
+        },
+        {
+          "t": 116.44,
+          "end": 116.8,
+          "text": "am"
+        },
+        {
+          "t": 116.8,
+          "end": 116.96,
+          "text": "the"
+        },
+        {
+          "t": 116.96,
+          "end": 117.52,
+          "text": "end"
+        },
+        {
+          "t": 117.52,
+          "end": 117.86,
+          "text": "of"
+        },
+        {
+          "t": 117.86,
+          "end": 118.2,
+          "text": "all"
+        },
+        {
+          "t": 118.2,
+          "end": 118.62,
+          "text": "your"
+        },
+        {
+          "t": 118.62,
+          "end": 119.16,
+          "text": "nightmares"
+        },
+        {
+          "t": 119.16,
+          "end": 119.7,
+          "text": "and"
+        },
+        {
+          "t": 119.7,
+          "end": 120.08,
+          "text": "your"
+        },
+        {
+          "t": 120.08,
+          "end": 120.7,
+          "text": "schemes."
+        }
+      ]
+    },
+    {
+      "t": 122.54,
+      "end": 126.11,
+      "text": "We rise, we stand, we claim the throne!",
+      "words": [
+        {
+          "t": 122.54,
+          "end": 123.26,
+          "text": "We"
+        },
+        {
+          "t": 123.26,
+          "end": 123.64,
+          "text": "rise,"
+        },
+        {
+          "t": 124.0,
+          "end": 124.22,
+          "text": "we"
+        },
+        {
+          "t": 124.22,
+          "end": 124.56,
+          "text": "stand,"
+        },
+        {
+          "t": 124.8,
+          "end": 125.04,
+          "text": "we"
+        },
+        {
+          "t": 125.04,
+          "end": 125.34,
+          "text": "claim"
+        },
+        {
+          "t": 125.34,
+          "end": 125.86,
+          "text": "the"
+        },
+        {
+          "t": 125.37,
+          "end": 126.11,
+          "text": "throne!"
+        }
+      ]
+    },
+    {
+      "t": 126.14,
+      "end": 129.21,
+      "text": "Through the dark, we walk alone!",
+      "words": [
+        {
+          "t": 126.14,
+          "end": 127.22,
+          "text": "Through"
+        },
+        {
+          "t": 127.22,
+          "end": 127.44,
+          "text": "the"
+        },
+        {
+          "t": 127.44,
+          "end": 127.88,
+          "text": "dark,"
+        },
+        {
+          "t": 127.88,
+          "end": 128.14,
+          "text": "we"
+        },
+        {
+          "t": 128.14,
+          "end": 128.56,
+          "text": "walk"
+        },
+        {
+          "t": 128.6,
+          "end": 129.21,
+          "text": "alone!"
+        }
+      ]
+    },
+    {
+      "t": 129.24,
+      "end": 132.64,
+      "text": "We rise, we stand, we claim the throne!",
+      "words": [
+        {
+          "t": 129.24,
+          "end": 129.74,
+          "text": "We"
+        },
+        {
+          "t": 129.74,
+          "end": 130.26,
+          "text": "rise,"
+        },
+        {
+          "t": 130.42,
+          "end": 130.62,
+          "text": "we"
+        },
+        {
+          "t": 130.62,
+          "end": 131.0,
+          "text": "stand,"
+        },
+        {
+          "t": 131.24,
+          "end": 131.46,
+          "text": "we"
+        },
+        {
+          "t": 131.46,
+          "end": 131.82,
+          "text": "claim"
+        },
+        {
+          "t": 131.82,
+          "end": 132.32,
+          "text": "the"
+        },
+        {
+          "t": 132.32,
+          "end": 132.64,
+          "text": "throne!"
+        }
+      ]
+    },
+    {
+      "t": 133.1,
+      "end": 136.15,
+      "text": "Victors in the vast unknown!",
+      "words": [
+        {
+          "t": 133.1,
+          "end": 133.7,
+          "text": "Victors"
+        },
+        {
+          "t": 133.7,
+          "end": 134.1,
+          "text": "in"
+        },
+        {
+          "t": 134.1,
+          "end": 134.5,
+          "text": "the"
+        },
+        {
+          "t": 134.5,
+          "end": 135.14,
+          "text": "vast"
+        },
+        {
+          "t": 135.22,
+          "end": 136.15,
+          "text": "unknown!"
+        }
+      ]
+    },
+    {
+      "t": 136.18,
+      "end": 137.43,
+      "text": "Gloria! Victoria!",
+      "estimated": true
+    },
+    {
+      "t": 137.46,
+      "end": 139.84,
+      "text": "Gloria! Victoria!",
+      "words": [
+        {
+          "t": 137.46,
+          "end": 138.48,
+          "text": "Gloria!"
+        },
+        {
+          "t": 138.48,
+          "end": 139.84,
+          "text": "Victoria!"
+        }
+      ]
+    },
+    {
+      "t": 141.04,
+      "end": 142.21,
+      "text": "Veni, Vidi, Vici",
+      "estimated": true
+    },
+    {
+      "t": 142.24,
+      "end": 143.44,
+      "text": "Veni, Vidi, Vici",
+      "estimated": true
+    },
+    {
+      "t": 182.9,
+      "end": 184.9,
+      "text": "I will not bow!",
+      "words": [
+        {
+          "t": 182.9,
+          "end": 183.62,
+          "text": "I"
+        },
+        {
+          "t": 183.62,
+          "end": 184.34,
+          "text": "will"
+        },
+        {
+          "t": 184.34,
+          "end": 184.66,
+          "text": "not"
+        },
+        {
+          "t": 184.35,
+          "end": 184.9,
+          "text": "bow!"
+        }
+      ]
+    },
+    {
+      "t": 185.2,
+      "end": 186.55,
+      "text": "I will not break!",
+      "words": [
+        {
+          "t": 185.2,
+          "end": 185.74,
+          "text": "I"
+        },
+        {
+          "t": 185.74,
+          "end": 185.94,
+          "text": "will"
+        },
+        {
+          "t": 185.94,
+          "end": 186.28,
+          "text": "not"
+        },
+        {
+          "t": 186.03,
+          "end": 186.55,
+          "text": "break!"
+        }
+      ]
+    },
+    {
+      "t": 186.58,
+      "end": 191.41,
+      "text": "For every life that was yours to take!",
+      "words": [
+        {
+          "t": 186.58,
+          "end": 187.16,
+          "text": "For"
+        },
+        {
+          "t": 187.16,
+          "end": 187.74,
+          "text": "every"
+        },
+        {
+          "t": 187.74,
+          "end": 188.38,
+          "text": "life"
+        },
+        {
+          "t": 188.38,
+          "end": 189.1,
+          "text": "that"
+        },
+        {
+          "t": 189.1,
+          "end": 189.42,
+          "text": "was"
+        },
+        {
+          "t": 189.42,
+          "end": 189.8,
+          "text": "yours"
+        },
+        {
+          "t": 189.8,
+          "end": 190.54,
+          "text": "to"
+        },
+        {
+          "t": 190.77,
+          "end": 191.41,
+          "text": "take!"
+        }
+      ]
+    },
+    {
+      "t": 191.44,
+      "end": 192.64,
+      "text": "The crown is mine!",
+      "words": [
+        {
+          "t": 191.44,
+          "end": 191.86,
+          "text": "The"
+        },
+        {
+          "t": 191.86,
+          "end": 192.0,
+          "text": "crown"
+        },
+        {
+          "t": 192.0,
+          "end": 192.36,
+          "text": "is"
+        },
+        {
+          "t": 192.36,
+          "end": 192.64,
+          "text": "mine!"
+        }
+      ]
+    },
+    {
+      "t": 192.84,
+      "end": 194.25,
+      "text": "The light is here!",
+      "words": [
+        {
+          "t": 192.84,
+          "end": 193.26,
+          "text": "The"
+        },
+        {
+          "t": 193.26,
+          "end": 193.62,
+          "text": "light"
+        },
+        {
+          "t": 193.62,
+          "end": 193.98,
+          "text": "is"
+        },
+        {
+          "t": 193.85,
+          "end": 194.25,
+          "text": "here!"
+        }
+      ]
+    },
+    {
+      "t": 194.28,
+      "end": 198.1,
+      "text": "I cast away the ghost of every fear!",
+      "words": [
+        {
+          "t": 194.28,
+          "end": 194.74,
+          "text": "I"
+        },
+        {
+          "t": 194.74,
+          "end": 194.96,
+          "text": "cast"
+        },
+        {
+          "t": 194.96,
+          "end": 195.3,
+          "text": "away"
+        },
+        {
+          "t": 195.3,
+          "end": 195.74,
+          "text": "the"
+        },
+        {
+          "t": 195.74,
+          "end": 196.1,
+          "text": "ghost"
+        },
+        {
+          "t": 196.1,
+          "end": 196.52,
+          "text": "of"
+        },
+        {
+          "t": 196.52,
+          "end": 197.1,
+          "text": "every"
+        },
+        {
+          "t": 197.1,
+          "end": 198.1,
+          "text": "fear!"
+        }
+      ]
+    },
+    {
+      "t": 199.82,
+      "end": 203.46,
+      "text": "We rise, we stand, we claim the throne!",
+      "words": [
+        {
+          "t": 199.82,
+          "end": 200.54,
+          "text": "We"
+        },
+        {
+          "t": 200.54,
+          "end": 201.0,
+          "text": "rise,"
+        },
+        {
+          "t": 201.32,
+          "end": 201.52,
+          "text": "we"
+        },
+        {
+          "t": 201.52,
+          "end": 201.88,
+          "text": "stand,"
+        },
+        {
+          "t": 202.08,
+          "end": 202.36,
+          "text": "we"
+        },
+        {
+          "t": 202.36,
+          "end": 202.66,
+          "text": "claim"
+        },
+        {
+          "t": 202.66,
+          "end": 203.2,
+          "text": "the"
+        },
+        {
+          "t": 203.2,
+          "end": 203.46,
+          "text": "throne!"
+        }
+      ]
+    },
+    {
+      "t": 204.14,
+      "end": 206.65,
+      "text": "Through the dark, we walk alone!",
+      "words": [
+        {
+          "t": 204.14,
+          "end": 204.5,
+          "text": "Through"
+        },
+        {
+          "t": 204.5,
+          "end": 204.76,
+          "text": "the"
+        },
+        {
+          "t": 204.76,
+          "end": 205.2,
+          "text": "dark,"
+        },
+        {
+          "t": 205.2,
+          "end": 205.42,
+          "text": "we"
+        },
+        {
+          "t": 205.42,
+          "end": 205.88,
+          "text": "walk"
+        },
+        {
+          "t": 206.15,
+          "end": 206.65,
+          "text": "alone!"
+        }
+      ]
+    },
+    {
+      "t": 206.68,
+      "end": 209.93,
+      "text": "We rise, we stand, we claim the throne!",
+      "words": [
+        {
+          "t": 206.68,
+          "end": 207.02,
+          "text": "We"
+        },
+        {
+          "t": 207.02,
+          "end": 207.48,
+          "text": "rise,"
+        },
+        {
+          "t": 207.74,
+          "end": 207.94,
+          "text": "we"
+        },
+        {
+          "t": 207.94,
+          "end": 208.32,
+          "text": "stand,"
+        },
+        {
+          "t": 208.54,
+          "end": 208.78,
+          "text": "we"
+        },
+        {
+          "t": 208.78,
+          "end": 209.12,
+          "text": "claim"
+        },
+        {
+          "t": 209.12,
+          "end": 209.64,
+          "text": "the"
+        },
+        {
+          "t": 209.26,
+          "end": 209.93,
+          "text": "throne!"
+        }
+      ]
+    },
+    {
+      "t": 209.96,
+      "end": 213.6,
+      "text": "Victors in the vast unknown!",
+      "words": [
+        {
+          "t": 209.96,
+          "end": 211.24,
+          "text": "Victors"
+        },
+        {
+          "t": 211.24,
+          "end": 211.5,
+          "text": "in"
+        },
+        {
+          "t": 211.5,
+          "end": 211.8,
+          "text": "the"
+        },
+        {
+          "t": 211.8,
+          "end": 212.56,
+          "text": "vast"
+        },
+        {
+          "t": 212.56,
+          "end": 213.6,
+          "text": "unknown!"
+        }
+      ]
+    },
+    {
+      "t": 213.88,
+      "end": 215.25,
+      "text": "Gloria! Victoria!",
+      "estimated": true
+    },
+    {
+      "t": 215.28,
+      "end": 216.68,
+      "text": "Gloria! Victoria!",
+      "estimated": true
+    },
+    {
+      "t": 217.94,
+      "end": 220.38,
+      "text": "We claim the throne.",
+      "words": [
+        {
+          "t": 217.94,
+          "end": 219.18,
+          "text": "We"
+        },
+        {
+          "t": 219.18,
+          "end": 219.56,
+          "text": "claim"
+        },
+        {
+          "t": 219.56,
+          "end": 219.94,
+          "text": "the"
+        },
+        {
+          "t": 219.94,
+          "end": 220.38,
+          "text": "throne."
+        }
+      ]
+    },
+    {
+      "t": 220.5,
+      "end": 221.02,
+      "text": "Gloria!",
+      "words": [
+        {
+          "t": 220.5,
+          "end": 221.02,
+          "text": "Gloria!"
+        }
+      ]
+    },
+    {
+      "t": 221.2,
+      "end": 223.24,
+      "text": "We stand alone.",
+      "words": [
+        {
+          "t": 221.2,
+          "end": 221.54,
+          "text": "We"
+        },
+        {
+          "t": 221.54,
+          "end": 222.39,
+          "text": "stand"
+        },
+        {
+          "t": 222.39,
+          "end": 223.24,
+          "text": "alone."
+        }
+      ]
+    },
+    {
+      "t": 223.78,
+      "end": 224.58,
+      "text": "Victoria!",
+      "estimated": true
+    },
+    {
+      "t": 227.04,
+      "end": 229.25,
+      "text": "The light is won.",
+      "words": [
+        {
+          "t": 227.04,
+          "end": 227.55,
+          "text": "The"
+        },
+        {
+          "t": 227.55,
+          "end": 228.4,
+          "text": "light"
+        },
+        {
+          "t": 228.4,
+          "end": 228.74,
+          "text": "is"
+        },
+        {
+          "t": 228.74,
+          "end": 229.25,
+          "text": "won."
+        }
+      ]
+    },
+    {
+      "t": 233.46,
+      "end": 235.46,
+      "text": "It is done.",
+      "words": [
+        {
+          "t": 233.46,
+          "end": 234.76,
+          "text": "It"
+        },
+        {
+          "t": 233.96,
+          "end": 234.46,
+          "text": "is"
+        },
+        {
+          "t": 234.46,
+          "end": 235.46,
+          "text": "done."
+        }
+      ]
+    }
+  ]
+}

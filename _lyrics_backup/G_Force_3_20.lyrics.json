@@ -1,0 +1,1266 @@
+{
+  "title": "G_Force",
+  "source": "G_force.txt",
+  "timing": "audio-aligned ASR; lines marked estimated were interpolated between recognized vocals",
+  "lines": [
+    {
+      "t": 24.48,
+      "end": 26.45,
+      "text": "Click, click, click, click.",
+      "estimated": true
+    },
+    {
+      "t": 27,
+      "end": 30,
+      "text": "Please keep your hands and feet inside the car at all times.",
+      "resynced": true
+    },
+    {
+      "t": 33.02,
+      "end": 33.84,
+      "text": "Enjoy the ride.",
+      "words": [
+        {
+          "t": 33.02,
+          "end": 33.38,
+          "text": "Enjoy"
+        },
+        {
+          "t": 33.38,
+          "end": 33.68,
+          "text": "the"
+        },
+        {
+          "t": 33.68,
+          "end": 33.84,
+          "text": "ride."
+        }
+      ]
+    },
+    {
+      "t": 35.04,
+      "end": 37.14,
+      "text": "Check the belt, double click, feel the lock.",
+      "estimated": true
+    },
+    {
+      "t": 48.56,
+      "end": 50.21,
+      "text": "Watching the pavement turn into a dot.",
+      "words": [
+        {
+          "t": 48.56,
+          "end": 48.96,
+          "text": "Watching"
+        },
+        {
+          "t": 48.96,
+          "end": 49.18,
+          "text": "the"
+        },
+        {
+          "t": 49.18,
+          "end": 49.46,
+          "text": "pavement"
+        },
+        {
+          "t": 49.46,
+          "end": 49.74,
+          "text": "turn"
+        },
+        {
+          "t": 49.74,
+          "end": 49.92,
+          "text": "into"
+        },
+        {
+          "t": 49.92,
+          "end": 50.06,
+          "text": "a"
+        },
+        {
+          "t": 50.05,
+          "end": 50.21,
+          "text": "dot."
+        }
+      ]
+    },
+    {
+      "t": 50.24,
+      "end": 51.95,
+      "text": "Heart in my mouth and my knees getting weak.",
+      "words": [
+        {
+          "t": 50.24,
+          "end": 50.64,
+          "text": "Heart"
+        },
+        {
+          "t": 50.64,
+          "end": 50.78,
+          "text": "in"
+        },
+        {
+          "t": 50.78,
+          "end": 50.88,
+          "text": "my"
+        },
+        {
+          "t": 50.88,
+          "end": 51.12,
+          "text": "mouth"
+        },
+        {
+          "t": 51.12,
+          "end": 51.24,
+          "text": "and"
+        },
+        {
+          "t": 51.24,
+          "end": 51.34,
+          "text": "my"
+        },
+        {
+          "t": 51.34,
+          "end": 51.5,
+          "text": "knees"
+        },
+        {
+          "t": 51.5,
+          "end": 51.72,
+          "text": "getting"
+        },
+        {
+          "t": 51.75,
+          "end": 51.95,
+          "text": "weak."
+        }
+      ]
+    },
+    {
+      "t": 51.98,
+      "end": 53.51,
+      "text": "Steady we go toward the iron peak.",
+      "words": [
+        {
+          "t": 51.98,
+          "end": 52.32,
+          "text": "Steady"
+        },
+        {
+          "t": 52.4,
+          "end": 52.5,
+          "text": "we"
+        },
+        {
+          "t": 52.5,
+          "end": 52.7,
+          "text": "go"
+        },
+        {
+          "t": 52.7,
+          "end": 53,
+          "text": "toward"
+        },
+        {
+          "t": 53,
+          "end": 53.14,
+          "text": "the"
+        },
+        {
+          "t": 53.06,
+          "end": 53.28,
+          "text": "iron"
+        },
+        {
+          "t": 53.28,
+          "end": 53.51,
+          "text": "peak."
+        }
+      ]
+    },
+    {
+      "t": 53.54,
+      "end": 55.31,
+      "text": "Don’t look down, just look at the sky.",
+      "words": [
+        {
+          "t": 53.54,
+          "end": 54.12,
+          "text": "Don’t"
+        },
+        {
+          "t": 54.12,
+          "end": 54.26,
+          "text": "look"
+        },
+        {
+          "t": 54.26,
+          "end": 54.52,
+          "text": "down,"
+        },
+        {
+          "t": 54.56,
+          "end": 54.7,
+          "text": "just"
+        },
+        {
+          "t": 54.7,
+          "end": 54.84,
+          "text": "look"
+        },
+        {
+          "t": 54.84,
+          "end": 55.02,
+          "text": "at"
+        },
+        {
+          "t": 55.02,
+          "end": 55.14,
+          "text": "the"
+        },
+        {
+          "t": 55.12,
+          "end": 55.31,
+          "text": "sky."
+        }
+      ]
+    },
+    {
+      "t": 55.34,
+      "end": 56.95,
+      "text": "I’m terrified, but I’m ready to fly.",
+      "words": [
+        {
+          "t": 55.34,
+          "end": 55.74,
+          "text": "I’m"
+        },
+        {
+          "t": 55.74,
+          "end": 56,
+          "text": "terrified,"
+        },
+        {
+          "t": 56,
+          "end": 56.36,
+          "text": "but"
+        },
+        {
+          "t": 56.36,
+          "end": 56.54,
+          "text": "I’m"
+        },
+        {
+          "t": 56.54,
+          "end": 56.62,
+          "text": "ready"
+        },
+        {
+          "t": 56.62,
+          "end": 56.76,
+          "text": "to"
+        },
+        {
+          "t": 56.76,
+          "end": 56.95,
+          "text": "fly."
+        }
+      ]
+    },
+    {
+      "t": 56.98,
+      "end": 58.39,
+      "text": "Higher and higher, the world goes still.",
+      "words": [
+        {
+          "t": 56.98,
+          "end": 57.24,
+          "text": "Higher"
+        },
+        {
+          "t": 57.52,
+          "end": 57.68,
+          "text": "and"
+        },
+        {
+          "t": 57.68,
+          "end": 57.94,
+          "text": "higher,"
+        },
+        {
+          "t": 57.94,
+          "end": 58.18,
+          "text": "the"
+        },
+        {
+          "t": 57.77,
+          "end": 57.99,
+          "text": "world"
+        },
+        {
+          "t": 57.99,
+          "end": 58.17,
+          "text": "goes"
+        },
+        {
+          "t": 58.17,
+          "end": 58.39,
+          "text": "still."
+        }
+      ]
+    },
+    {
+      "t": 58.42,
+      "end": 60.06,
+      "text": "Living for the rush on the lift-hill."
+    },
+    {
+      "t": 60.22,
+      "end": 61.44,
+      "text": "At the edge.",
+      "words": [
+        {
+          "t": 60.22,
+          "end": 60.88,
+          "text": "At"
+        },
+        {
+          "t": 60.88,
+          "end": 61.06,
+          "text": "the"
+        },
+        {
+          "t": 61.06,
+          "end": 61.44,
+          "text": "edge."
+        }
+      ]
+    },
+    {
+      "t": 62.39,
+      "end": 63.31,
+      "text": "Don’t blink.",
+      "resynced": true
+    },
+    {
+      "t": 63.82,
+      "end": 64.9,
+      "text": "Hold your breath.",
+      "words": [
+        {
+          "t": 63.82,
+          "end": 64.3,
+          "text": "Hold"
+        },
+        {
+          "t": 64.3,
+          "end": 64.52,
+          "text": "your"
+        },
+        {
+          "t": 64.52,
+          "end": 64.9,
+          "text": "breath."
+        }
+      ]
+    },
+    {
+      "t": 66.04,
+      "end": 67.32,
+      "text": "3, 2, 1!",
+      "words": [
+        {
+          "t": 66.04,
+          "end": 66.52,
+          "text": "3,"
+        },
+        {
+          "t": 66.58,
+          "end": 66.94,
+          "text": "2,"
+        },
+        {
+          "t": 67,
+          "end": 67.32,
+          "text": "1!"
+        }
+      ]
+    },
+    {
+      "t": 68.52,
+      "end": 69.04,
+      "text": "GO!",
+      "estimated": true
+    },
+    {
+      "t": 69.07,
+      "end": 69.94,
+      "text": "Fly-fly-fly",
+      "estimated": true
+    },
+    {
+      "t": 69.97,
+      "end": 70.52,
+      "text": "WHOA!",
+      "estimated": true
+    },
+    {
+      "t": 81.9,
+      "end": 83.68,
+      "text": "G-force taking over my soul.",
+      "words": [
+        {
+          "t": 81.9,
+          "end": 82.38,
+          "text": "G-force"
+        },
+        {
+          "t": 82.58,
+          "end": 82.78,
+          "text": "taking"
+        },
+        {
+          "t": 82.87,
+          "end": 83.19,
+          "text": "over"
+        },
+        {
+          "t": 83.26,
+          "end": 83.44,
+          "text": "my"
+        },
+        {
+          "t": 83.44,
+          "end": 83.68,
+          "text": "soul."
+        }
+      ]
+    },
+    {
+      "t": 85.12,
+      "end": 86.98,
+      "text": "Losing my mind, losing control.",
+      "words": [
+        {
+          "t": 85.12,
+          "end": 85.6,
+          "text": "Losing"
+        },
+        {
+          "t": 85.6,
+          "end": 85.96,
+          "text": "my"
+        },
+        {
+          "t": 85.96,
+          "end": 86.26,
+          "text": "mind,"
+        },
+        {
+          "t": 86.3,
+          "end": 86.64,
+          "text": "losing"
+        },
+        {
+          "t": 86.64,
+          "end": 86.98,
+          "text": "control."
+        }
+      ]
+    },
+    {
+      "t": 88.1,
+      "end": 91.21,
+      "text": "Hands up high, we’re touchin’ the sun.",
+      "words": [
+        {
+          "t": 88.1,
+          "end": 88.7,
+          "text": "Hands"
+        },
+        {
+          "t": 88.7,
+          "end": 89.22,
+          "text": "up"
+        },
+        {
+          "t": 89.22,
+          "end": 89.66,
+          "text": "high,"
+        },
+        {
+          "t": 89.9,
+          "end": 90.28,
+          "text": "we’re"
+        },
+        {
+          "t": 90.28,
+          "end": 90.56,
+          "text": "touchin’"
+        },
+        {
+          "t": 90.56,
+          "end": 90.86,
+          "text": "the"
+        },
+        {
+          "t": 90.88,
+          "end": 91.21,
+          "text": "sun."
+        }
+      ]
+    },
+    {
+      "t": 91.24,
+      "end": 94.92,
+      "text": "Gravity, look what you’ve done!",
+      "words": [
+        {
+          "t": 91.24,
+          "end": 92.3,
+          "text": "Gravity,"
+        },
+        {
+          "t": 92.78,
+          "end": 93.94,
+          "text": "look"
+        },
+        {
+          "t": 93.94,
+          "end": 94.26,
+          "text": "what"
+        },
+        {
+          "t": 94.26,
+          "end": 94.58,
+          "text": "you’ve"
+        },
+        {
+          "t": 94.58,
+          "end": 94.92,
+          "text": "done!"
+        }
+      ]
+    },
+    {
+      "t": 95.56,
+      "end": 97.4,
+      "text": "G-force taking over my soul.",
+      "words": [
+        {
+          "t": 95.56,
+          "end": 96.18,
+          "text": "G-force"
+        },
+        {
+          "t": 96.18,
+          "end": 96.54,
+          "text": "taking"
+        },
+        {
+          "t": 96.54,
+          "end": 96.92,
+          "text": "over"
+        },
+        {
+          "t": 96.92,
+          "end": 97.08,
+          "text": "my"
+        },
+        {
+          "t": 97.08,
+          "end": 97.4,
+          "text": "soul."
+        }
+      ]
+    },
+    {
+      "t": 98.72,
+      "end": 100.84,
+      "text": "Heaven is a loop and a roll.",
+      "words": [
+        {
+          "t": 98.72,
+          "end": 99.32,
+          "text": "Heaven"
+        },
+        {
+          "t": 99.32,
+          "end": 99.92,
+          "text": "is"
+        },
+        {
+          "t": 99.92,
+          "end": 100.02,
+          "text": "a"
+        },
+        {
+          "t": 100.02,
+          "end": 100.26,
+          "text": "loop"
+        },
+        {
+          "t": 100.26,
+          "end": 100.44,
+          "text": "and"
+        },
+        {
+          "t": 100.44,
+          "end": 100.54,
+          "text": "a"
+        },
+        {
+          "t": 100.54,
+          "end": 100.84,
+          "text": "roll."
+        }
+      ]
+    },
+    {
+      "t": 102.02,
+      "end": 105.01,
+      "text": "Hands up high, we’re touchin’ the sun.",
+      "words": [
+        {
+          "t": 102.02,
+          "end": 102.62,
+          "text": "Hands"
+        },
+        {
+          "t": 102.62,
+          "end": 102.92,
+          "text": "up"
+        },
+        {
+          "t": 102.92,
+          "end": 103.38,
+          "text": "high,"
+        },
+        {
+          "t": 103.66,
+          "end": 103.98,
+          "text": "we’re"
+        },
+        {
+          "t": 103.98,
+          "end": 104.28,
+          "text": "touchin’"
+        },
+        {
+          "t": 104.28,
+          "end": 104.6,
+          "text": "the"
+        },
+        {
+          "t": 104.69,
+          "end": 105.01,
+          "text": "sun."
+        }
+      ]
+    },
+    {
+      "t": 105.04,
+      "end": 108.65,
+      "text": "Gravity, look what you’ve done!",
+      "words": [
+        {
+          "t": 105.04,
+          "end": 106.06,
+          "text": "Gravity,"
+        },
+        {
+          "t": 106.52,
+          "end": 107.66,
+          "text": "look"
+        },
+        {
+          "t": 107.66,
+          "end": 107.98,
+          "text": "what"
+        },
+        {
+          "t": 107.98,
+          "end": 108.28,
+          "text": "you’ve"
+        },
+        {
+          "t": 108.05,
+          "end": 108.65,
+          "text": "done!"
+        }
+      ]
+    },
+    {
+      "t": 108.68,
+      "end": 110.49,
+      "text": "Spinning in circles, a blur in the air.",
+      "words": [
+        {
+          "t": 108.68,
+          "end": 109.54,
+          "text": "Spinning"
+        },
+        {
+          "t": 109.16,
+          "end": 109.28,
+          "text": "in"
+        },
+        {
+          "t": 109.54,
+          "end": 109.82,
+          "text": "circles,"
+        },
+        {
+          "t": 109.96,
+          "end": 110.04,
+          "text": "a"
+        },
+        {
+          "t": 110.04,
+          "end": 110.18,
+          "text": "blur"
+        },
+        {
+          "t": 110.18,
+          "end": 110.34,
+          "text": "in"
+        },
+        {
+          "t": 110.34,
+          "end": 110.46,
+          "text": "the"
+        },
+        {
+          "t": 110.31,
+          "end": 110.49,
+          "text": "air."
+        }
+      ]
+    },
+    {
+      "t": 110.52,
+      "end": 112.35,
+      "text": "Wind in my face and I really don’t care.",
+      "words": [
+        {
+          "t": 110.52,
+          "end": 110.76,
+          "text": "Wind"
+        },
+        {
+          "t": 110.76,
+          "end": 110.89,
+          "text": "in"
+        },
+        {
+          "t": 111.12,
+          "end": 111.2,
+          "text": "my"
+        },
+        {
+          "t": 111.2,
+          "end": 111.58,
+          "text": "face"
+        },
+        {
+          "t": 111.58,
+          "end": 111.68,
+          "text": "and"
+        },
+        {
+          "t": 111.68,
+          "end": 111.76,
+          "text": "I"
+        },
+        {
+          "t": 111.76,
+          "end": 111.92,
+          "text": "really"
+        },
+        {
+          "t": 111.92,
+          "end": 112.16,
+          "text": "don’t"
+        },
+        {
+          "t": 112.11,
+          "end": 112.35,
+          "text": "care."
+        }
+      ]
+    },
+    {
+      "t": 112.38,
+      "end": 114.03,
+      "text": "Upside down where the sky meets the ground."
+    },
+    {
+      "t": 114.06,
+      "end": 115.77,
+      "text": "We’re the only ones in this ghost town.",
+      "words": [
+        {
+          "t": 114.06,
+          "end": 114.3,
+          "text": "We’re"
+        },
+        {
+          "t": 114.29,
+          "end": 114.46,
+          "text": "the"
+        },
+        {
+          "t": 114.3,
+          "end": 114.5,
+          "text": "only"
+        },
+        {
+          "t": 114.5,
+          "end": 114.74,
+          "text": "ones"
+        },
+        {
+          "t": 114.74,
+          "end": 114.96,
+          "text": "in"
+        },
+        {
+          "t": 114.96,
+          "end": 115.12,
+          "text": "this"
+        },
+        {
+          "t": 115.12,
+          "end": 115.4,
+          "text": "ghost"
+        },
+        {
+          "t": 115.54,
+          "end": 115.77,
+          "text": "town."
+        }
+      ]
+    },
+    {
+      "t": 115.8,
+      "end": 117.51,
+      "text": "Left turn, right turn, snap to the side.",
+      "words": [
+        {
+          "t": 115.8,
+          "end": 116.16,
+          "text": "Left"
+        },
+        {
+          "t": 116.16,
+          "end": 116.42,
+          "text": "turn,"
+        },
+        {
+          "t": 116.5,
+          "end": 116.64,
+          "text": "right"
+        },
+        {
+          "t": 116.64,
+          "end": 116.8,
+          "text": "turn,"
+        },
+        {
+          "t": 116.86,
+          "end": 117.02,
+          "text": "snap"
+        },
+        {
+          "t": 117.02,
+          "end": 117.18,
+          "text": "to"
+        },
+        {
+          "t": 117.18,
+          "end": 117.32,
+          "text": "the"
+        },
+        {
+          "t": 117.28,
+          "end": 117.51,
+          "text": "side."
+        }
+      ]
+    },
+    {
+      "t": 117.54,
+      "end": 119.17,
+      "text": "Whatever was heavy is gone on this ride.",
+      "words": [
+        {
+          "t": 117.54,
+          "end": 117.86,
+          "text": "Whatever"
+        },
+        {
+          "t": 117.86,
+          "end": 118.18,
+          "text": "was"
+        },
+        {
+          "t": 118.18,
+          "end": 118.38,
+          "text": "heavy"
+        },
+        {
+          "t": 118.44,
+          "end": 118.6,
+          "text": "is"
+        },
+        {
+          "t": 118.6,
+          "end": 118.76,
+          "text": "gone"
+        },
+        {
+          "t": 118.66,
+          "end": 118.76,
+          "text": "on"
+        },
+        {
+          "t": 118.76,
+          "end": 118.97,
+          "text": "this"
+        },
+        {
+          "t": 118.97,
+          "end": 119.17,
+          "text": "ride."
+        }
+      ]
+    },
+    {
+      "t": 119.2,
+      "end": 121.09,
+      "text": "No more logic, no more gravity.",
+      "words": [
+        {
+          "t": 119.2,
+          "end": 119.62,
+          "text": "No"
+        },
+        {
+          "t": 119.62,
+          "end": 119.86,
+          "text": "more"
+        },
+        {
+          "t": 119.86,
+          "end": 120.2,
+          "text": "logic,"
+        },
+        {
+          "t": 120.24,
+          "end": 120.42,
+          "text": "no"
+        },
+        {
+          "t": 120.42,
+          "end": 120.68,
+          "text": "more"
+        },
+        {
+          "t": 120.54,
+          "end": 121.09,
+          "text": "gravity."
+        }
+      ]
+    },
+    {
+      "t": 121.12,
+      "end": 122.64,
+      "text": "Just this electric reality.",
+      "words": [
+        {
+          "t": 121.12,
+          "end": 121.56,
+          "text": "Just"
+        },
+        {
+          "t": 121.56,
+          "end": 121.78,
+          "text": "this"
+        },
+        {
+          "t": 121.78,
+          "end": 122.08,
+          "text": "electric"
+        },
+        {
+          "t": 122.08,
+          "end": 122.64,
+          "text": "reality."
+        }
+      ]
+    },
+    {
+      "t": 123.88,
+      "end": 124.8,
+      "text": "Hold on tight.",
+      "words": [
+        {
+          "t": 123.88,
+          "end": 124.36,
+          "text": "Hold"
+        },
+        {
+          "t": 124.36,
+          "end": 124.56,
+          "text": "on"
+        },
+        {
+          "t": 124.56,
+          "end": 124.8,
+          "text": "tight."
+        }
+      ]
+    },
+    {
+      "t": 125,
+      "end": 126.62,
+      "text": "Here we go.",
+      "words": [
+        {
+          "t": 125,
+          "end": 125.98,
+          "text": "Here"
+        },
+        {
+          "t": 125.98,
+          "end": 126.24,
+          "text": "we"
+        },
+        {
+          "t": 126.24,
+          "end": 126.62,
+          "text": "go."
+        }
+      ]
+    },
+    {
+      "t": 127.8,
+      "end": 129.1,
+      "text": "Ready or not.",
+      "words": [
+        {
+          "t": 127.8,
+          "end": 128.28,
+          "text": "Ready"
+        },
+        {
+          "t": 128.28,
+          "end": 128.64,
+          "text": "or"
+        },
+        {
+          "t": 128.64,
+          "end": 129.1,
+          "text": "not."
+        }
+      ]
+    },
+    {
+      "t": 130.3,
+      "end": 130.85,
+      "text": "3, 2, 1!",
+      "estimated": true
+    },
+    {
+      "t": 156.58,
+      "end": 157.23,
+      "text": "GO!",
+      "words": [
+        {
+          "t": 156.58,
+          "end": 157.23,
+          "text": "GO!"
+        }
+      ]
+    },
+    {
+      "t": 157.26,
+      "end": 157.42,
+      "text": "Spin-spin-spin",
+      "estimated": true
+    },
+    {
+      "t": 157.45,
+      "end": 157.57,
+      "text": "WHOA!",
+      "estimated": true
+    },
+    {
+      "t": 157.6,
+      "end": 159.14,
+      "text": "G-force taking over my soul.",
+      "words": [
+        {
+          "t": 157.6,
+          "end": 158.02,
+          "text": "G-force"
+        },
+        {
+          "t": 157.9,
+          "end": 158.24,
+          "text": "taking"
+        },
+        {
+          "t": 158.24,
+          "end": 158.62,
+          "text": "over"
+        },
+        {
+          "t": 158.62,
+          "end": 158.82,
+          "text": "my"
+        },
+        {
+          "t": 158.82,
+          "end": 159.14,
+          "text": "soul."
+        }
+      ]
+    },
+    {
+      "t": 160.91,
+      "end": 162.69,
+      "text": "Losing my mind, losing control.",
+      "resynced": true
+    },
+    {
+      "t": 164.57,
+      "end": 166.66,
+      "text": "Hands up high, we’re touchin’ the sun.",
+      "resynced": true
+    },
+    {
+      "t": 166.68,
+      "end": 170.32,
+      "text": "Gravity, look what you’ve done!",
+      "words": [
+        {
+          "t": 166.68,
+          "end": 167.8,
+          "text": "Gravity,"
+        },
+        {
+          "t": 168.18,
+          "end": 169.34,
+          "text": "look"
+        },
+        {
+          "t": 169.34,
+          "end": 169.66,
+          "text": "what"
+        },
+        {
+          "t": 169.66,
+          "end": 170.02,
+          "text": "you’ve"
+        },
+        {
+          "t": 170.02,
+          "end": 170.32,
+          "text": "done!"
+        }
+      ]
+    },
+    {
+      "t": 171.75,
+      "end": 173.75,
+      "text": "G-force taking over my soul.",
+      "resynced": true
+    },
+    {
+      "t": 174.52,
+      "end": 176.2,
+      "text": "Heaven is a loop and a roll."
+    },
+    {
+      "t": 178.27,
+      "end": 180.38,
+      "text": "Hands up high, we’re touchin’ the sun.",
+      "resynced": true
+    },
+    {
+      "t": 180.4,
+      "end": 184.04,
+      "text": "Gravity, look what you’ve done!",
+      "words": [
+        {
+          "t": 180.4,
+          "end": 181.5,
+          "text": "Gravity,"
+        },
+        {
+          "t": 181.88,
+          "end": 183.06,
+          "text": "look"
+        },
+        {
+          "t": 183.06,
+          "end": 183.4,
+          "text": "what"
+        },
+        {
+          "t": 183.4,
+          "end": 183.72,
+          "text": "you’ve"
+        },
+        {
+          "t": 183.72,
+          "end": 184.04,
+          "text": "done!"
+        }
+      ]
+    },
+    {
+      "t": 186.99,
+      "end": 191.08,
+      "text": "3, 2, 1—Blast!",
+      "resynced": true
+    },
+    {
+      "t": 193.7,
+      "end": 194.83,
+      "text": "ONE MORE TIME!",
+      "words": [
+        {
+          "t": 193.7,
+          "end": 194.38,
+          "text": "ONE"
+        },
+        {
+          "t": 194.38,
+          "end": 194.6,
+          "text": "MORE"
+        },
+        {
+          "t": 194.42,
+          "end": 194.83,
+          "text": "TIME!"
+        }
+      ]
+    },
+    {
+      "t": 194.86,
+      "end": 195.73,
+      "text": "HEY! HEY! HEY!",
+      "estimated": true
+    },
+    {
+      "t": 195.76,
+      "end": 197.86,
+      "text": "Welcome back. Please exit to your left.",
+      "estimated": true
+    }
+  ],
+  "resyncNote": "20260927_012904: faster-whisper 보컬 정렬 기반으로 어긋난 줄 7개 자동 보정"
+}

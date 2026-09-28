@@ -1,0 +1,854 @@
+{
+  "title": "깊은 밤",
+  "source": "깊은 밤.txt",
+  "timing": "audio-aligned ASR; lines marked estimated were interpolated between recognized vocals",
+  "lines": [
+    {
+      "t": 11.49,
+      "end": 12.06,
+      "text": "Lose it.",
+      "estimated": true
+    },
+    {
+      "t": 12.09,
+      "end": 12.61,
+      "text": "Deep.",
+      "estimated": true
+    },
+    {
+      "t": 12.64,
+      "end": 13,
+      "text": "Now.",
+      "words": [
+        {
+          "t": 12.64,
+          "end": 13,
+          "text": "Now."
+        }
+      ]
+    },
+    {
+      "t": 36.92,
+      "end": 39.27,
+      "text": "흐릿해진 시야 너머",
+      "words": [
+        {
+          "t": 36.92,
+          "end": 38.32,
+          "text": "흐릿해진"
+        },
+        {
+          "t": 38.09,
+          "end": 38.68,
+          "text": "시야"
+        },
+        {
+          "t": 38.68,
+          "end": 39.27,
+          "text": "너머"
+        }
+      ]
+    },
+    {
+      "t": 39.3,
+      "end": 41.89,
+      "text": "번지는 보랏빛 번개",
+      "words": [
+        {
+          "t": 39.3,
+          "end": 40.27,
+          "text": "번지는"
+        },
+        {
+          "t": 40.27,
+          "end": 41.24,
+          "text": "보랏빛"
+        },
+        {
+          "t": 41.24,
+          "end": 41.89,
+          "text": "번개"
+        }
+      ]
+    },
+    {
+      "t": 43.82,
+      "end": 45.22,
+      "text": "발밑이 사라진 기분",
+      "resynced": true
+    },
+    {
+      "t": 46.34,
+      "end": 47.54,
+      "text": "여긴 어딜까",
+      "resynced": true
+    },
+    {
+      "t": 47.8,
+      "end": 50.66,
+      "text": "숨이 차올라 더 깊이",
+      "words": [
+        {
+          "t": 47.8,
+          "end": 50.22,
+          "text": "숨이"
+        },
+        {
+          "t": 48.51,
+          "end": 49.59,
+          "text": "차올라"
+        },
+        {
+          "t": 49.59,
+          "end": 49.94,
+          "text": "더"
+        },
+        {
+          "t": 49.94,
+          "end": 50.66,
+          "text": "깊이"
+        }
+      ]
+    },
+    {
+      "t": 52.48,
+      "end": 54.01,
+      "text": "감각은 마비돼 가고",
+      "words": [
+        {
+          "t": 52.48,
+          "end": 53.22,
+          "text": "감각은"
+        },
+        {
+          "t": 53.05,
+          "end": 53.63,
+          "text": "마비돼"
+        },
+        {
+          "t": 53.63,
+          "end": 54.01,
+          "text": "가고"
+        }
+      ]
+    },
+    {
+      "t": 55.7,
+      "end": 57.98,
+      "text": "기억은 조각나 흩어져",
+      "resynced": true
+    },
+    {
+      "t": 58.82,
+      "end": 59.62,
+      "text": "현실은 멀어져",
+      "resynced": true
+    },
+    {
+      "t": 63.72,
+      "end": 65.93,
+      "text": "Getting closer.",
+      "words": [
+        {
+          "t": 63.72,
+          "end": 64.96,
+          "text": "Getting"
+        },
+        {
+          "t": 64.91,
+          "end": 65.93,
+          "text": "closer."
+        }
+      ]
+    },
+    {
+      "t": 68.47,
+      "end": 69.49,
+      "text": "Falling faster.",
+      "resynced": true
+    },
+    {
+      "t": 71.23,
+      "end": 72.5,
+      "text": "Going under.",
+      "resynced": true
+    },
+    {
+      "t": 72.52,
+      "end": 74.52,
+      "text": "Right now.",
+      "words": [
+        {
+          "t": 72.52,
+          "end": 73.77,
+          "text": "Right"
+        },
+        {
+          "t": 73.77,
+          "end": 74.52,
+          "text": "now."
+        }
+      ]
+    },
+    {
+      "t": 77.59,
+      "end": 78.78,
+      "text": "Deep in the night.",
+      "resynced": true
+    },
+    {
+      "t": 80.36,
+      "end": 81.94,
+      "text": "Lose your mind.",
+      "resynced": true
+    },
+    {
+      "t": 83.87,
+      "end": 85.1,
+      "text": "Deep in the night.",
+      "resynced": true
+    },
+    {
+      "t": 86.56,
+      "end": 88.01,
+      "text": "Feel the light.",
+      "words": [
+        {
+          "t": 86.56,
+          "end": 87.24,
+          "text": "Feel"
+        },
+        {
+          "t": 87.24,
+          "end": 87.62,
+          "text": "the"
+        },
+        {
+          "t": 87.41,
+          "end": 88.01,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 88.04,
+      "end": 89.52,
+      "text": "Lost in the beat.",
+      "words": [
+        {
+          "t": 88.04,
+          "end": 88.74,
+          "text": "Lost"
+        },
+        {
+          "t": 88.74,
+          "end": 89.06,
+          "text": "in"
+        },
+        {
+          "t": 89.06,
+          "end": 89.2,
+          "text": "the"
+        },
+        {
+          "t": 89.2,
+          "end": 89.52,
+          "text": "beat."
+        }
+      ]
+    },
+    {
+      "t": 89.72,
+      "end": 91.09,
+      "text": "Lost in the dream.",
+      "words": [
+        {
+          "t": 89.72,
+          "end": 90.04,
+          "text": "Lost"
+        },
+        {
+          "t": 90.04,
+          "end": 90.48,
+          "text": "in"
+        },
+        {
+          "t": 90.48,
+          "end": 90.78,
+          "text": "the"
+        },
+        {
+          "t": 90.6,
+          "end": 91.09,
+          "text": "dream."
+        }
+      ]
+    },
+    {
+      "t": 91.12,
+      "end": 91.26,
+      "text": "Deep in the night."
+    },
+    {
+      "t": 91.28,
+      "end": 92.9,
+      "text": "Deep in the night.",
+      "resynced": true
+    },
+    {
+      "t": 94.46,
+      "end": 95.95,
+      "text": "Stay in the loop.",
+      "words": [
+        {
+          "t": 94.46,
+          "end": 94.92,
+          "text": "Stay"
+        },
+        {
+          "t": 94.94,
+          "end": 95.28,
+          "text": "in"
+        },
+        {
+          "t": 95.28,
+          "end": 95.48,
+          "text": "the"
+        },
+        {
+          "t": 95.49,
+          "end": 95.95,
+          "text": "loop."
+        }
+      ]
+    },
+    {
+      "t": 95.98,
+      "end": 97.45,
+      "text": "Break all the rules.",
+      "words": [
+        {
+          "t": 95.98,
+          "end": 96.4,
+          "text": "Break"
+        },
+        {
+          "t": 96.4,
+          "end": 96.78,
+          "text": "all"
+        },
+        {
+          "t": 96.78,
+          "end": 97,
+          "text": "the"
+        },
+        {
+          "t": 96.99,
+          "end": 97.45,
+          "text": "rules."
+        }
+      ]
+    },
+    {
+      "t": 97.48,
+      "end": 99.08,
+      "text": "Deep in the night.",
+      "words": [
+        {
+          "t": 97.48,
+          "end": 97.92,
+          "text": "Deep"
+        },
+        {
+          "t": 97.92,
+          "end": 98.3,
+          "text": "in"
+        },
+        {
+          "t": 98.3,
+          "end": 98.54,
+          "text": "the"
+        },
+        {
+          "t": 98.54,
+          "end": 99.08,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 99.12,
+      "end": 100.8,
+      "text": "Deep in the night.",
+      "words": [
+        {
+          "t": 99.12,
+          "end": 99.44,
+          "text": "Deep"
+        },
+        {
+          "t": 99.44,
+          "end": 99.86,
+          "text": "in"
+        },
+        {
+          "t": 99.86,
+          "end": 100.14,
+          "text": "the"
+        },
+        {
+          "t": 100.14,
+          "end": 100.8,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 112.12,
+      "end": 114.73,
+      "text": "차가운 공기 속 열기",
+      "words": [
+        {
+          "t": 112.12,
+          "end": 113.52,
+          "text": "차가운"
+        },
+        {
+          "t": 113.52,
+          "end": 113.96,
+          "text": "공기"
+        },
+        {
+          "t": 113.96,
+          "end": 114.12,
+          "text": "속"
+        },
+        {
+          "t": 114.08,
+          "end": 114.73,
+          "text": "열기"
+        }
+      ]
+    },
+    {
+      "t": 116.05,
+      "end": 117.86,
+      "text": "심장을 짓누르는 베이스",
+      "resynced": true
+    },
+    {
+      "t": 117.88,
+      "end": 120.74,
+      "text": "눈을 감아도 선명해",
+      "words": [
+        {
+          "t": 117.88,
+          "end": 119.64,
+          "text": "눈을"
+        },
+        {
+          "t": 119.64,
+          "end": 120.24,
+          "text": "감아도"
+        },
+        {
+          "t": 119.66,
+          "end": 120.74,
+          "text": "선명해"
+        }
+      ]
+    },
+    {
+      "t": 121.52,
+      "end": 124.02,
+      "text": "꿈속을 걷는 듯해",
+      "words": [
+        {
+          "t": 121.52,
+          "end": 123.04,
+          "text": "꿈속을"
+        },
+        {
+          "t": 123.04,
+          "end": 123.42,
+          "text": "걷는"
+        },
+        {
+          "t": 123.3,
+          "end": 124.02,
+          "text": "듯해"
+        }
+      ]
+    },
+    {
+      "t": 124.64,
+      "end": 127.25,
+      "text": "시간은 의미를 잃고",
+      "words": [
+        {
+          "t": 124.64,
+          "end": 126.16,
+          "text": "시간은"
+        },
+        {
+          "t": 125.62,
+          "end": 126.6,
+          "text": "의미를"
+        },
+        {
+          "t": 126.6,
+          "end": 127.25,
+          "text": "잃고"
+        }
+      ]
+    },
+    {
+      "t": 128.61,
+      "end": 130.61,
+      "text": "공간은 뒤섞여 버려",
+      "resynced": true
+    },
+    {
+      "t": 131.59,
+      "end": 133.65,
+      "text": "너와 나 경계가 없어",
+      "resynced": true
+    },
+    {
+      "t": 134.85,
+      "end": 136.35,
+      "text": "완벽한 이 순간",
+      "resynced": true
+    },
+    {
+      "t": 139.78,
+      "end": 141.56,
+      "text": "Getting closer.",
+      "words": [
+        {
+          "t": 139.78,
+          "end": 140.78,
+          "text": "Getting"
+        },
+        {
+          "t": 140.78,
+          "end": 141.56,
+          "text": "closer."
+        }
+      ]
+    },
+    {
+      "t": 143.12,
+      "end": 144.68,
+      "text": "Falling faster.",
+      "words": [
+        {
+          "t": 143.12,
+          "end": 144.12,
+          "text": "Falling"
+        },
+        {
+          "t": 144.12,
+          "end": 144.68,
+          "text": "faster."
+        }
+      ]
+    },
+    {
+      "t": 146.72,
+      "end": 147.66,
+      "text": "Going under.",
+      "words": [
+        {
+          "t": 146.72,
+          "end": 147.22,
+          "text": "Going"
+        },
+        {
+          "t": 147.22,
+          "end": 147.66,
+          "text": "under."
+        }
+      ]
+    },
+    {
+      "t": 149.74,
+      "end": 150.66,
+      "text": "Right now.",
+      "words": [
+        {
+          "t": 149.74,
+          "end": 150.24,
+          "text": "Right"
+        },
+        {
+          "t": 150.24,
+          "end": 150.66,
+          "text": "now."
+        }
+      ]
+    },
+    {
+      "t": 152.82,
+      "end": 153.94,
+      "text": "Deep in the night.",
+      "words": [
+        {
+          "t": 152.82,
+          "end": 153.14,
+          "text": "Deep"
+        },
+        {
+          "t": 153.14,
+          "end": 153.3,
+          "text": "in"
+        },
+        {
+          "t": 153.42,
+          "end": 153.6,
+          "text": "the"
+        },
+        {
+          "t": 153.6,
+          "end": 153.94,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 156.05,
+      "end": 157.19,
+      "text": "Lose your mind.",
+      "resynced": true
+    },
+    {
+      "t": 159.1,
+      "end": 160.18,
+      "text": "Deep in the night.",
+      "words": [
+        {
+          "t": 159.1,
+          "end": 159.41,
+          "text": "Deep"
+        },
+        {
+          "t": 159.41,
+          "end": 159.56,
+          "text": "in"
+        },
+        {
+          "t": 159.7,
+          "end": 159.86,
+          "text": "the"
+        },
+        {
+          "t": 159.86,
+          "end": 160.18,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 162,
+      "end": 163.25,
+      "text": "Feel the light.",
+      "words": [
+        {
+          "t": 162,
+          "end": 162.68,
+          "text": "Feel"
+        },
+        {
+          "t": 162.68,
+          "end": 162.88,
+          "text": "the"
+        },
+        {
+          "t": 162.73,
+          "end": 163.25,
+          "text": "light."
+        }
+      ]
+    },
+    {
+      "t": 163.28,
+      "end": 164.84,
+      "text": "Lost in the beat.",
+      "words": [
+        {
+          "t": 163.28,
+          "end": 164.12,
+          "text": "Lost"
+        },
+        {
+          "t": 164.12,
+          "end": 164.36,
+          "text": "in"
+        },
+        {
+          "t": 164.36,
+          "end": 164.5,
+          "text": "the"
+        },
+        {
+          "t": 164.5,
+          "end": 164.84,
+          "text": "beat."
+        }
+      ]
+    },
+    {
+      "t": 165.06,
+      "end": 166.37,
+      "text": "Lost in the dream.",
+      "words": [
+        {
+          "t": 165.06,
+          "end": 165.42,
+          "text": "Lost"
+        },
+        {
+          "t": 165.42,
+          "end": 165.78,
+          "text": "in"
+        },
+        {
+          "t": 165.78,
+          "end": 166.06,
+          "text": "the"
+        },
+        {
+          "t": 165.9,
+          "end": 166.37,
+          "text": "dream."
+        }
+      ]
+    },
+    {
+      "t": 166.4,
+      "end": 166.56,
+      "text": "Deep in the night."
+    },
+    {
+      "t": 166.58,
+      "end": 168.22,
+      "text": "Deep in the night.",
+      "resynced": true
+    },
+    {
+      "t": 169.72,
+      "end": 171.25,
+      "text": "Stay in the loop.",
+      "words": [
+        {
+          "t": 169.72,
+          "end": 170.3,
+          "text": "Stay"
+        },
+        {
+          "t": 170.3,
+          "end": 170.6,
+          "text": "in"
+        },
+        {
+          "t": 170.6,
+          "end": 170.78,
+          "text": "the"
+        },
+        {
+          "t": 170.78,
+          "end": 171.25,
+          "text": "loop."
+        }
+      ]
+    },
+    {
+      "t": 171.28,
+      "end": 172.67,
+      "text": "Break all the rules.",
+      "words": [
+        {
+          "t": 171.28,
+          "end": 171.66,
+          "text": "Break"
+        },
+        {
+          "t": 171.66,
+          "end": 172.06,
+          "text": "all"
+        },
+        {
+          "t": 172.06,
+          "end": 172.38,
+          "text": "the"
+        },
+        {
+          "t": 172.24,
+          "end": 172.67,
+          "text": "rules."
+        }
+      ]
+    },
+    {
+      "t": 172.7,
+      "end": 174.32,
+      "text": "Deep in the night.",
+      "words": [
+        {
+          "t": 172.7,
+          "end": 173.2,
+          "text": "Deep"
+        },
+        {
+          "t": 173.2,
+          "end": 173.54,
+          "text": "in"
+        },
+        {
+          "t": 173.54,
+          "end": 173.88,
+          "text": "the"
+        },
+        {
+          "t": 173.88,
+          "end": 174.32,
+          "text": "night."
+        }
+      ]
+    },
+    {
+      "t": 174.44,
+      "end": 175.95,
+      "text": "Deep in the night.",
+      "words": [
+        {
+          "t": 174.44,
+          "end": 174.82,
+          "text": "Deep"
+        },
+        {
+          "t": 174.82,
+          "end": 175.14,
+          "text": "in"
+        },
+        {
+          "t": 175.14,
+          "end": 175.48,
+          "text": "the"
+        },
+        {
+          "t": 175.41,
+          "end": 175.95,
+          "text": "night."
+        }
+      ]
+    }
+  ],
+  "unmatchedText": [
+    "Deep.",
+    "Dream.",
+    "Night.",
+    "Lose it."
+  ],
+  "resyncNote": "20260927_012904: faster-whisper 보컬 정렬 기반으로 어긋난 줄 16개 자동 보정"
+}

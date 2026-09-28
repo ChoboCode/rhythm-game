@@ -1,0 +1,1498 @@
+{
+ "title": "Neon Runner",
+ "source": "Neon Runner.txt",
+ "timing": "vocal-aligned-v2",
+ "lines": [
+  {
+   "t": 20.48,
+   "end": 21.26,
+   "text": "Lights on",
+   "estimated": true,
+   "words": [
+    {
+     "t": 20.48,
+     "end": 21.065,
+     "text": "Lights"
+    },
+    {
+     "t": 21.065,
+     "end": 21.26,
+     "text": "on"
+    }
+   ]
+  },
+  {
+   "t": 21.28,
+   "end": 22.46,
+   "text": "Systems ready",
+   "estimated": true,
+   "words": [
+    {
+     "t": 21.28,
+     "end": 21.98,
+     "text": "Systems"
+    },
+    {
+     "t": 21.98,
+     "end": 22.46,
+     "text": "ready"
+    }
+   ]
+  },
+  {
+   "t": 22.48,
+   "end": 23.56,
+   "text": "Three, two, one",
+   "estimated": true,
+   "words": [
+    {
+     "t": 22.48,
+     "end": 22.98,
+     "text": "Three,"
+    },
+    {
+     "t": 22.98,
+     "end": 23.28,
+     "text": "two,"
+    },
+    {
+     "t": 23.28,
+     "end": 23.56,
+     "text": "one"
+    }
+   ]
+  },
+  {
+   "t": 23.58,
+   "end": 24.03,
+   "text": "Run!",
+   "words": [
+    {
+     "t": 23.58,
+     "end": 24.03,
+     "text": "Run!"
+    }
+   ]
+  },
+  {
+   "t": 24.06,
+   "end": 28.31,
+   "text": "Midnight city, flashing signs",
+   "words": [
+    {
+     "t": 24.06,
+     "end": 25.42,
+     "text": "Midnight"
+    },
+    {
+     "t": 25.42,
+     "end": 26.1,
+     "text": "city,"
+    },
+    {
+     "t": 26.1,
+     "end": 27.46,
+     "text": "flashing"
+    },
+    {
+     "t": 27.46,
+     "end": 28.31,
+     "text": "signs"
+    }
+   ]
+  },
+  {
+   "t": 28.92,
+   "end": 31.97,
+   "text": "Running through the neon lights",
+   "words": [
+    {
+     "t": 28.92,
+     "end": 29.711,
+     "text": "Running"
+    },
+    {
+     "t": 29.711,
+     "end": 30.501,
+     "text": "through"
+    },
+    {
+     "t": 30.501,
+     "end": 30.84,
+     "text": "the"
+    },
+    {
+     "t": 30.84,
+     "end": 31.292,
+     "text": "neon"
+    },
+    {
+     "t": 31.292,
+     "end": 31.97,
+     "text": "lights"
+    }
+   ]
+  },
+  {
+   "t": 32.0,
+   "end": 35.23,
+   "text": "Heartbeat racing, feel the sound",
+   "words": [
+    {
+     "t": 32.0,
+     "end": 33.077,
+     "text": "Heartbeat"
+    },
+    {
+     "t": 33.077,
+     "end": 33.794,
+     "text": "racing,"
+    },
+    {
+     "t": 33.794,
+     "end": 34.273,
+     "text": "feel"
+    },
+    {
+     "t": 34.273,
+     "end": 34.632,
+     "text": "the"
+    },
+    {
+     "t": 34.632,
+     "end": 35.23,
+     "text": "sound"
+    }
+   ]
+  },
+  {
+   "t": 35.26,
+   "end": 38.19,
+   "text": "Never stop, don’t turn around",
+   "words": [
+    {
+     "t": 35.26,
+     "end": 35.897,
+     "text": "Never"
+    },
+    {
+     "t": 35.897,
+     "end": 36.407,
+     "text": "stop,"
+    },
+    {
+     "t": 36.407,
+     "end": 36.916,
+     "text": "don’t"
+    },
+    {
+     "t": 36.916,
+     "end": 37.426,
+     "text": "turn"
+    },
+    {
+     "t": 37.426,
+     "end": 38.19,
+     "text": "around"
+    }
+   ]
+  },
+  {
+   "t": 38.22,
+   "end": 41.14,
+   "text": "Electric sky above my head",
+   "words": [
+    {
+     "t": 38.22,
+     "end": 39.453,
+     "text": "Electric"
+    },
+    {
+     "t": 39.453,
+     "end": 39.915,
+     "text": "sky"
+    },
+    {
+     "t": 39.915,
+     "end": 40.556,
+     "text": "above"
+    },
+    {
+     "t": 40.556,
+     "end": 40.848,
+     "text": "my"
+    },
+    {
+     "t": 40.848,
+     "end": 41.14,
+     "text": "head"
+    }
+   ]
+  },
+  {
+   "t": 41.14,
+   "end": 44.64,
+   "text": "Every step is glowing red",
+   "words": [
+    {
+     "t": 41.14,
+     "end": 42.06,
+     "text": "Every"
+    },
+    {
+     "t": 42.06,
+     "end": 42.98,
+     "text": "step"
+    },
+    {
+     "t": 42.98,
+     "end": 43.64,
+     "text": "is"
+    },
+    {
+     "t": 43.64,
+     "end": 44.08,
+     "text": "glowing"
+    },
+    {
+     "t": 44.08,
+     "end": 44.64,
+     "text": "red"
+    }
+   ]
+  },
+  {
+   "t": 44.66,
+   "end": 47.8,
+   "text": "Faster, faster, lose control",
+   "words": [
+    {
+     "t": 44.66,
+     "end": 46.08,
+     "text": "Faster,"
+    },
+    {
+     "t": 46.08,
+     "end": 46.92,
+     "text": "faster,"
+    },
+    {
+     "t": 46.92,
+     "end": 47.22,
+     "text": "lose"
+    },
+    {
+     "t": 47.22,
+     "end": 47.8,
+     "text": "control"
+    }
+   ]
+  },
+  {
+   "t": 47.8,
+   "end": 51.1,
+   "text": "Feel the rhythm take your soul",
+   "words": [
+    {
+     "t": 47.8,
+     "end": 49.02,
+     "text": "Feel"
+    },
+    {
+     "t": 49.02,
+     "end": 49.22,
+     "text": "the"
+    },
+    {
+     "t": 49.22,
+     "end": 49.88,
+     "text": "rhythm"
+    },
+    {
+     "t": 49.88,
+     "end": 50.18,
+     "text": "take"
+    },
+    {
+     "t": 50.18,
+     "end": 50.825,
+     "text": "your"
+    },
+    {
+     "t": 50.825,
+     "end": 51.1,
+     "text": "soul"
+    }
+   ]
+  },
+  {
+   "t": 51.1,
+   "end": 52.7,
+   "text": "One more step",
+   "words": [
+    {
+     "t": 51.1,
+     "end": 52.02,
+     "text": "One"
+    },
+    {
+     "t": 52.02,
+     "end": 52.3,
+     "text": "more"
+    },
+    {
+     "t": 52.3,
+     "end": 52.7,
+     "text": "step"
+    }
+   ]
+  },
+  {
+   "t": 52.96,
+   "end": 54.32,
+   "text": "One more beat",
+   "words": [
+    {
+     "t": 52.96,
+     "end": 53.64,
+     "text": "One"
+    },
+    {
+     "t": 53.64,
+     "end": 53.98,
+     "text": "more"
+    },
+    {
+     "t": 53.98,
+     "end": 54.32,
+     "text": "beat"
+    }
+   ]
+  },
+  {
+   "t": 54.64,
+   "end": 57.48,
+   "text": "Feel the fire under your feet",
+   "words": [
+    {
+     "t": 54.64,
+     "end": 55.2,
+     "text": "Feel"
+    },
+    {
+     "t": 55.2,
+     "end": 55.46,
+     "text": "the"
+    },
+    {
+     "t": 55.46,
+     "end": 56.02,
+     "text": "fire"
+    },
+    {
+     "t": 56.02,
+     "end": 56.86,
+     "text": "under"
+    },
+    {
+     "t": 56.86,
+     "end": 57.24,
+     "text": "your"
+    },
+    {
+     "t": 57.24,
+     "end": 57.48,
+     "text": "feet"
+    }
+   ]
+  },
+  {
+   "t": 57.48,
+   "end": 59.1,
+   "text": "No way back",
+   "words": [
+    {
+     "t": 57.48,
+     "end": 58.36,
+     "text": "No"
+    },
+    {
+     "t": 58.36,
+     "end": 58.7,
+     "text": "way"
+    },
+    {
+     "t": 58.7,
+     "end": 59.1,
+     "text": "back"
+    }
+   ]
+  },
+  {
+   "t": 59.5,
+   "end": 60.82,
+   "text": "No time to hide",
+   "words": [
+    {
+     "t": 59.5,
+     "end": 59.78,
+     "text": "No"
+    },
+    {
+     "t": 59.78,
+     "end": 60.2,
+     "text": "time"
+    },
+    {
+     "t": 60.2,
+     "end": 60.42,
+     "text": "to"
+    },
+    {
+     "t": 60.42,
+     "end": 60.82,
+     "text": "hide"
+    }
+   ]
+  },
+  {
+   "t": 61.42,
+   "end": 62.88,
+   "text": "Tonight we run into the light",
+   "words": [
+    {
+     "t": 61.42,
+     "end": 62.14,
+     "text": "Tonight"
+    },
+    {
+     "t": 62.14,
+     "end": 62.393,
+     "text": "we"
+    },
+    {
+     "t": 62.393,
+     "end": 62.515,
+     "text": "run"
+    },
+    {
+     "t": 62.515,
+     "end": 62.637,
+     "text": "into"
+    },
+    {
+     "t": 62.637,
+     "end": 62.758,
+     "text": "the"
+    },
+    {
+     "t": 62.758,
+     "end": 62.88,
+     "text": "light"
+    }
+   ]
+  },
+  {
+   "t": 62.88,
+   "end": 66.51,
+   "text": "Neon Runner",
+   "words": [
+    {
+     "t": 62.88,
+     "end": 65.602,
+     "text": "Neon"
+    },
+    {
+     "t": 65.602,
+     "end": 66.51,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 66.51,
+   "end": 68.85,
+   "text": "Run, run, run",
+   "words": [
+    {
+     "t": 66.51,
+     "end": 67.61,
+     "text": "Run,"
+    },
+    {
+     "t": 67.61,
+     "end": 68.46,
+     "text": "run,"
+    },
+    {
+     "t": 68.46,
+     "end": 68.85,
+     "text": "run"
+    }
+   ]
+  },
+  {
+   "t": 69.15,
+   "end": 73.58,
+   "text": "Chasing light until the morning comes",
+   "words": [
+    {
+     "t": 69.15,
+     "end": 70.38,
+     "text": "Chasing"
+    },
+    {
+     "t": 70.38,
+     "end": 71.26,
+     "text": "light"
+    },
+    {
+     "t": 71.26,
+     "end": 71.96,
+     "text": "until"
+    },
+    {
+     "t": 71.96,
+     "end": 72.44,
+     "text": "the"
+    },
+    {
+     "t": 72.44,
+     "end": 73.08,
+     "text": "morning"
+    },
+    {
+     "t": 73.08,
+     "end": 73.58,
+     "text": "comes"
+    }
+   ]
+  },
+  {
+   "t": 77.06,
+   "end": 78.72,
+   "text": "Neon Runner",
+   "words": [
+    {
+     "t": 77.06,
+     "end": 77.724,
+     "text": "Neon"
+    },
+    {
+     "t": 77.724,
+     "end": 78.72,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 78.98,
+   "end": 80.12,
+   "text": "Don’t slow down",
+   "words": [
+    {
+     "t": 78.98,
+     "end": 79.38,
+     "text": "Don’t"
+    },
+    {
+     "t": 79.38,
+     "end": 79.78,
+     "text": "slow"
+    },
+    {
+     "t": 79.78,
+     "end": 80.12,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 80.47,
+   "end": 83.18,
+   "text": "Feel the bass shake the ground",
+   "words": [
+    {
+     "t": 80.47,
+     "end": 81.07,
+     "text": "Feel"
+    },
+    {
+     "t": 81.07,
+     "end": 81.21,
+     "text": "the"
+    },
+    {
+     "t": 81.21,
+     "end": 81.63,
+     "text": "bass"
+    },
+    {
+     "t": 81.63,
+     "end": 82.33,
+     "text": "shake"
+    },
+    {
+     "t": 82.33,
+     "end": 82.87,
+     "text": "the"
+    },
+    {
+     "t": 82.87,
+     "end": 83.18,
+     "text": "ground"
+    }
+   ]
+  },
+  {
+   "t": 83.2,
+   "end": 83.58,
+   "text": "Run!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 83.2,
+     "end": 83.58,
+     "text": "Run!"
+    }
+   ],
+   "spread": true
+  },
+  {
+   "t": 83.63,
+   "end": 84.15,
+   "text": "Run!",
+   "words": [
+    {
+     "t": 83.63,
+     "end": 84.15,
+     "text": "Run!"
+    }
+   ]
+  },
+  {
+   "t": 84.44,
+   "end": 84.64,
+   "text": "Run!",
+   "words": [
+    {
+     "t": 84.44,
+     "end": 84.64,
+     "text": "Run!"
+    }
+   ]
+  },
+  {
+   "t": 85.41,
+   "end": 88.062,
+   "text": "Into the neon night",
+   "words": [
+    {
+     "t": 85.41,
+     "end": 86.35,
+     "text": "Into"
+    },
+    {
+     "t": 86.35,
+     "end": 86.77,
+     "text": "the"
+    },
+    {
+     "t": 86.77,
+     "end": 87.562,
+     "text": "neon"
+    },
+    {
+     "t": 87.562,
+     "end": 88.062,
+     "text": "night"
+    }
+   ]
+  },
+  {
+   "t": 94.82,
+   "end": 95.56,
+   "text": "Go!",
+   "words": [
+    {
+     "t": 94.82,
+     "end": 95.56,
+     "text": "Go!"
+    }
+   ]
+  },
+  {
+   "t": 96.76,
+   "end": 98.14,
+   "text": "Ne-Ne-Neon Runner",
+   "estimated": true,
+   "words": [
+    {
+     "t": 96.76,
+     "end": 97.56,
+     "text": "Ne-Ne-Neon"
+    },
+    {
+     "t": 97.56,
+     "end": 98.14,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 98.16,
+   "end": 99.54,
+   "text": "Ne-Ne-Neon Runner",
+   "estimated": true,
+   "words": [
+    {
+     "t": 98.16,
+     "end": 98.96,
+     "text": "Ne-Ne-Neon"
+    },
+    {
+     "t": 98.96,
+     "end": 99.54,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 99.56,
+   "end": 100.11,
+   "text": "Run it",
+   "estimated": true,
+   "words": [
+    {
+     "t": 99.56,
+     "end": 99.89,
+     "text": "Run"
+    },
+    {
+     "t": 99.89,
+     "end": 100.11,
+     "text": "it"
+    }
+   ]
+  },
+  {
+   "t": 106.18,
+   "end": 106.48,
+   "text": "Break",
+   "words": [
+    {
+     "t": 106.18,
+     "end": 106.48,
+     "text": "Break"
+    }
+   ]
+  },
+  {
+   "t": 106.5,
+   "end": 107.13,
+   "text": "it",
+   "estimated": true,
+   "words": [
+    {
+     "t": 106.5,
+     "end": 107.13,
+     "text": "it"
+    }
+   ]
+  },
+  {
+   "t": 107.16,
+   "end": 109.1,
+   "text": "Push it",
+   "words": [
+    {
+     "t": 107.16,
+     "end": 108.453,
+     "text": "Push"
+    },
+    {
+     "t": 108.453,
+     "end": 109.1,
+     "text": "it"
+    }
+   ]
+  },
+  {
+   "t": 109.98,
+   "end": 110.393,
+   "text": "Higher!",
+   "words": [
+    {
+     "t": 109.98,
+     "end": 110.393,
+     "text": "Higher!"
+    }
+   ]
+  },
+  {
+   "t": 110.393,
+   "end": 113.3,
+   "text": "Ne-Ne-Neon Runner",
+   "estimated": true,
+   "words": [
+    {
+     "t": 110.393,
+     "end": 112.573,
+     "text": "Ne-Ne-Neon"
+    },
+    {
+     "t": 112.573,
+     "end": 113.3,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 113.3,
+   "end": 114.28,
+   "text": "Keep it moving",
+   "words": [
+    {
+     "t": 113.3,
+     "end": 113.62,
+     "text": "Keep"
+    },
+    {
+     "t": 113.62,
+     "end": 113.88,
+     "text": "it"
+    },
+    {
+     "t": 113.88,
+     "end": 114.28,
+     "text": "moving"
+    }
+   ]
+  },
+  {
+   "t": 114.3,
+   "end": 115.04,
+   "text": "Keep it moving",
+   "words": [
+    {
+     "t": 114.3,
+     "end": 114.547,
+     "text": "Keep"
+    },
+    {
+     "t": 114.547,
+     "end": 114.67,
+     "text": "it"
+    },
+    {
+     "t": 114.67,
+     "end": 115.04,
+     "text": "moving"
+    }
+   ]
+  },
+  {
+   "t": 115.78,
+   "end": 116.88,
+   "text": "Three, two, one",
+   "estimated": true,
+   "words": [
+    {
+     "t": 115.78,
+     "end": 116.28,
+     "text": "Three,"
+    },
+    {
+     "t": 116.28,
+     "end": 116.58,
+     "text": "two,"
+    },
+    {
+     "t": 116.58,
+     "end": 116.88,
+     "text": "one"
+    }
+   ]
+  },
+  {
+   "t": 120.27,
+   "end": 120.83,
+   "text": "Drop!",
+   "words": [
+    {
+     "t": 120.27,
+     "end": 120.83,
+     "text": "Drop!"
+    }
+   ]
+  },
+  {
+   "t": 127.45,
+   "end": 128.64,
+   "text": "Slow down",
+   "words": [
+    {
+     "t": 127.45,
+     "end": 128.05,
+     "text": "Slow"
+    },
+    {
+     "t": 128.05,
+     "end": 128.64,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 128.67,
+   "end": 129.36,
+   "text": "Breathe in",
+   "words": [
+    {
+     "t": 128.67,
+     "end": 128.89,
+     "text": "Breathe"
+    },
+    {
+     "t": 128.89,
+     "end": 129.36,
+     "text": "in"
+    }
+   ]
+  },
+  {
+   "t": 129.45,
+   "end": 130.19,
+   "text": "Lights fade",
+   "estimated": true,
+   "words": [
+    {
+     "t": 129.45,
+     "end": 130.005,
+     "text": "Lights"
+    },
+    {
+     "t": 130.005,
+     "end": 130.19,
+     "text": "fade"
+    }
+   ]
+  },
+  {
+   "t": 130.19,
+   "end": 131.33,
+   "text": "One heartbeat",
+   "words": [
+    {
+     "t": 130.19,
+     "end": 130.47,
+     "text": "One"
+    },
+    {
+     "t": 130.47,
+     "end": 131.33,
+     "text": "heartbeat"
+    }
+   ]
+  },
+  {
+   "t": 131.33,
+   "end": 132.25,
+   "text": "One chance",
+   "estimated": true,
+   "words": [
+    {
+     "t": 131.33,
+     "end": 131.65,
+     "text": "One"
+    },
+    {
+     "t": 131.65,
+     "end": 132.25,
+     "text": "chance"
+    }
+   ]
+  },
+  {
+   "t": 133.21,
+   "end": 134.12,
+   "text": "Ready again",
+   "estimated": true,
+   "words": [
+    {
+     "t": 133.21,
+     "end": 133.892,
+     "text": "Ready"
+    },
+    {
+     "t": 133.892,
+     "end": 134.12,
+     "text": "again"
+    }
+   ]
+  },
+  {
+   "t": 134.12,
+   "end": 134.72,
+   "text": "Faster",
+   "words": [
+    {
+     "t": 134.12,
+     "end": 134.72,
+     "text": "Faster"
+    }
+   ]
+  },
+  {
+   "t": 134.94,
+   "end": 135.52,
+   "text": "Faster",
+   "words": [
+    {
+     "t": 134.94,
+     "end": 135.52,
+     "text": "Faster"
+    }
+   ]
+  },
+  {
+   "t": 135.72,
+   "end": 136.08,
+   "text": "Faster",
+   "words": [
+    {
+     "t": 135.72,
+     "end": 136.08,
+     "text": "Faster"
+    }
+   ]
+  },
+  {
+   "t": 136.08,
+   "end": 137.68,
+   "text": "Don’t stop now",
+   "words": [
+    {
+     "t": 136.08,
+     "end": 137.06,
+     "text": "Don’t"
+    },
+    {
+     "t": 137.06,
+     "end": 137.22,
+     "text": "stop"
+    },
+    {
+     "t": 137.22,
+     "end": 137.68,
+     "text": "now"
+    }
+   ]
+  },
+  {
+   "t": 140.36,
+   "end": 141.16,
+   "text": "Higher",
+   "words": [
+    {
+     "t": 140.36,
+     "end": 141.16,
+     "text": "Higher"
+    }
+   ]
+  },
+  {
+   "t": 141.24,
+   "end": 141.94,
+   "text": "Higher",
+   "words": [
+    {
+     "t": 141.24,
+     "end": 141.94,
+     "text": "Higher"
+    }
+   ]
+  },
+  {
+   "t": 142.12,
+   "end": 142.72,
+   "text": "Higher",
+   "words": [
+    {
+     "t": 142.12,
+     "end": 142.72,
+     "text": "Higher"
+    }
+   ]
+  },
+  {
+   "t": 142.86,
+   "end": 144.42,
+   "text": "Here we go!",
+   "words": [
+    {
+     "t": 142.86,
+     "end": 143.64,
+     "text": "Here"
+    },
+    {
+     "t": 143.64,
+     "end": 144.03,
+     "text": "we"
+    },
+    {
+     "t": 144.03,
+     "end": 144.42,
+     "text": "go!"
+    }
+   ]
+  },
+  {
+   "t": 145.62,
+   "end": 146.6,
+   "text": "Neon Runner",
+   "estimated": true,
+   "words": [
+    {
+     "t": 145.62,
+     "end": 146.02,
+     "text": "Neon"
+    },
+    {
+     "t": 146.02,
+     "end": 146.6,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 146.62,
+   "end": 147.52,
+   "text": "Run, run, run",
+   "estimated": true,
+   "words": [
+    {
+     "t": 146.62,
+     "end": 146.92,
+     "text": "Run,"
+    },
+    {
+     "t": 146.92,
+     "end": 147.22,
+     "text": "run,"
+    },
+    {
+     "t": 147.22,
+     "end": 147.52,
+     "text": "run"
+    }
+   ]
+  },
+  {
+   "t": 166.06,
+   "end": 170.78,
+   "text": "Chasing light until the morning comes",
+   "words": [
+    {
+     "t": 166.06,
+     "end": 167.093,
+     "text": "Chasing"
+    },
+    {
+     "t": 167.093,
+     "end": 167.83,
+     "text": "light"
+    },
+    {
+     "t": 167.83,
+     "end": 168.567,
+     "text": "until"
+    },
+    {
+     "t": 168.567,
+     "end": 169.01,
+     "text": "the"
+    },
+    {
+     "t": 169.01,
+     "end": 170.042,
+     "text": "morning"
+    },
+    {
+     "t": 170.042,
+     "end": 170.78,
+     "text": "comes"
+    }
+   ]
+  },
+  {
+   "t": 171.28,
+   "end": 172.28,
+   "text": "Neon Runner",
+   "estimated": true,
+   "words": [
+    {
+     "t": 171.28,
+     "end": 171.68,
+     "text": "Neon"
+    },
+    {
+     "t": 171.68,
+     "end": 172.28,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 174.58,
+   "end": 176.09,
+   "text": "Feel the sound",
+   "words": [
+    {
+     "t": 174.58,
+     "end": 175.083,
+     "text": "Feel"
+    },
+    {
+     "t": 175.083,
+     "end": 175.461,
+     "text": "the"
+    },
+    {
+     "t": 175.461,
+     "end": 176.09,
+     "text": "sound"
+    }
+   ]
+  },
+  {
+   "t": 176.12,
+   "end": 179.3,
+   "text": "Every beat is pulling us now",
+   "words": [
+    {
+     "t": 176.12,
+     "end": 176.811,
+     "text": "Every"
+    },
+    {
+     "t": 176.811,
+     "end": 177.364,
+     "text": "beat"
+    },
+    {
+     "t": 177.364,
+     "end": 177.641,
+     "text": "is"
+    },
+    {
+     "t": 177.641,
+     "end": 178.609,
+     "text": "pulling"
+    },
+    {
+     "t": 178.609,
+     "end": 178.885,
+     "text": "us"
+    },
+    {
+     "t": 178.885,
+     "end": 179.3,
+     "text": "now"
+    }
+   ]
+  },
+  {
+   "t": 179.49,
+   "end": 180.01,
+   "text": "Run!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 179.49,
+     "end": 180.01,
+     "text": "Run!"
+    }
+   ]
+  },
+  {
+   "t": 180.04,
+   "end": 180.56,
+   "text": "Run!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 180.04,
+     "end": 180.56,
+     "text": "Run!"
+    }
+   ]
+  },
+  {
+   "t": 180.59,
+   "end": 181.14,
+   "text": "Run!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 180.59,
+     "end": 181.14,
+     "text": "Run!"
+    }
+   ]
+  },
+  {
+   "t": 182.0,
+   "end": 184.72,
+   "text": "Into the neon night",
+   "words": [
+    {
+     "t": 182.0,
+     "end": 182.68,
+     "text": "Into"
+    },
+    {
+     "t": 182.68,
+     "end": 183.19,
+     "text": "the"
+    },
+    {
+     "t": 183.19,
+     "end": 183.87,
+     "text": "neon"
+    },
+    {
+     "t": 183.87,
+     "end": 184.72,
+     "text": "night"
+    }
+   ]
+  },
+  {
+   "t": 185.92,
+   "end": 187.32,
+   "text": "Ne-Ne-Neon Runner",
+   "estimated": true,
+   "words": [
+    {
+     "t": 185.92,
+     "end": 186.72,
+     "text": "Ne-Ne-Neon"
+    },
+    {
+     "t": 186.72,
+     "end": 187.32,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 196.42,
+   "end": 197.6,
+   "text": "Ne-Ne-Neon Runner",
+   "words": [
+    {
+     "t": 196.42,
+     "end": 197.22,
+     "text": "Ne-Ne-Neon"
+    },
+    {
+     "t": 197.22,
+     "end": 197.6,
+     "text": "Runner"
+    }
+   ]
+  },
+  {
+   "t": 197.62,
+   "end": 197.75,
+   "text": "Go!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 197.62,
+     "end": 197.75,
+     "text": "Go!"
+    }
+   ]
+  },
+  {
+   "t": 197.77,
+   "end": 197.9,
+   "text": "Go!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 197.77,
+     "end": 197.9,
+     "text": "Go!"
+    }
+   ]
+  },
+  {
+   "t": 197.92,
+   "end": 198.05,
+   "text": "Go!",
+   "estimated": true,
+   "words": [
+    {
+     "t": 197.92,
+     "end": 198.05,
+     "text": "Go!"
+    }
+   ]
+  },
+  {
+   "t": 198.07,
+   "end": 199.62,
+   "text": "Never stop",
+   "words": [
+    {
+     "t": 198.07,
+     "end": 198.931,
+     "text": "Never"
+    },
+    {
+     "t": 198.931,
+     "end": 199.62,
+     "text": "stop"
+    }
+   ]
+  },
+  {
+   "t": 201.12,
+   "end": 202.12,
+   "text": "Never stop",
+   "words": [
+    {
+     "t": 201.12,
+     "end": 201.72,
+     "text": "Never"
+    },
+    {
+     "t": 201.72,
+     "end": 202.12,
+     "text": "stop"
+    }
+   ]
+  },
+  {
+   "t": 202.88,
+   "end": 203.9,
+   "text": "Neon Runner!",
+   "words": [
+    {
+     "t": 202.88,
+     "end": 203.288,
+     "text": "Neon"
+    },
+    {
+     "t": 203.288,
+     "end": 203.9,
+     "text": "Runner!"
+    }
+   ]
+  }
+ ],
+ "resyncNote": "align-lyrics.py: 보컬 스템 faster-whisper large-v3 받아쓰기와 글자 단위로 맞춘 뒤 단어 시작을 보컬 소리 시작(±0.08초)에 붙임. 모든 줄에 단어 시각."
+}

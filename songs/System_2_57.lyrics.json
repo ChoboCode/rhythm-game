@@ -1,0 +1,769 @@
+{
+ "title": "System",
+ "source": "system.txt",
+ "timing": "vocal-aligned-v2",
+ "lines": [
+  {
+   "t": 1.97,
+   "end": 2.91,
+   "text": "System online",
+   "words": [
+    {
+     "t": 1.97,
+     "end": 2.51,
+     "text": "System"
+    },
+    {
+     "t": 2.51,
+     "end": 2.91,
+     "text": "online"
+    }
+   ]
+  },
+  {
+   "t": 2.91,
+   "end": 6.26,
+   "text": "Voltage rising",
+   "words": [
+    {
+     "t": 2.91,
+     "end": 5.422,
+     "text": "Voltage"
+    },
+    {
+     "t": 5.422,
+     "end": 6.26,
+     "text": "rising"
+    }
+   ]
+  },
+  {
+   "t": 6.84,
+   "end": 9.33,
+   "text": "Signal locked",
+   "words": [
+    {
+     "t": 6.84,
+     "end": 8.67,
+     "text": "Signal"
+    },
+    {
+     "t": 8.67,
+     "end": 9.33,
+     "text": "locked"
+    }
+   ]
+  },
+  {
+   "t": 9.44,
+   "end": 9.94,
+   "text": "Ready",
+   "words": [
+    {
+     "t": 9.44,
+     "end": 9.94,
+     "text": "Ready"
+    }
+   ]
+  },
+  {
+   "t": 10.18,
+   "end": 11.26,
+   "text": "Go",
+   "words": [
+    {
+     "t": 10.18,
+     "end": 11.26,
+     "text": "Go"
+    }
+   ]
+  },
+  {
+   "t": 12.46,
+   "end": 12.98,
+   "text": "Pulse",
+   "estimated": true,
+   "words": [
+    {
+     "t": 12.46,
+     "end": 12.98,
+     "text": "Pulse"
+    }
+   ]
+  },
+  {
+   "t": 13.01,
+   "end": 13.56,
+   "text": "Pulse",
+   "estimated": true,
+   "words": [
+    {
+     "t": 13.01,
+     "end": 13.56,
+     "text": "Pulse"
+    }
+   ]
+  },
+  {
+   "t": 34.14,
+   "end": 35.54,
+   "text": "Pulse",
+   "words": [
+    {
+     "t": 34.14,
+     "end": 35.54,
+     "text": "Pulse"
+    }
+   ]
+  },
+  {
+   "t": 46.46,
+   "end": 48.46,
+   "text": "Electric pressure",
+   "words": [
+    {
+     "t": 46.46,
+     "end": 47.66,
+     "text": "Electric"
+    },
+    {
+     "t": 47.66,
+     "end": 48.46,
+     "text": "pressure"
+    }
+   ]
+  },
+  {
+   "t": 51.28,
+   "end": 52.68,
+   "text": "Higher",
+   "words": [
+    {
+     "t": 51.28,
+     "end": 52.68,
+     "text": "Higher"
+    }
+   ]
+  },
+  {
+   "t": 53.22,
+   "end": 54.19,
+   "text": "Higher",
+   "words": [
+    {
+     "t": 53.22,
+     "end": 54.19,
+     "text": "Higher"
+    }
+   ]
+  },
+  {
+   "t": 54.22,
+   "end": 54.77,
+   "text": "Break",
+   "estimated": true,
+   "words": [
+    {
+     "t": 54.22,
+     "end": 54.77,
+     "text": "Break"
+    }
+   ]
+  },
+  {
+   "t": 54.8,
+   "end": 56.8,
+   "text": "the circuit",
+   "words": [
+    {
+     "t": 54.8,
+     "end": 55.4,
+     "text": "the"
+    },
+    {
+     "t": 55.4,
+     "end": 56.8,
+     "text": "circuit"
+    }
+   ]
+  },
+  {
+   "t": 57.68,
+   "end": 58.62,
+   "text": "Now",
+   "words": [
+    {
+     "t": 57.68,
+     "end": 58.62,
+     "text": "Now"
+    }
+   ]
+  },
+  {
+   "t": 58.62,
+   "end": 60.86,
+   "text": "Digital storm",
+   "words": [
+    {
+     "t": 58.62,
+     "end": 60.3,
+     "text": "Digital"
+    },
+    {
+     "t": 60.3,
+     "end": 60.86,
+     "text": "storm"
+    }
+   ]
+  },
+  {
+   "t": 60.86,
+   "end": 63.12,
+   "text": "Crash the system",
+   "words": [
+    {
+     "t": 60.86,
+     "end": 62.3,
+     "text": "Crash"
+    },
+    {
+     "t": 62.3,
+     "end": 62.62,
+     "text": "the"
+    },
+    {
+     "t": 62.62,
+     "end": 63.12,
+     "text": "system"
+    }
+   ]
+  },
+  {
+   "t": 63.12,
+   "end": 65.32,
+   "text": "Digital storm",
+   "words": [
+    {
+     "t": 63.12,
+     "end": 64.62,
+     "text": "Digital"
+    },
+    {
+     "t": 64.62,
+     "end": 65.32,
+     "text": "storm"
+    }
+   ]
+  },
+  {
+   "t": 65.32,
+   "end": 66.508,
+   "text": "Overload",
+   "words": [
+    {
+     "t": 65.32,
+     "end": 66.508,
+     "text": "Overload"
+    }
+   ]
+  },
+  {
+   "t": 66.508,
+   "end": 67.22,
+   "text": "Go",
+   "words": [
+    {
+     "t": 66.508,
+     "end": 67.22,
+     "text": "Go"
+    }
+   ]
+  },
+  {
+   "t": 69.4,
+   "end": 70.76,
+   "text": "Go",
+   "words": [
+    {
+     "t": 69.4,
+     "end": 70.76,
+     "text": "Go"
+    }
+   ]
+  },
+  {
+   "t": 70.84,
+   "end": 71.19,
+   "text": "Go",
+   "words": [
+    {
+     "t": 70.84,
+     "end": 71.19,
+     "text": "Go"
+    }
+   ]
+  },
+  {
+   "t": 71.22,
+   "end": 71.35,
+   "text": "Break",
+   "estimated": true,
+   "words": [
+    {
+     "t": 71.22,
+     "end": 71.35,
+     "text": "Break"
+    }
+   ]
+  },
+  {
+   "t": 71.37,
+   "end": 72.58,
+   "text": "it down",
+   "words": [
+    {
+     "t": 71.37,
+     "end": 71.773,
+     "text": "it"
+    },
+    {
+     "t": 71.773,
+     "end": 72.58,
+     "text": "down"
+    }
+   ]
+  },
+  {
+   "t": 72.78,
+   "end": 74.78,
+   "text": "Signal",
+   "words": [
+    {
+     "t": 72.78,
+     "end": 74.78,
+     "text": "Signal"
+    }
+   ]
+  },
+  {
+   "t": 75.36,
+   "end": 77.1,
+   "text": "Signal",
+   "words": [
+    {
+     "t": 75.36,
+     "end": 77.1,
+     "text": "Signal"
+    }
+   ]
+  },
+  {
+   "t": 91.52,
+   "end": 93.04,
+   "text": "Lost in the frequency",
+   "words": [
+    {
+     "t": 91.52,
+     "end": 92.28,
+     "text": "Lost"
+    },
+    {
+     "t": 92.28,
+     "end": 92.448,
+     "text": "in"
+    },
+    {
+     "t": 92.448,
+     "end": 92.7,
+     "text": "the"
+    },
+    {
+     "t": 92.7,
+     "end": 93.04,
+     "text": "frequency"
+    }
+   ]
+  },
+  {
+   "t": 93.04,
+   "end": 94.72,
+   "text": "Signal",
+   "words": [
+    {
+     "t": 93.04,
+     "end": 94.72,
+     "text": "Signal"
+    }
+   ]
+  },
+  {
+   "t": 95.0,
+   "end": 95.4,
+   "text": "Signal",
+   "words": [
+    {
+     "t": 95.0,
+     "end": 95.4,
+     "text": "Signal"
+    }
+   ]
+  },
+  {
+   "t": 95.4,
+   "end": 96.8,
+   "text": "Ride the electricity",
+   "words": [
+    {
+     "t": 95.4,
+     "end": 96.12,
+     "text": "Ride"
+    },
+    {
+     "t": 96.12,
+     "end": 96.24,
+     "text": "the"
+    },
+    {
+     "t": 96.24,
+     "end": 96.8,
+     "text": "electricity"
+    }
+   ]
+  },
+  {
+   "t": 96.8,
+   "end": 97.62,
+   "text": "One",
+   "estimated": true,
+   "words": [
+    {
+     "t": 96.8,
+     "end": 97.62,
+     "text": "One"
+    }
+   ]
+  },
+  {
+   "t": 98.61,
+   "end": 99.13,
+   "text": "Two",
+   "estimated": true,
+   "words": [
+    {
+     "t": 98.61,
+     "end": 99.13,
+     "text": "Two"
+    }
+   ]
+  },
+  {
+   "t": 99.16,
+   "end": 99.71,
+   "text": "Three",
+   "estimated": true,
+   "words": [
+    {
+     "t": 99.16,
+     "end": 99.71,
+     "text": "Three"
+    }
+   ]
+  },
+  {
+   "t": 110.077,
+   "end": 111.614,
+   "text": "Power up",
+   "words": [
+    {
+     "t": 110.077,
+     "end": 111.23,
+     "text": "Power"
+    },
+    {
+     "t": 111.23,
+     "end": 111.614,
+     "text": "up"
+    }
+   ]
+  },
+  {
+   "t": 111.614,
+   "end": 111.99,
+   "text": "One",
+   "estimated": true,
+   "words": [
+    {
+     "t": 111.614,
+     "end": 111.99,
+     "text": "One"
+    }
+   ]
+  },
+  {
+   "t": 113.77,
+   "end": 114.29,
+   "text": "Two",
+   "estimated": true,
+   "words": [
+    {
+     "t": 113.77,
+     "end": 114.29,
+     "text": "Two"
+    }
+   ]
+  },
+  {
+   "t": 114.32,
+   "end": 114.87,
+   "text": "Three",
+   "estimated": true,
+   "words": [
+    {
+     "t": 114.32,
+     "end": 114.87,
+     "text": "Three"
+    }
+   ]
+  },
+  {
+   "t": 115.58,
+   "end": 116.24,
+   "text": "Maximum",
+   "words": [
+    {
+     "t": 115.58,
+     "end": 116.24,
+     "text": "Maximum"
+    }
+   ]
+  },
+  {
+   "t": 116.24,
+   "end": 116.78,
+   "text": "Ready",
+   "words": [
+    {
+     "t": 116.24,
+     "end": 116.78,
+     "text": "Ready"
+    }
+   ]
+  },
+  {
+   "t": 117.9,
+   "end": 118.45,
+   "text": "Drop",
+   "estimated": true,
+   "words": [
+    {
+     "t": 117.9,
+     "end": 118.45,
+     "text": "Drop"
+    }
+   ]
+  },
+  {
+   "t": 134.84,
+   "end": 136.63,
+   "text": "Digital storm",
+   "words": [
+    {
+     "t": 134.84,
+     "end": 135.89,
+     "text": "Digital"
+    },
+    {
+     "t": 135.89,
+     "end": 136.63,
+     "text": "storm"
+    }
+   ]
+  },
+  {
+   "t": 137.452,
+   "end": 138.352,
+   "text": "Overdrive",
+   "words": [
+    {
+     "t": 137.452,
+     "end": 138.352,
+     "text": "Overdrive"
+    }
+   ]
+  },
+  {
+   "t": 139.77,
+   "end": 142.65,
+   "text": "Digital storm",
+   "words": [
+    {
+     "t": 139.77,
+     "end": 141.93,
+     "text": "Digital"
+    },
+    {
+     "t": 141.93,
+     "end": 142.65,
+     "text": "storm"
+    }
+   ]
+  },
+  {
+   "t": 144.44,
+   "end": 146.44,
+   "text": "Feel alive",
+   "words": [
+    {
+     "t": 144.44,
+     "end": 145.329,
+     "text": "Feel"
+    },
+    {
+     "t": 145.329,
+     "end": 146.44,
+     "text": "alive"
+    }
+   ]
+  },
+  {
+   "t": 146.7,
+   "end": 147.28,
+   "text": "Push it",
+   "estimated": true,
+   "words": [
+    {
+     "t": 146.7,
+     "end": 147.1,
+     "text": "Push"
+    },
+    {
+     "t": 147.1,
+     "end": 147.28,
+     "text": "it"
+    }
+   ]
+  },
+  {
+   "t": 147.3,
+   "end": 147.82,
+   "text": "Push it",
+   "estimated": true,
+   "words": [
+    {
+     "t": 147.3,
+     "end": 147.69,
+     "text": "Push"
+    },
+    {
+     "t": 147.69,
+     "end": 147.82,
+     "text": "it"
+    }
+   ]
+  },
+  {
+   "t": 149.27,
+   "end": 150.75,
+   "text": "Faster now",
+   "estimated": true,
+   "words": [
+    {
+     "t": 149.27,
+     "end": 150.17,
+     "text": "Faster"
+    },
+    {
+     "t": 150.17,
+     "end": 150.75,
+     "text": "now"
+    }
+   ]
+  },
+  {
+   "t": 151.05,
+   "end": 152.19,
+   "text": "No control",
+   "words": [
+    {
+     "t": 151.05,
+     "end": 151.49,
+     "text": "No"
+    },
+    {
+     "t": 151.49,
+     "end": 152.19,
+     "text": "control"
+    }
+   ]
+  },
+  {
+   "t": 152.43,
+   "end": 153.94,
+   "text": "No way out",
+   "words": [
+    {
+     "t": 152.43,
+     "end": 152.67,
+     "text": "No"
+    },
+    {
+     "t": 152.67,
+     "end": 153.33,
+     "text": "way"
+    },
+    {
+     "t": 153.33,
+     "end": 153.94,
+     "text": "out"
+    }
+   ]
+  },
+  {
+   "t": 154.01,
+   "end": 155.3,
+   "text": "Digital storm",
+   "words": [
+    {
+     "t": 154.01,
+     "end": 154.69,
+     "text": "Digital"
+    },
+    {
+     "t": 154.69,
+     "end": 155.3,
+     "text": "storm"
+    }
+   ]
+  },
+  {
+   "t": 155.65,
+   "end": 156.99,
+   "text": "System failure",
+   "words": [
+    {
+     "t": 155.65,
+     "end": 156.27,
+     "text": "System"
+    },
+    {
+     "t": 156.27,
+     "end": 156.99,
+     "text": "failure"
+    }
+   ]
+  },
+  {
+   "t": 158.59,
+   "end": 160.71,
+   "text": "Restart",
+   "words": [
+    {
+     "t": 158.59,
+     "end": 160.71,
+     "text": "Restart"
+    }
+   ]
+  }
+ ],
+ "resyncNote": "align-lyrics.py: 보컬 스템 faster-whisper large-v3 받아쓰기와 글자 단위로 맞춘 뒤 단어 시작을 보컬 소리 시작(±0.08초)에 붙임. 모든 줄에 단어 시각."
+}
