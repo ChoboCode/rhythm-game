@@ -1606,7 +1606,7 @@ code {
 /* 넓은 화면에서 음반 정보와 함께 보이는 가사 */
 .gameLyricsPanel { flex: none; min-height: clamp(116px,14vh,150px); padding: 9px 14px; border: 1px solid rgba(42,115,217,.4); background: linear-gradient(160deg,#0d1f3d,#071227); box-shadow: inset 0 0 16px rgba(8,20,45,.6); text-align: center; display: grid; grid-template-rows: 1fr auto 1fr; align-items: center; gap: 2px; overflow: hidden; }
 .gameLyricsPanel.hidden { display: none; }
-.gameLyricsPrev, .gameLyricsNext { margin: 0; min-width: 0; color: #88a7c9; font: 600 clamp(11px,1vw,15px) system-ui, "맑은 고딕", "Malgun Gothic", sans-serif; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gameLyricsPrev, .gameLyricsNext { margin: 0; min-width: 0; color: #88a7c9; font: 600 clamp(11px,1vw,15px) system-ui, "맑은 고딕", "Malgun Gothic", sans-serif; overflow: visible; white-space: normal; overflow-wrap: anywhere; line-height: 1.1; }
 .gameLyricsPrev { color: #7791ad; }
 .gameLyricsNow { margin: 0; min-width: 0; min-height: 1.5em; padding: 5px 4px; overflow: visible; white-space: normal; background: linear-gradient(90deg,transparent,rgba(37,112,186,.18) 18%,rgba(42,123,200,.25) 50%,rgba(37,112,186,.18) 82%,transparent); font: 800 clamp(16px,1.48vw,23px) system-ui, "맑은 고딕", "Malgun Gothic", sans-serif; }
 .gameLyricsNow .karaokeBase { color: #e2f2ff; }
@@ -1767,10 +1767,10 @@ code {
   position: relative; min-height: clamp(132px,17vh,174px); margin: 12px 0 4px; padding: 10px 4px 8px;
   border: 0; border-top: 1px solid rgba(132,187,239,.23); border-bottom: 1px solid rgba(132,187,239,.23); border-radius: 0;
   background: linear-gradient(90deg,transparent,rgba(77,153,225,.075) 50%,transparent); box-shadow: none;
-  gap: 0; overflow: visible;
+  grid-template-rows: auto auto auto; align-content: center; gap: 4px; overflow: visible;
 }
 .gameLyricsPanel::before { content: "♪"; position: absolute; top: -8px; left: 50%; transform: translateX(-50%); padding: 0 9px; color: #88c4ed; background: #0b203b; font-size: 13px; line-height: 1; }
-.gameTrackDetails .gameLyricsPanel p { margin: 0; }
+.gameTrackDetails .gameLyricsPanel p { margin: 0; overflow: visible; white-space: normal; text-overflow: clip; overflow-wrap: anywhere; }
 .gameTrackDetails .gameLyricsPrev, .gameTrackDetails .gameLyricsNext { color: #85a8c9; font: 400 clamp(17px,1.28vw,21px) "Nanum Pen Script","맑은 고딕",cursive; letter-spacing: .015em; }
 .gameTrackDetails .gameLyricsPrev { color: #7798b9; }
 .gameTrackDetails .gameLyricsNow { min-height: 1.4em; padding: 2px 4px; background: none; font: 400 clamp(26px,2.1vw,35px) "Nanum Pen Script","맑은 고딕",cursive; letter-spacing: .018em; }
@@ -2059,6 +2059,7 @@ code {
       <div class="row">
         <button type="button" class="btn ghost" id="btnLyricsBack">돌아가기</button>
         <button type="button" class="btn" id="btnLyricsSync">노래 들으며 싱크 맞추기</button>
+        <button type="button" class="btn ghost" id="btnLyricsCheck">한 줄씩 황금빛 점검</button>
       </div>
 
       <div class="hidden" id="lyricsSyncBox">
@@ -4117,6 +4118,18 @@ const Game = (function () {
     try {
       const raw = localStorage.getItem(STORE);
       if (raw) Object.assign(prefs, JSON.parse(raw));
+      let removedRecord = false;
+      Object.keys(prefs.best || {}).forEach(function (key) {
+        if (key.startsWith('Bite Runner|')) { delete prefs.best[key]; removedRecord = true; }
+      });
+      for (let i = localStorage.length - 1; i >= 0; i--) {
+        const key = localStorage.key(i);
+        if (/^(?:chart\d+|lyrics\d+)\|Bite Runner(?:\||_3_18\.mp3:|$)/.test(key) ||
+            key === 'seven-lane-lyrics-check-v1:Bite Runner_3_18.lyrics.json') {
+          localStorage.removeItem(key);
+        }
+      }
+      if (removedRecord) savePrefs();
     } catch (e) { /* 저장소를 못 쓰는 환경이면 기본값으로 진행한다 */ }
   }
   function savePrefs() {
@@ -7485,7 +7498,7 @@ const Game = (function () {
   }
 
   function waitForInitialVisuals() {
-    /* 지금 보이는 디스크 다섯 장과 시작 버튼만 기다린다. 33곡 전체를 기다리지는 않는다. */
+    /* 지금 보이는 디스크 다섯 장과 시작 버튼만 기다린다. 등록 곡 전체를 기다리지는 않는다. */
     const visible = Array.from($('songList').children).filter(function (li) {
       return Math.abs(Number(li.dataset.pos)) <= 2;
     });
@@ -7642,6 +7655,10 @@ const Game = (function () {
     $('btnVisPlus').addEventListener('click', function () { bumpVisual(5); });
     $('btnLyrics').addEventListener('click', openLyricsEditor);
     $('btnLyricsBack').addEventListener('click', closeLyricsEditor);
+    $('btnLyricsCheck').addEventListener('click', function () {
+      const query = S.selected ? '?song=' + encodeURIComponent(S.selected.title) : '';
+      window.open('lyrics-check.html' + query, '_blank', 'noopener');
+    });
     $('btnLyricsSync').addEventListener('click', startLyricsSync);
     $('btnLyricsTap').addEventListener('click', tapLyricsSync);
     $('btnLyricsSyncRestart').addEventListener('click', restartLyricsSync);

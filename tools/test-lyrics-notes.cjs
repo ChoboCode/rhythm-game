@@ -12,7 +12,7 @@ for (const song of songs) {
   if (!song.lyrics) continue;
   const lyr = JSON.parse(fs.readFileSync(path.join(root, 'songs', song.lyrics), 'utf8'));
   const lines = lyr.lines.filter(l => (l.text || '').trim());
-  assert.equal(lyr.timing, 'vocal-aligned-v2', song.title + ': lyrics aligned to the vocals (tools/align-lyrics.py)');
+  assert(['vocal-aligned-v2', 'vocal-aligned-v3'].includes(lyr.timing), song.title + ': lyrics aligned to the vocals');
   let prev = -Infinity;
   for (const l of lines) {
     assert(Array.isArray(l.words) && l.words.length, song.title + ': every line has word times — "' + l.text + '"');

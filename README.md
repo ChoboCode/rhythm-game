@@ -23,6 +23,14 @@ HTML·CSS·JS 코드는 `index.html` 한 파일에 있습니다. 전체 게임�
 `rhythm-game/` 폴더에서 `python -m http.server 8765`를 실행한 뒤
 브라우저에서 `http://localhost:8765/`를 엽니다.
 
+가사 황금빛 싱크를 확인하려면 같은 서버에서 [`lyrics-check.html`](lyrics-check.html)을 엽니다.
+게임의 **가사 자막 만들기 → 한 줄씩 황금빛 점검**에서도 선택한 곡으로 열 수 있습니다.
+0.5배부터 느리게 재생하며 **어절 또는 음절**을 고르고, 들리는 시작마다 Space나 큰 버튼을 순서대로 누릅니다. 마지막 탭은 줄 끝입니다.
+찍은 시각을 적용하기 전에 원래 황금빛과 새 황금빛을 같은 음악 시각으로 비교할 수 있고, 적용 뒤에도 전후 비교와 되돌리기가 가능합니다.
+한 줄 반복 재생, 원곡/보컬·악기 강조 듣기, 숫자로 세밀 조정, 어긋남 표시와 메모도 지원합니다.
+수정 내용은 브라우저에 임시 저장되며, **보고서 복사** 또는 **점검 기록/수정 가사 JSON 받기**로 전달할 수 있습니다.
+내려받은 가사는 게임 파일에 자동 적용되지 않습니다.
+
 1. 목록에서 등록된 곡을 고르고 난이도와 키 모드를 선택한 뒤 시작합니다.
 2. 소리와 노트가 어긋나면 **[싱크 보정]** 을 먼저 하세요. 보정은 두 가지입니다.
    - **입력 보정**: 딱 소리에 맞춰 8번 두드리면 자동으로 맞춰집니다(판정 기준).
@@ -103,6 +111,11 @@ HARD의 일부 지속 리드 구간은 분리한 반주 신호의 시작과 지�
 `오늘부터 우리`의 반복 후렴은 `fill-our-chorus.py`로 빠진 보컬 음과 182초대 가사 시각을 추가 보정했습니다.
 `우리 마을 축제`는 `refine-village-festival.py`로 두 번의 `주인공` 끝 음절에 롱노트를 넣고 간주의 빈 박을 일부 보강했습니다.
 `War` 중간의 현악기처럼 들리는 선율은 `refine-war-strings.py`로 음높이 진행과 지속음에 맞춰 보강했습니다.
+`Stay with me`의 반복 보컬은 `refine-stay-vocals.py`로 음절별 노트와 가사 시각을 보정하고 쉬어가기를 제거했습니다.
+`My Cocktail`은 `refine-my-cocktail-piano.py`로 피아노 계열 타건을 보강하고 쉬어가기를 제거했습니다.
+`Break It Down`은 `refine-break-melody.py`로 보컬·악기 선율 노트를 보강하고 마지막 세 번의 몰아치기만 남겼습니다.
+`Last Stage` 후렴의 압축되거나 앞선 가사 시각은 `refine-last-stage-lyrics.py`로 수정했습니다.
+각 곡 도입은 `refine-song-intros.py`로 실제 악기 타격이 있으나 빠져 있던 노트를 소량 보강했습니다.
 등록곡의 건반 소리 분석값은 `python tools/build-keysound-profiles.py --write` 와
 `python tools/build-sound-flow.py --stems <htdemucs 출력의 htdemucs 폴더> --write` 로 갱신합니다.
 후자는 Demucs로 각 곡의 `drums` 성분을 먼저 분리해야 합니다

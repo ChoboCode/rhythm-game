@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>가사 황금빛 싱크 점검 · SEVEN LANE</title>
+<style>
+  :root { color-scheme: dark; --bg:#07111f; --panel:#102039; --panel2:#0c192d; --line:#294463;
+    --text:#edf6ff; --dim:#a9c0d9; --gold:#ffe392; --blue:#70c7ff; --bad:#ff9c95; --good:#78ddb8; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:radial-gradient(circle at 50% -18%,#163a61,#07111f 55%); color:var(--text);
+    font:15px/1.45 system-ui,'Malgun Gothic',sans-serif; }
+  a { color:var(--blue); }
+  button,select,input,textarea { font:inherit; }
+  button,select,input[type=number],textarea { border:1px solid var(--line); border-radius:9px;
+    background:#0a172b; color:var(--text); }
+  button { min-height:40px; padding:7px 12px; cursor:pointer; }
+  button:hover:not(:disabled) { border-color:var(--blue); background:#173352; }
+  button:disabled { opacity:.45; cursor:not-allowed; }
+  button.primary { background:var(--gold); color:#30220c; border-color:var(--gold); font-weight:800; }
+  button.primary:hover:not(:disabled) { background:#fff0bc; }
+  button.selected,button[aria-pressed=true] { border-color:var(--gold); background:#35402e; }
+  button.danger { border-color:#78484d; }
+  :focus-visible { outline:2px solid var(--gold); outline-offset:2px; }
+  header { max-width:1500px; margin:auto; padding:22px 22px 8px; }
+  header h1 { font-size:clamp(23px,2.5vw,34px); margin:0; letter-spacing:-.03em; }
+  header p { color:var(--dim); margin:6px 0; }
+  .topline { display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px; align-items:center; }
+  .topline a { font-size:13px; }
+  .toolbar { display:flex; flex-wrap:wrap; gap:10px; align-items:end; margin:15px 0 5px; }
+  label { display:grid; gap:5px; color:var(--dim); font-size:13px; }
+  select,input[type=number] { min-height:40px; padding:7px 10px; }
+  #songSelect { min-width:min(310px,90vw); max-width:100%; }
+  main { max-width:1500px; margin:auto; padding:10px 22px 30px; display:grid; grid-template-columns:minmax(260px,360px) minmax(0,1fr); gap:14px; }
+  @media (max-width:860px) { main { grid-template-columns:1fr; } }
+  .panel { min-width:0; border:1px solid var(--line); border-radius:14px; background:rgba(16,32,57,.95); padding:16px; }
+  h2 { font-size:18px; margin:0 0 10px; }
+  h3 { font-size:15px; margin:16px 0 8px; }
+  .hint { color:var(--dim); font-size:13px; }
+  .row { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:9px 0; }
+  .row > label { min-width:95px; }
+  .row input[type=number] { width:105px; }
+  #searchLines { width:100%; padding:10px; min-height:40px; }
+  #lineList { display:grid; gap:5px; max-height:min(74vh,900px); overflow:auto; padding-right:4px; margin-top:10px; }
+  .lineItem { width:100%; display:grid; grid-template-columns:42px 1fr auto; gap:9px; text-align:left; align-items:start;
+    min-height:55px; padding:8px; border-color:transparent; background:var(--panel2); }
+  .lineItem.selected { border-color:var(--gold); background:#283347; }
+  .lineItem .lineNo { color:var(--blue); font-variant-numeric:tabular-nums; }
+  .lineItem .lyric { overflow-wrap:anywhere; }
+  .lineItem small { display:block; color:var(--dim); font-size:11px; margin-top:3px; }
+  .badge { font-size:11px; white-space:nowrap; color:var(--gold); }
+  .preview { border:1px solid #3a5d7e; border-radius:12px; padding:12px; text-align:center;
+    background:linear-gradient(120deg,#0a1830,#112d4d,#0a1830); min-height:138px;
+    display:grid; align-content:center; gap:4px; }
+  .preview .side { color:#91aac6; overflow-wrap:anywhere; }
+  .preview .now { font-size:clamp(21px,2.6vw,34px); min-height:1.35em; line-height:1.2; overflow-wrap:anywhere; }
+  .karaokeText { position:relative; display:inline-grid; width:100%; max-width:100%; vertical-align:middle; }
+  .karaokeText > span { grid-area:1/1; min-width:0; white-space:normal; overflow-wrap:anywhere; }
+  .karaokeBase { color:#d4e4f6; }
+  .karaokeFill { color:var(--gold); text-shadow:0 0 9px #ffc45a8c; clip-path:inset(0 calc(100% - var(--karaoke-progress,0%)) 0 0); }
+  .karaokeFill.timedWords { clip-path:none; }
+  .karaokePiece { display:inline-block; white-space:pre; }
+  .karaokeFill.timedWords .karaokePiece { clip-path:inset(0 calc(100% - var(--word-progress,0%)) 0 0); }
+  #gameState { margin:8px 0; color:var(--dim); font-size:13px; }
+  #scrub { flex:1; min-width:150px; }
+  .clock { font-variant-numeric:tabular-nums; min-width:112px; text-align:right; }
+  .wavePanel { margin-top:14px; border:1px solid #3a5d7e; border-radius:12px; padding:12px; background:#0a1a31; }
+  .wavePanel h3 { margin:0 0 5px; font-size:17px; }
+  #waveCanvas { display:block; width:100%; height:190px; border:1px solid var(--line); border-radius:8px;
+    background:#071324; cursor:crosshair; touch-action:none; }
+  #wavePan { flex:1; min-width:110px; }
+  .waveLegend { display:flex; flex-wrap:wrap; gap:5px 14px; margin:8px 0 0; color:var(--dim); font-size:12px; }
+  .waveLegend span::before { content:''; display:inline-block; width:8px; height:8px; border-radius:2px;
+    background:var(--dot); margin-right:5px; }
+  #waveStatus { min-height:1.4em; margin:5px 0; color:var(--dim); font-size:12px; }
+  .unitList { display:flex; flex-wrap:wrap; gap:6px; align-items:start; margin:10px 0; }
+  .unit { display:grid; gap:2px; min-height:58px; min-width:54px; padding:5px 8px; text-align:center; }
+  .unit b { font-size:16px; }
+  .unit small { font-size:11px; color:var(--dim); font-variant-numeric:tabular-nums; }
+  .unit.issue { border-color:var(--bad); }
+  .unit.current { box-shadow:inset 0 -3px 0 var(--gold); }
+  .unit.selected { outline:2px solid var(--gold); }
+  .tapPanel { border:1px solid #45678b; border-radius:12px; background:#112846; padding:14px; margin-top:16px; }
+  .tapPanel h3 { margin:0 0 7px; font-size:17px; }
+  .tapTarget { font-size:20px; font-weight:800; color:var(--gold); min-height:1.4em; overflow-wrap:anywhere; }
+  .tapSequence { display:flex; flex-wrap:wrap; gap:6px; margin:10px 0; }
+  .tapChip { display:grid; gap:2px; min-width:46px; padding:5px 8px; border:1px solid var(--line); border-radius:8px; background:#0a172b; text-align:center; }
+  .tapChip.done { border-color:var(--good); color:var(--good); }
+  .tapChip.next { border-color:var(--gold); background:#35402e; }
+  .tapChip small { color:var(--dim); font-size:11px; font-variant-numeric:tabular-nums; }
+  .compareGrid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:9px; }
+  .compareCard { border:1px solid var(--line); border-radius:10px; padding:10px; background:#0a172b; min-width:0; }
+  .compareCard h4 { margin:0 0 8px; color:var(--dim); font-size:13px; }
+  .compareCard .now { font-size:clamp(17px,2vw,25px); line-height:1.25; min-height:2.5em; overflow-wrap:anywhere; }
+  #compareDiff { max-height:190px; overflow:auto; margin-top:10px; display:flex; flex-wrap:wrap; gap:6px; }
+  .timeDiff { border:1px solid var(--line); border-radius:8px; padding:5px 8px; font-size:12px; font-variant-numeric:tabular-nums; }
+  .timeDiff b { color:var(--gold); }
+  .manualDetails summary { cursor:pointer; font-weight:700; padding:4px 0; }
+  .manualDetails > .hint { margin-top:8px; }
+  [hidden] { display:none !important; }
+  .split { border-top:1px solid var(--line); margin:16px 0 0; padding-top:2px; }
+  #memo { width:100%; min-height:70px; padding:9px; resize:vertical; }
+  #report { width:100%; min-height:150px; padding:10px; resize:vertical; font-size:12px; }
+  #status { min-height:1.4em; color:var(--dim); font-size:13px; }
+  #status.error { color:var(--bad); }
+  .count { color:var(--dim); font-size:13px; }
+  .visuallyHidden { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden;
+    clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+  @media (max-width:860px) { #lineList { max-height:250px; } }
+  @media (max-width:540px) { .compareGrid { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="topline"><h1>가사 황금빛 싱크 점검</h1><a href="index.html">← 게임으로 돌아가기</a></div>
+  <p>노래를 느리게 들으며 어절·음절의 시작을 순서대로 찍고, 마지막에 줄 끝을 찍으세요. 적용 전후의 황금빛 진행을 같은 음악 시각에 비교할 수 있습니다. 게임 파일은 바뀌지 않습니다.</p>
+  <div class="toolbar">
+    <label>곡 선택 <select id="songSelect" aria-label="곡 선택"><option>불러오는 중…</option></select></label>
+    <label>듣기 <select id="audioPart"><option value="original">원곡</option><option value="melody">보컬·악기 강조</option></select></label>
+    <label>재생 속도 <select id="speed"><option value="0.5">0.5배</option><option value="0.65">0.65배</option><option value="0.75" selected>0.75배</option><option value="1">1배</option><option value="1.25">1.25배</option></select></label>
+    <span class="hint" id="loadInfo" role="status">곡을 고르세요.</span>
+  </div>
+</header>
+<main>
+  <aside class="panel" aria-label="가사 줄 목록">
+    <h2>가사 한 줄씩 <span class="count" id="reviewCount"></span></h2>
+    <input id="searchLines" type="search" placeholder="가사나 줄 번호 검색" aria-label="가사 검색">
+    <label class="row"><input id="onlyIssues" type="checkbox"> 어긋남 표시한 줄만</label>
+    <div id="lineList"></div>
+  </aside>
+  <section class="panel" aria-label="가사 검증과 수정">
+    <h2 id="lineHeading">가사 줄을 선택하세요</h2>
+    <div class="preview" aria-label="게임과 같은 황금빛 채우기">
+      <div class="side" id="prevLyric"></div>
+      <div class="now" id="karaokeNow"><span class="karaokeText"><span class="karaokeBase"></span><span class="karaokeFill" aria-hidden="true"></span></span></div>
+      <div class="side" id="nextLyric"></div>
+    </div>
+    <p id="gameState">현재 음악 시각에 게임에서 표시될 줄을 보여 줍니다.</p>
+    <div class="row">
+      <button id="prevLine" type="button" aria-label="이전 줄">◀ 이전</button>
+      <button id="playLine" type="button" class="primary">▶ 이 줄 듣기</button>
+      <button id="pause" type="button">일시정지</button>
+      <button id="nextLine" type="button" aria-label="다음 줄">다음 ▶</button>
+      <button id="loop" type="button" aria-pressed="false">한 줄 반복 끔</button>
+      <button id="playFull" type="button">여기부터 계속 듣기</button>
+      <button id="focusCurrent" type="button">지금 부르는 줄 선택</button>
+    </div>
+    <div class="row"><button id="back5" type="button">−5초</button><input id="scrub" type="range" min="0" max="1" step="0.01" value="0" aria-label="노래 위치"><button id="forward5" type="button">+5초</button><span class="clock" id="clock">0:00.00</span></div>
+    <p class="hint">줄을 고르면 시작 1.5초 전부터 들립니다. 단어를 누르면 그 단어 0.6초 전으로 이동합니다. ←/→는 이전/다음 줄입니다.</p>
+
+    <div class="wavePanel" aria-label="선택한 가사 줄의 음원 파형">
+      <h3>가사 타이밍 파형 <span class="count" id="waveCursor"></span></h3>
+      <div class="row">
+        <button id="loadWave" type="button">파형 불러오기</button>
+        <label>확대 <select id="waveZoom"><option value="1">줄 전체</option><option value="2">2배</option><option value="4">4배</option><option value="8">8배</option></select></label>
+        <label style="flex:1;min-width:130px">위치 <input id="wavePan" type="range" min="0" max="100" value="50" aria-label="파형 좌우 이동"></label>
+      </div>
+      <canvas id="waveCanvas" width="900" height="190" tabindex="0" role="slider" aria-label="파형 시각 선택" aria-valuemin="0" aria-valuemax="1" aria-valuenow="0"></canvas>
+      <div class="waveLegend">
+        <span style="--dot:#76c8ff">기존 가사 시각</span><span style="--dot:#ffe392">수정안 시각</span>
+        <span style="--dot:#78ddb8">찍은 시각</span><span style="--dot:#ffffff">재생 위치</span>
+      </div>
+      <p id="waveStatus" role="status">파형을 불러오거나 이 줄 듣기를 누르세요. 파형 클릭은 이동, 순서대로 찍는 중에는 다음 가사 시각 기록입니다.</p>
+    </div>
+
+    <div class="tapPanel">
+      <h3>들리는 순간에 가사 맞추기</h3>
+      <p class="hint">재생 중 가사가 들릴 때마다 Space 또는 아래 큰 버튼을 누르세요. 각 탭은 표시된 가사의 <strong>시작</strong>, 마지막 탭은 <strong>줄 끝</strong>입니다. 적용 전에는 원본 가사 시각이 바뀌지 않습니다.</p>
+      <div class="row">
+        <label>찍기 단위 <select id="tapGranularity"><option value="words">어절</option><option value="syllables">음절</option></select></label>
+        <button id="startTaps" type="button">▶ 처음부터 찍기</button>
+        <button id="undoTap" type="button" disabled>마지막 탭 취소</button>
+      </div>
+      <div id="tapTarget" class="tapTarget" role="status">찍기 단위를 고르고 시작하세요.</div>
+      <div id="tapSequence" class="tapSequence" aria-label="순서대로 찍을 가사"></div>
+      <div class="row">
+        <button id="captureTap" type="button" class="primary" disabled>지금 들린 가사 찍기 · Space</button>
+        <button id="applyTaps" type="button" disabled>찍은 시각 적용</button>
+      </div>
+      <p class="hint" id="tapHelp">탭 시각은 음악의 원래 재생 시각으로 기록됩니다. 느린 배속에서도 보정할 필요가 없습니다.</p>
+    </div>
+
+    <div id="comparePanel" class="split" hidden>
+      <h3>황금빛 전후 비교 <span class="count" id="compareStatus"></span></h3>
+      <p class="hint">두 칸은 같은 음악 시각을 따라갑니다. 아래 시각 차이를 누르면 그 가사 직전으로 이동합니다.</p>
+      <div class="compareGrid">
+        <div class="compareCard"><h4>적용 전</h4><div class="now" id="compareBefore"><span class="karaokeText"><span class="karaokeBase"></span><span class="karaokeFill" aria-hidden="true"></span></span></div></div>
+        <div class="compareCard"><h4>적용 후</h4><div class="now" id="compareAfter"><span class="karaokeText"><span class="karaokeBase"></span><span class="karaokeFill" aria-hidden="true"></span></span></div></div>
+      </div>
+      <div id="compareDiff" aria-label="가사별 기존 시각과 새 시각"></div>
+      <div class="row"><button id="undoApplied" type="button" disabled>방금 적용 되돌리기</button></div>
+    </div>
+
+    <details class="split manualDetails">
+      <summary>숫자로 더 세밀하게 조정하기 <span class="count" id="lineTimes"></span></summary>
+      <div class="row">
+        <button id="shiftEarlier" type="button">줄 전체 −0.1초</button>
+        <button id="shiftLater" type="button">줄 전체 +0.1초</button>
+        <button id="tapLineStart" type="button">지금 들린 곳을 줄 시작으로</button>
+        <button id="tapLineEnd" type="button">지금 들린 곳을 줄 끝으로</button>
+      </div>
+      <p class="hint">줄 시작은 내부 단어 간격을 유지하며 옮깁니다. 줄 끝은 마지막 단어의 끝만 고칩니다.</p>
+      <h3>단어·음절 시각 <span class="count" id="unitHeading"></span></h3>
+      <button id="splitSyllables" type="button">한글 단어를 음절로 나누기</button>
+      <p class="hint">음절을 만들면 현재 단어 구간에 균등 배치됩니다. 들으면서 각 음절 시작을 다시 찍어 주세요.</p>
+      <div class="unitList" id="unitList" aria-label="단어와 음절 목록"></div>
+      <div class="row">
+        <label>선택 구간 시작 (초)<input id="unitStart" type="number" step="0.01" min="0"></label>
+        <button id="applyStart" type="button">시작 적용</button>
+        <button id="tapUnitStart" type="button">지금 들린 곳을 시작으로</button>
+      </div>
+      <div class="row">
+        <label>선택 구간 끝 (초)<input id="unitEnd" type="number" step="0.01" min="0"></label>
+        <button id="applyEnd" type="button">끝 적용</button>
+        <button id="tapUnitEnd" type="button">지금 들린 곳을 끝으로</button>
+        <button id="unitIssue" type="button" aria-pressed="false">이 구간 어긋남 표시</button>
+      </div>
+      <label>탭 보정 (ms, 들리는 소리에 비해 탭이 늦으면 양수)<input id="tapOffset" type="number" min="-300" max="300" step="5" value="0"></label>
+    </details>
+
+    <div class="split">
+      <h3>이 줄 판정</h3>
+      <div class="row" id="verdicts" role="group" aria-label="이 줄 판정">
+        <button type="button" data-verdict="맞음">맞음</button>
+        <button type="button" data-verdict="황금빛 빠름">황금빛 빠름</button>
+        <button type="button" data-verdict="황금빛 늦음">황금빛 늦음</button>
+        <button type="button" data-verdict="가사 다름">가사 다름</button>
+        <button type="button" data-verdict="확인 필요">확인 필요</button>
+      </div>
+      <label>메모 (예: 두 번째 ‘우리’가 0.3초 빠름)<textarea id="memo"></textarea></label>
+      <p id="status" role="status"></p>
+    </div>
+
+    <div class="split">
+      <h3>수정안 전달</h3>
+      <p class="hint">복사한 보고서를 대화에 붙여 주거나 수정된 가사 JSON을 첨부해 주세요. 검토 후 원본 가사 파일에 반영할 수 있습니다.</p>
+      <textarea id="report" readonly aria-label="점검 보고서"></textarea>
+      <div class="row">
+        <button id="copyReport" type="button" class="primary">보고서 복사</button>
+        <button id="downloadFeedback" type="button">점검 기록 JSON 받기</button>
+        <button id="downloadLyrics" type="button">수정된 가사 JSON 받기</button>
+        <button id="resetSong" type="button" class="danger">이 곡 수정 초기화</button>
+      </div>
+    </div>
+  </section>
+</main>
+<script src="tools/lyrics-check-core.js"></script>
+<script src="tools/lyrics-check-app.js"></script>
+</body>
+</html>

@@ -30,7 +30,6 @@ KEEP = os.path.join(tempfile.gettempdir(), 'rhythm-game-stems', 'keep', 'htdemuc
 SR = 22050
 # 사용자가 고른 곡: 제목 → 종류(시티팝은 조금 덜 떨어져도 쉬어 간다)
 SOFT_SONGS = {
-    'My Cocktail': 'citypop',
     '깊은 밤': 'citypop',
     '폴라로이드 사진': 'citypop',
     '두 사람의 행복을 빌어': 'ballad',

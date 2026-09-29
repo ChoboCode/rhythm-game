@@ -188,8 +188,8 @@ assert.equal(byTitle('입시 스트레스').drops.length + byTitle('입시 스�
 assert.equal(byTitle('My Cocktail').drops.length, 0, 'My Cocktail: no drops (user choice)');
 assert.equal(byTitle('말하지 못한 진심').drops.length, 0, '말하지 못한 진심: no drops (user choice)');
 assert.equal(byTitle('폴라로이드 사진').drops.length, 0, '폴라로이드: no drops (user choice)');
-/* 쉬어가기는 시티팝(My Cocktail·깊은 밤·폴라로이드 사진)과 발라드(두 사람의 행복을 빌어·말하지 못한 진심)의 여려지는 곳에 — 사용자 선택 */
-for (const t of ['My Cocktail', '깊은 밤', '폴라로이드 사진', '두 사람의 행복을 빌어', '말하지 못한 진심']) {
+/* 쉬어가기를 유지하는 시티팝과 발라드의 여린 구간 */
+for (const t of ['깊은 밤', '폴라로이드 사진', '두 사람의 행복을 빌어', '말하지 못한 진심']) {
   const song = byTitle(t);
   assert(song.rests.length >= 1 && song.rests.length <= 2, t + ': one or two rests where it goes soft');
   const chart = JSON.parse(fs.readFileSync(path.join(root, 'songs', song.charts.hard), 'utf8'));
@@ -208,7 +208,8 @@ for (const t of ['My Cocktail', '깊은 밤', '폴라로이드 사진', '두 사
   assert(r.length > 0, 'Bass Control still has its drop');
   for (const x of r) assert(x.phases.every(p => p.a >= 1 && p.b >= 1), 'Bass Control: scroll never goes below normal speed');
 }
-assert.deepEqual(byTitle('Break It Down').drops[1].hits, [167.85, 168.202, 168.584], 'Break It Down 2:47.8: three hits on the user taps / real drum attacks');
+assert.deepEqual(byTitle('My Cocktail').rests, [], 'My Cocktail: user removed every rest to keep the piano rhythm flowing');
+assert.deepEqual(byTitle('Break It Down').drops.map(d => d.hits), [[167.85, 168.202, 168.584]], 'Break It Down: keep only the last three-hit rush');
 assert.deepEqual(byTitle('G_Force').drops[0].hits, [66.427, 66.842, 67.301, 67.727], 'G_Force: "3, 2, 1, Ho!" four hits');
 {
   /* 3=6키, 2=4키(각 손 바깥·안쪽), 1·Ho=2키(각 손 가운데) — 손가락 자리 a s d / j k l */

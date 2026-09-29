@@ -126,7 +126,9 @@ def main():
             original = json.loads((ORIGINAL / name).read_text(encoding='utf-8'))
             kept = [n for n in chart['notes'] if n.get('source') not in
                     ('melody-add-v1', 'interlude-v2', 'vocal-chorus-v1',
-                     'festival-hold-v1', 'festival-fill-v1', 'war-strings-v1')]
+                     'festival-hold-v1', 'festival-fill-v1', 'war-strings-v1',
+                     'stay-vocal-v1', 'cocktail-piano-v1',
+                     'break-lead-v1', 'intro-motif-v1')]
             if kept != original['notes']:
                 problems.append(name + ': original notes changed')
             if chart['noteCount'] != len(chart['notes']):
